@@ -1,0 +1,89 @@
+{
+  "ffmpeg": "C:\\Program Files (x86)\\WonderFox Soft\\WonderFox DVD Video Converter\\Data1\\ffmpeg.exe",
+  "siteDirectory": "D:\\CodingProjects\\taiwanese_recording\\site_publish",
+  "siteSizeBytes": 105051932,
+  "audioSizeBytes": 102965617,
+  "audio": {
+    "converted": 0,
+    "skippedExisting": 1742,
+    "missing": [
+      {
+        "recordingId": "S001-Q04",
+        "legacyPath": "static/wav/recordings/abcd/10.wav"
+      },
+      {
+        "recordingId": "S003-Q01",
+        "legacyPath": "static/wav/recordings/test0002/7.wav"
+      },
+      {
+        "recordingId": "S003-Q02",
+        "legacyPath": "static/wav/recordings/test0002/8.wav"
+      },
+      {
+        "recordingId": "S003-Q03",
+        "legacyPath": "static/wav/recordings/test0002/9.wav"
+      },
+      {
+        "recordingId": "S003-Q04",
+        "legacyPath": "static/wav/recordings/test0002/10.wav"
+      },
+      {
+        "recordingId": "S003-Q05",
+        "legacyPath": "static/wav/recordings/test0002/11.wav"
+      },
+      {
+        "recordingId": "S003-Q06",
+        "legacyPath": "static/wav/recordings/test0002/12.wav"
+      },
+      {
+        "recordingId": "S003-Q07",
+        "legacyPath": "static/wav/recordings/test0002/13.wav"
+      },
+      {
+        "recordingId": "S003-Q08",
+        "legacyPath": "static/wav/recordings/test0002/14.wav"
+      },
+      {
+        "recordingId": "S003-Q09",
+        "legacyPath": "static/wav/recordings/test0002/15.wav"
+      },
+      {
+        "recordingId": "S003-Q10",
+        "legacyPath": "static/wav/recordings/test0002/16.wav"
+      },
+      {
+        "recordingId": "S003-Q11",
+        "legacyPath": "static/wav/recordings/test0002/17.wav"
+      },
+      {
+        "recordingId": "S003-Q12",
+        "legacyPath": "static/wav/recordings/test0002/18.wav"
+      },
+      {
+        "recordingId": "S003-Q14",
+        "legacyPath": "static/wav/recordings/test0002/20.wav"
+      },
+      {
+        "recordingId": "S003-Q16",
+        "legacyPath": "static/wav/recordings/test0002/22.wav"
+      },
+      {
+        "recordingId": "S011-Q01",
+        "legacyPath": "static/wav/recordings/0929527991/7.wav"
+      },
+      {
+        "recordingId": "S019-Q01",
+        "legacyPath": "static/wav/recordings/river910429/7.wav"
+      },
+      {
+        "recordingId": "S020-Q16",
+        "legacyPath": "static/wav/recordings/0928600283/22.wav"
+      },
+      {
+        "recordingId": "S028-Q01",
+        "legacyPath": "static/wav/recordings/091114366802/7.wav"
+      }
+    ],
+    "failed": []
+  }
+}

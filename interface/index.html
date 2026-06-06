@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>台語方音錄音資料庫</title>
+    <link rel="stylesheet" href="./app.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 24 24">
+              <path d="M12 3a4 4 0 0 0-4 4v5a4 4 0 0 0 8 0V7a4 4 0 0 0-4-4Z" />
+              <path d="M5 11v1a7 7 0 0 0 14 0v-1" />
+              <path d="M12 19v3" />
+            </svg>
+          </div>
+          <div>
+            <h1>台語方音錄音資料庫</h1>
+            <p>80 題問卷錄音、錄音人來源地與方音標註檢索</p>
+          </div>
+        </div>
+        <div class="stats-strip" id="statsStrip" aria-live="polite"></div>
+      </header>
+
+      <div class="workspace">
+        <aside class="filters" aria-label="檢索條件">
+          <div class="panel-head">
+            <h2>檢索條件</h2>
+            <button class="ghost-button" id="resetFiltersButton" type="button">清除</button>
+          </div>
+
+          <label class="field">
+            <span>關鍵字</span>
+            <input id="keywordInput" type="search" placeholder="句子、標註、錄音人代號" />
+          </label>
+
+          <label class="field">
+            <span>題號</span>
+            <select id="questionSelect"></select>
+          </label>
+
+          <label class="field">
+            <span>錄音人來源地</span>
+            <select id="originSelect"></select>
+          </label>
+
+          <label class="field">
+            <span>標註狀態</span>
+            <select id="annotationStatusSelect">
+              <option value="all">全部錄音</option>
+              <option value="annotated">有可篩選標註</option>
+              <option value="empty">有標註紀錄但無值</option>
+              <option value="missing">未標註</option>
+            </select>
+          </label>
+
+          <label class="field">
+            <span>目標詞</span>
+            <select id="targetSelect"></select>
+          </label>
+
+          <label class="field">
+            <span>變體選項</span>
+            <select id="variantSelect"></select>
+          </label>
+
+          <fieldset class="field-set">
+            <legend>多條件邏輯</legend>
+            <label><input type="radio" name="matchMode" value="and" checked /> AND 全部符合</label>
+            <label><input type="radio" name="matchMode" value="or" /> OR 任一符合</label>
+          </fieldset>
+
+          <div class="filter-actions">
+            <button class="primary-button" id="runSearchButton" type="button">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.3-4.3" /><circle cx="11" cy="11" r="7" /></svg>
+              查詢
+            </button>
+          </div>
+        </aside>
+
+        <main class="main-area">
+          <nav class="tabs" aria-label="資料檢視">
+            <button class="tab is-active" data-tab="search" type="button">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.3-4.3" /><circle cx="11" cy="11" r="7" /></svg>
+              錄音檢索
+            </button>
+            <button class="tab" data-tab="questions" type="button">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16" /><path d="M4 12h16" /><path d="M4 19h12" /></svg>
+              題目瀏覽
+            </button>
+            <button class="tab" data-tab="compare" type="button">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19V5" /><path d="M19 19V5" /><path d="M8 8h8" /><path d="M8 16h8" /></svg>
+              題號比對
+            </button>
+            <button class="tab" data-tab="speakers" type="button">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="4" /><path d="M4 21a8 8 0 0 1 16 0" /></svg>
+              錄音人瀏覽
+            </button>
+          </nav>
+
+          <section class="view is-active" id="searchView">
+            <div class="result-toolbar">
+              <div>
+                <h2>檢索結果</h2>
+                <p id="resultSummary">資料載入中</p>
+              </div>
+              <div class="toolbar-actions">
+                <button class="secondary-button" id="exportResultsButton" type="button">匯出目前結果</button>
+                <label class="compact-field">
+                  <span>每頁</span>
+                  <select id="pageSizeSelect">
+                    <option>25</option>
+                    <option>50</option>
+                    <option>100</option>
+                  </select>
+                </label>
+              </div>
+            </div>
+
+            <div class="split-view">
+              <section class="result-panel" aria-label="錄音列表">
+                <div class="table-wrap">
+                  <table>
+                    <thead>
+                      <tr>
+                        <th>題號</th>
+                        <th>句子</th>
+                        <th>錄音人</th>
+                        <th>來源地</th>
+                        <th>標註摘要</th>
+                        <th>音檔</th>
+                      </tr>
+                    </thead>
+                    <tbody id="recordingRows"></tbody>
+                  </table>
+                </div>
+                <div class="pagination">
+                  <button class="secondary-button" id="prevPageButton" type="button">上一頁</button>
+                  <span id="pageLabel"></span>
+                  <button class="secondary-button" id="nextPageButton" type="button">下一頁</button>
+                </div>
+              </section>
+
+              <aside class="detail-panel" aria-label="錄音詳細資料">
+                <div id="detailContent" class="detail-empty">
+                  <h3>選擇一筆錄音</h3>
+                  <p>點選列表中的任一列，這裡會顯示錄音播放器、錄音人 metadata 與標註結果。</p>
+                </div>
+              </aside>
+            </div>
+          </section>
+
+          <section class="view" id="questionsView">
+            <div class="section-head">
+              <h2>80 題問卷內容</h2>
+              <p>瀏覽題目文字與每題可標註的目標詞。</p>
+            </div>
+            <div class="question-grid" id="questionGrid"></div>
+          </section>
+
+          <section class="view" id="compareView">
+            <div class="section-head">
+              <h2>題號比對</h2>
+              <p>選擇題號後，依來源地分組查看所有錄音與標註摘要。</p>
+            </div>
+            <div class="compare-layout" id="compareLayout"></div>
+          </section>
+
+          <section class="view" id="speakersView">
+            <div class="section-head">
+              <h2>錄音人瀏覽</h2>
+              <p>以匿名錄音人為單位查看題目完成度、來源地與錄音清單。</p>
+            </div>
+            <div class="speaker-grid" id="speakerGrid"></div>
+          </section>
+        </main>
+      </div>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

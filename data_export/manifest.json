@@ -1,0 +1,77 @@
+{
+  "generatedAt": "2026-06-06T09:01:35.492334+00:00",
+  "formatVersion": 1,
+  "files": [
+    {
+      "name": "questions.json",
+      "description": "The 80 questionnaire prompts from SQL Text.",
+      "primaryKey": "textId"
+    },
+    {
+      "name": "speakers.json",
+      "description": "Anonymous speaker records and available metadata.",
+      "primaryKey": "speakerId"
+    },
+    {
+      "name": "recordings.json",
+      "description": "One row per available recording, with placeholder Google Drive fields.",
+      "primaryKey": "recordingId"
+    },
+    {
+      "name": "annotations.json",
+      "description": "One row per output.json annotation record.",
+      "primaryKey": "annotationId"
+    },
+    {
+      "name": "variants.json",
+      "description": "Per-question target words and possible variant options extracted from the legacy admin page.",
+      "primaryKey": "textId"
+    },
+    {
+      "name": "facets.json",
+      "description": "Precomputed filter choices and counts for the browser UI.",
+      "primaryKey": null
+    },
+    {
+      "name": "audit.json",
+      "description": "Export counts, metadata completeness, and coverage gaps.",
+      "primaryKey": null
+    }
+  ],
+  "joinKeys": {
+    "question": "textId",
+    "speaker": "speakerId",
+    "recording": "recordingId",
+    "legacyTrace": [
+      "legacyUserId",
+      "textId"
+    ]
+  },
+  "privacyNotes": [
+    "Phone numbers and raw speaker tokens are not exported.",
+    "legacyUserId is retained only as a stable trace key to the old SQL database.",
+    "audio.legacyPath reflects the old local relative path; audio.googleDriveFileId and audio.url are placeholders for the future Drive migration."
+  ],
+  "counts": {
+    "questions": 80,
+    "speakers": 31,
+    "recordings": 1761,
+    "annotations": 1574,
+    "variantQuestionDefinitions": 80
+  },
+  "coverage": {
+    "annotationRecordPairs": 1574,
+    "annotatedRecordingPairs": 1566,
+    "emptyAnnotationRecordCount": 8,
+    "recordingsWithoutAnnotationRecordCount": 187,
+    "recordingsWithoutAnnotationValueCount": 195
+  },
+  "deployment": {
+    "target": "GitHub Pages",
+    "siteRoot": "site_publish",
+    "audioFormat": "mp3",
+    "audioBitrate": "48k",
+    "audioSampleRate": 22050,
+    "audioDirectory": "audio"
+  }
+}

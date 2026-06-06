@@ -1,0 +1,3648 @@
+[
+  {
+    "textId": 7,
+    "questionNumber": 1,
+    "targets": [
+      {
+        "index": 1,
+        "target": "汝",
+        "options": [
+          "J: li",
+          "C: lir",
+          "Ct: lu"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "姓",
+        "options": [
+          "J: Sɛ̃",
+          "C: Sĩ"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "趙",
+        "options": [
+          "J: tio22",
+          "C: tio21",
+          "S: tioq22",
+          "S: tior"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "趙t",
+        "options": [
+          "M: 22",
+          "H: 33",
+          "R: 23",
+          "LF: 21",
+          "L: 11"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "趙q",
+        "options": [
+          "q[?]",
+          "*q無喉塞音"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "著",
+        "options": [
+          "J: tioh22",
+          "C: tioh23",
+          "Ct: tioh3",
+          "Js: tio22",
+          "Cs: tio23",
+          "Ct: tio33",
+          "Js: tior",
+          "Cs: tior",
+          "Cts: tior"
+        ]
+      },
+      {
+        "index": 7,
+        "target": "著t",
+        "options": [
+          "M: 22",
+          "H: 3",
+          "HR: 23",
+          "HF31",
+          "LR12"
+        ]
+      },
+      {
+        "index": 8,
+        "target": "著q",
+        "options": [
+          "q[?]",
+          "*q無喉塞音"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 8,
+    "questionNumber": 2,
+    "targets": [
+      {
+        "index": 1,
+        "target": "父",
+        "options": [
+          "J: 22",
+          "C: 21"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "皮",
+        "options": [
+          "J: phue",
+          "C: pher",
+          "Ct: phe"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "白",
+        "options": [
+          "J: 22q",
+          "C: 23q",
+          "Ct:3q",
+          "Js: 22",
+          "Cs: 23",
+          "Cts: 33"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "白t",
+        "options": [
+          "Ms: 20",
+          "M: 22",
+          "HS: 30",
+          "H: 33",
+          "LR12",
+          "HR23",
+          "HF31"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "白q",
+        "options": [
+          "q[?]",
+          "*q無喉塞音"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 9,
+    "questionNumber": 3,
+    "targets": [
+      {
+        "index": 1,
+        "target": "想",
+        "options": [
+          "J: siõ",
+          "C: siū"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "卜",
+        "options": [
+          "J: bueh",
+          "C: berh",
+          "Js: beh",
+          "A: boh"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "永",
+        "options": [
+          "H: 33",
+          "R :23"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "好v",
+        "options": [
+          "H: 33",
+          "R: 23",
+          "M: 22"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "額",
+        "options": [
+          "J: giah22",
+          "C: giah23",
+          "Ct: giah3",
+          "Js: gia22",
+          "Cs: gia23",
+          "C: gia3",
+          "O: gia",
+          "S: ia"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "額t",
+        "options": [
+          "M: 22",
+          "H: 3",
+          "HR23",
+          "HF31",
+          "LR12"
+        ]
+      },
+      {
+        "index": 7,
+        "target": "7額q",
+        "options": [
+          "q[?]",
+          "*q無喉塞尾消失"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 10,
+    "questionNumber": 4,
+    "targets": [
+      {
+        "index": 1,
+        "target": "下昏v",
+        "options": [
+          "J: e huĩ",
+          "C: e hng",
+          "H: ing1 /im1 am3",
+          "*H: e am"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "下昏t",
+        "options": [
+          "R: ing23",
+          "M: ing22 am11"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "閒",
+        "options": [
+          "J: ing12",
+          "C: ing13"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 11,
+    "questionNumber": 5,
+    "targets": [
+      {
+        "index": 1,
+        "target": "茶米=袋米、鋤頭=豬頭 調型",
+        "options": [
+          "J :[22≠11];[22=22](5=1)",
+          "C:[11=11];[22≠11](5=7)",
+          "S:[22-22];[ 22=22](1=5=7)"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 12,
+    "questionNumber": 6,
+    "targets": [
+      {
+        "index": 1,
+        "target": "阿珠=仔，阿蘭=仔，阿狗=仔，阿賜=仔，阿樹=仔",
+        "options": [
+          "Ts",
+          "L0[1]",
+          "M0[2]"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "阿德=仔",
+        "options": [
+          "Tv[31/21-1]",
+          "Tc[20-1]",
+          "M0[2]",
+          "Tb[31]"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "阿伯=仔",
+        "options": [
+          "*q:[21-1]",
+          "q:[- ʔ2 a1]",
+          "Tb[31](喉音入)"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "阿達=仔，阿月=仔，阿熟=仔(陽入)",
+        "options": [
+          "Tc[11]",
+          "Tv[22]",
+          "Tb[31]"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "阿石=仔，阿葉仔 調型",
+        "options": [
+          "Tc[11]",
+          "Tv[22]",
+          "Tb[31](喉陽入)"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 13,
+    "questionNumber": 7,
+    "targets": [
+      {
+        "index": 1,
+        "target": "眞的，假的，大的，細个，紅的，黑(鳥)的,生 的，厚的，金的，銀的",
+        "options": [
+          "Ts",
+          "L0[1]",
+          "M0[2]"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "第七的、金色的、銀色的",
+        "options": [
+          "Tv[31/21-1]",
+          "Tc[20-1]",
+          "M0[2]",
+          "Tb[31]"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "鐵的",
+        "options": [
+          "*q:[21-1]",
+          "q:[- ʔ2 -]"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "熟的",
+        "options": [
+          "Tc[11]",
+          "Tv[22]"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "薄的",
+        "options": [
+          "Tc[11]",
+          "Tv[22]"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 14,
+    "questionNumber": 8,
+    "targets": [
+      {
+        "index": 1,
+        "target": "正月、二月、三月、四月、五月、九月、十二月",
+        "options": [
+          "Tb",
+          "Ts",
+          "L0[1]",
+          "M0[2]"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "一月、七月",
+        "options": [
+          "Tb",
+          "Ts",
+          "L0[1]",
+          "M0[2]"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "八月",
+        "options": [
+          "Tb",
+          "*q:[21-1]",
+          "q: [- ʔ2-]"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "六月、十月",
+        "options": [
+          "Tb",
+          "Tc[11]",
+          "Tv[22]"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 15,
+    "questionNumber": 9,
+    "targets": [
+      {
+        "index": 1,
+        "target": "輸矣、贏矣、走矣、去矣、壞矣 ",
+        "options": [
+          "Ts",
+          "L0[1]",
+          "M0[2]"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "有消息=矣",
+        "options": [
+          "Tv[31/21-1]",
+          "Tc[20-1]",
+          "M0[2]"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "雞仔大隻=矣，皮有削=矣",
+        "options": [
+          "*q:[21-1]",
+          "q: [- ʔ2 a1]"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "有熟=矣",
+        "options": [
+          "Tc[11]",
+          "Tv[22]"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "有食=矣",
+        "options": [
+          "Tc[11]",
+          "Tv[22]"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "用詞",
+        "options": [
+          "J:矣",
+          "C:咯"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 16,
+    "questionNumber": 10,
+    "targets": [
+      {
+        "index": 1,
+        "target": "關咧(關著)、有人佇咧(有人在)、坐咧(坐著)、跍(khu5)咧(蹲著)、弔咧(弔著)、倒咧(躺著)",
+        "options": [
+          "Ts",
+          "L0[1]",
+          "M0[2]"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "仆(phak4)咧(趴著)、窒(that4)=咧(塞住)、束=咧(縛住)",
+        "options": [
+          "L0[1]",
+          "M0[2]"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "(石頭)moh4咧(石頭等重物抱著)、矺咧(壓著) phih*=咧(趴著)",
+        "options": [
+          "*q:[21-1]",
+          "q: [- ʔ le ]"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "縛咧",
+        "options": [
+          "Tc[11]",
+          "Tv[22]"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "提咧",
+        "options": [
+          "Tc[11]",
+          "Tv[22]"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 17,
+    "questionNumber": 11,
+    "targets": [
+      {
+        "index": 1,
+        "target": "擔來(挑過來)、抱來、搶來(提來)、送來、 行來、走來(跑過來)",
+        "options": [
+          "Ts",
+          "L0[1]",
+          "M0[2]"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "剝來(解開拿過來)",
+        "options": [
+          "Tv[31/21-1]",
+          "Tc[20-1]",
+          "M0[2]"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "抾來(撿過來)",
+        "options": [
+          "*q:[21-1]",
+          "q:[- ʔ2 lai1]"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "縛來(綁起來抓來)",
+        "options": [
+          "Tc[11]",
+          "Tv[22]"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "提來，掠來(抓來)",
+        "options": [
+          "Tc[11]",
+          "Tv[22]"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 18,
+    "questionNumber": 12,
+    "targets": [
+      {
+        "index": 1,
+        "target": "擔去、抱去、暈去(暈過去)、行去、 送去、走去",
+        "options": [
+          "Ts",
+          "L0[1]",
+          "M0[2]"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "剝去(解開拿去)",
+        "options": [
+          "L0[1]",
+          "M0[2]"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "抾去(拾去捡起來拿去)",
+        "options": [
+          "*q:[21-1]",
+          "q:[- ʔ2 lai1]"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "縛去(綁起來抓去)",
+        "options": [
+          "Tc[11]",
+          "Tv[22]"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "提去，掠去",
+        "options": [
+          "Tc[11]",
+          "Tv[22]"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 19,
+    "questionNumber": 13,
+    "targets": [
+      {
+        "index": 1,
+        "target": "擔起來(挑上來)、抱起來(抱上來)、搶起來 (提起來)、送起來(送上來)、行起來(走上來)、 走起來 (跑上來)",
+        "options": [
+          "Ts",
+          "L0[1]",
+          "M0[2]"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "剝起來(解下來)",
+        "options": [
+          "L0[1]",
+          "M0[2]"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "剝起來(解下來)(音)",
+        "options": [
+          "khiai",
+          "khai",
+          "khe"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "抾起來(撿起來拿上來)",
+        "options": [
+          "*q:[21-1]",
+          "q:[- ʔ2 khi1 lai1]"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "縛起來",
+        "options": [
+          "Tc[11]",
+          "Tv[22]"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "提起來，掠起來",
+        "options": [
+          "Tc[11]",
+          "Tv[22]"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 20,
+    "questionNumber": 14,
+    "targets": [
+      {
+        "index": 1,
+        "target": "擔落來、抱落來、搶落來(提下來)、 送落來、 行落來、走落來(跑下來)",
+        "options": [
+          "Ts",
+          "L0[1]",
+          "M0[2]"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "剝落來(解開拿下來)",
+        "options": [
+          "L0[1]",
+          "M0[2]"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "抾落來(上面的東西撿下來)",
+        "options": [
+          "*q:[21-1]",
+          "q:[- ʔ2 lo1 lai1]"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "縛落來(綁起來抓下來)",
+        "options": [
+          "Tc[11]",
+          "Tv[22]"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "提落來(拿下來)",
+        "options": [
+          "Tc[11]",
+          "Tv[22]"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 21,
+    "questionNumber": 15,
+    "targets": [
+      {
+        "index": 1,
+        "target": "1. 狗仔=鉤仔;桌仔=刀仔(高調中調化)鋸仔、che3a2(刷子)",
+        "options": [
+          "Hm[=]",
+          "*Hm[≠]"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "7陰平",
+        "options": [
+          "M[22]",
+          "R[23]",
+          "H[33]"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "8陰上",
+        "options": [
+          "H[33]",
+          "M[22]",
+          "R[23]"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "9陰去",
+        "options": [
+          "H[33]",
+          "F[31]"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "10喉入",
+        "options": [
+          "H[33]",
+          "F[31]"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "2. 樹仔=秋仔;豬仔=小弟仔; 金仔=妗仔(低調中調化) ;手機仔=舉旗仔(泉低調中調化) 粒仔、賊仔",
+        "options": [
+          "Lm[=]",
+          "*Lm[≠]"
+        ]
+      },
+      {
+        "index": 7,
+        "target": "11陽平",
+        "options": [
+          "L[11]",
+          "M[22]",
+          "R[23]"
+        ]
+      },
+      {
+        "index": 8,
+        "target": "12陽去",
+        "options": [
+          "L[11]",
+          "M[22]",
+          "R[23]"
+        ]
+      },
+      {
+        "index": 9,
+        "target": "13陽入",
+        "options": [
+          "L[11]",
+          "M[22]",
+          "R[23]"
+        ]
+      },
+      {
+        "index": 10,
+        "target": "3.",
+        "options": [
+          "Tp:狗仔[33-21] 鉤仔[22-31](發生「仔」字的翹翹板變化)",
+          "*Tp 狗仔[33-31]鉤仔[22-31](不發生「仔」字的翹翹板變化)",
+          "L0[33-11]/[23-11](「仔」字唸固定調輕聲)"
+        ]
+      },
+      {
+        "index": 11,
+        "target": "4.",
+        "options": [
+          "R[23-31]",
+          "H[33-31]",
+          "L[11-11]"
+        ]
+      },
+      {
+        "index": 12,
+        "target": "5.",
+        "options": [
+          "O:[31]",
+          "Tp: [31/21]",
+          "Ct:[11]"
+        ]
+      },
+      {
+        "index": 13,
+        "target": "6.",
+        "options": [
+          "a[a]",
+          "e:[e]"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 22,
+    "questionNumber": 16,
+    "targets": [
+      {
+        "index": 1,
+        "target": "寫字，寫了二十二字",
+        "options": [
+          "J: ji",
+          "C: li",
+          "Jg:gi"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 二",
+        "options": [
+          "J: ji",
+          "C: li",
+          "Jg:gi"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 23,
+    "questionNumber": 17,
+    "targets": [
+      {
+        "index": 1,
+        "target": "熱天日頭真大",
+        "options": [
+          "J: jua",
+          "C: lua"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 日",
+        "options": [
+          "J: jit",
+          "C: lit",
+          "Jg:git"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 24,
+    "questionNumber": 18,
+    "targets": [
+      {
+        "index": 1,
+        "target": "生活富裕忍耐食豆腐乳",
+        "options": [
+          "J: ju",
+          "C: lu",
+          "Sm:iok"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 忍",
+        "options": [
+          "J: jim",
+          "C: lim",
+          "Jg:gim"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 乳c",
+        "options": [
+          "J: j-",
+          "Ct: l-",
+          "Jg:g-",
+          "S:n-"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 乳v",
+        "options": [
+          "J: i-",
+          "Ct: u-"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 25,
+    "questionNumber": 19,
+    "targets": [
+      {
+        "index": 1,
+        "target": "閏月、入來、食潤餅、皮真韌",
+        "options": [
+          "J: jun",
+          "C: lun"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 月",
+        "options": [
+          "J: gue",
+          "C: gerh",
+          "Ct:geh",
+          "Sb:guat"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 入",
+        "options": [
+          "J: jip",
+          "Ct: l-",
+          "Jg:gip"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 潤",
+        "options": [
+          "J: jun",
+          "C: lun"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 韌",
+        "options": [
+          "J: jun",
+          "C: lun"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 26,
+    "questionNumber": 20,
+    "targets": [
+      {
+        "index": 1,
+        "target": "阮囝袂曉講英語",
+        "options": [
+          "J:guan",
+          "C:gun",
+          "Js: uan",
+          "Cs: un"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 囝",
+        "options": [
+          "J:kiann2",
+          "C:kann2"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 袂",
+        "options": [
+          "J:be",
+          "C:bue"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 曉",
+        "options": [
+          "J:hiau",
+          "S:hiang"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 語v",
+        "options": [
+          "J:gi",
+          "C:gir",
+          "Ct:gu"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "6. 語c",
+        "options": [
+          "O:g-",
+          "S:O-"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 27,
+    "questionNumber": 21,
+    "targets": [
+      {
+        "index": 1,
+        "target": "糕餅好吃、漿糊不好吃",
+        "options": [
+          "O:ko",
+          "S:kɔ",
+          "N:kor"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 糊",
+        "options": [
+          "O:kɔ",
+          "S:ko",
+          "N:kor"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 類型",
+        "options": [
+          "O:分",
+          "S:合",
+          "N:台南型展唇"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 28,
+    "questionNumber": 22,
+    "targets": [
+      {
+        "index": 1,
+        "target": "海里出蚵仔，山裡出芋仔",
+        "options": [
+          "O: o",
+          "S:ɔ",
+          "N:or"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 芋",
+        "options": [
+          "O:ɔ",
+          "S:o"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 類型",
+        "options": [
+          "O:分",
+          "S:合",
+          "N:台南型展"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 29,
+    "questionNumber": 23,
+    "targets": [
+      {
+        "index": 1,
+        "target": "一雙襪子一跤鞋",
+        "options": [
+          "J: siang",
+          "C: sang"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 襪",
+        "options": [
+          "J: bue",
+          "C: ber",
+          "Ct: be"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 奇",
+        "options": [
+          "J: khia",
+          "C: kha",
+          "S: ciah",
+          "S2:ki"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 鞋",
+        "options": [
+          "J:e",
+          "C: ere",
+          "Ct: ue"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 30,
+    "questionNumber": 24,
+    "targets": [
+      {
+        "index": 1,
+        "target": "阮小妹踅街要買針",
+        "options": [
+          "J: guan",
+          "C: gun",
+          "Js: uan",
+          "Cs: un"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 妹",
+        "options": [
+          "J: muẽ",
+          "C: ber",
+          "Ct: be",
+          "J2 : muãi",
+          "Sm:sio me",
+          "Jc:bue",
+          "H:mei",
+          "H2:me me"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 踅",
+        "options": [
+          "J: se",
+          "C: ser"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 街",
+        "options": [
+          "J: ke",
+          "C: kere",
+          "Ct: kue"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 買",
+        "options": [
+          "J: be",
+          "C: bue"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "6. 針",
+        "options": [
+          "J: ciam",
+          "C: cam"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 31,
+    "questionNumber": 25,
+    "targets": [
+      {
+        "index": 1,
+        "target": "咱無權利罵人",
+        "options": [
+          "J:khuan",
+          "C:kuan"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 罵v",
+        "options": [
+          "J:mẽ",
+          "C:mã"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 罵t",
+        "options": [
+          "O:T7",
+          "S:T3"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 32,
+    "questionNumber": 26,
+    "targets": [
+      {
+        "index": 1,
+        "target": "慣勢帶台北縣",
+        "options": [
+          "J: kuan",
+          "C: kuĩ",
+          "Ct: kuãi"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 縣",
+        "options": [
+          "J: kuan",
+          "C: kuĩ",
+          "Ct: kuãi"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 33,
+    "questionNumber": 27,
+    "targets": [
+      {
+        "index": 1,
+        "target": "挨粿要過年",
+        "options": [
+          "J:e",
+          "C: ere",
+          "Ct: ue"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 粿",
+        "options": [
+          "J: kue",
+          "C: ker",
+          "Ct: ke"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. ト",
+        "options": [
+          "J: bue",
+          "C: berh",
+          "Ct: beh",
+          "A:boh"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 過",
+        "options": [
+          "J: kue",
+          "C: ker",
+          "Ct: ke"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 34,
+    "questionNumber": 28,
+    "targets": [
+      {
+        "index": 1,
+        "target": "豆乳兩塊八角銀",
+        "options": [
+          "J:j-",
+          "Ct:l-",
+          "Jg:g-",
+          "S:n-"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "1. 乳v",
+        "options": [
+          "J:i-",
+          "Ct: u-"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "2. 兩",
+        "options": [
+          "J: nɔ",
+          "C: nng"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "3. 塊",
+        "options": [
+          "J: Cte",
+          "C: ter"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "4. 八",
+        "options": [
+          "J: pe",
+          "C: pue"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "5. 銀",
+        "options": [
+          "J: gin",
+          "C: girn",
+          "Ct: gun"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 35,
+    "questionNumber": 29,
+    "targets": [
+      {
+        "index": 1,
+        "target": "是問「欲也毋」、無問「會也袂」",
+        "options": [
+          "J: muĩ",
+          "C: mng"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. ト",
+        "options": [
+          "J: bueh",
+          "C: berh",
+          "Ct:beh"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 也",
+        "options": [
+          "J: ia11",
+          "C: iah",
+          "Js: a11",
+          "Cs: ah"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 毋",
+        "options": [
+          "J: m7",
+          "C: m5",
+          "S: ng"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 會",
+        "options": [
+          "J: e",
+          "C: ere",
+          "Ct: ue"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "6. 袂",
+        "options": [
+          "J: be",
+          "C: bue"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 36,
+    "questionNumber": 30,
+    "targets": [
+      {
+        "index": 1,
+        "target": "月初買土地、月底著要賣",
+        "options": [
+          "J: gue",
+          "C: ger",
+          "Ct: ge"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 初",
+        "options": [
+          "J: che",
+          "C: chere",
+          "Ct: chue",
+          "Sb:choo頭: thau"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 買",
+        "options": [
+          "J: be",
+          "C: bue"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 地",
+        "options": [
+          "J: te",
+          "C: tere",
+          "Ct: tue"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 底",
+        "options": [
+          "J: te",
+          "C: tere",
+          "Ct: tue"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "6. 著",
+        "options": [
+          "O: tioh",
+          "S: toh"
+        ]
+      },
+      {
+        "index": 7,
+        "target": "7. 卜",
+        "options": [
+          "J: bueh",
+          "C: berh",
+          "Ct: beh",
+          "A: boh"
+        ]
+      },
+      {
+        "index": 8,
+        "target": "8. 賣",
+        "options": [
+          "J: be",
+          "C: bue"
+        ]
+      },
+      {
+        "index": 9,
+        "target": "9. 初c",
+        "options": [
+          "O: ch-",
+          "S: s-"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 37,
+    "questionNumber": 31,
+    "targets": [
+      {
+        "index": 1,
+        "target": "清明節捼死蚼蟻",
+        "options": [
+          "J: ching",
+          "C: chĩ",
+          "C2: chuinn"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 明",
+        "options": [
+          "J: bing",
+          "C: miã"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 節",
+        "options": [
+          "J: ce",
+          "C: cere",
+          "Ct: cue",
+          "Sb: ciat"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 捼c",
+        "options": [
+          "J: j",
+          "C: l"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 捼v",
+        "options": [
+          "J: ue",
+          "C: er",
+          "Ct: e",
+          "J2: ui"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "6. 清c",
+        "options": [
+          "O: ch",
+          "S: s-"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 38,
+    "questionNumber": 32,
+    "targets": [
+      {
+        "index": 1,
+        "target": "汝去市仔買魚仔",
+        "options": [
+          "J: li",
+          "C: lir",
+          "Ct: lu"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 去",
+        "options": [
+          "J: khi",
+          "C: khir",
+          "Ct: khu"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 買",
+        "options": [
+          "J: be",
+          "C: bue"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 魚",
+        "options": [
+          "J: hi",
+          "C: hir",
+          "Ct: hu"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 市c",
+        "options": [
+          "O: ch",
+          "S: s"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 39,
+    "questionNumber": 33,
+    "targets": [
+      {
+        "index": 1,
+        "target": "番薯園內底真儕老鼠",
+        "options": [
+          "O: han",
+          "S: an"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 薯",
+        "options": [
+          "J: ci",
+          "C: cir",
+          "Ct: cu"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 園",
+        "options": [
+          "J: huĩ",
+          "C: hng",
+          "Cb: ng",
+          "S: hin"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 底",
+        "options": [
+          "J: te",
+          "C: tere",
+          "Ct: tue"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 真",
+        "options": [
+          "Jg: cin31",
+          "C: ciann5",
+          "J:cin1"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "6. 儕",
+        "options": [
+          "J: ce",
+          "C: cere",
+          "Ct: cue"
+        ]
+      },
+      {
+        "index": 7,
+        "target": "7. 老",
+        "options": [
+          "C1: nɔ/",
+          "C2: lo",
+          "Ct: niau"
+        ]
+      },
+      {
+        "index": 8,
+        "target": "8. 鼠",
+        "options": [
+          "J: chi",
+          "C: chir",
+          "Ct: chu"
+        ]
+      },
+      {
+        "index": 9,
+        "target": "9. 鼠c",
+        "options": [
+          "O: ch",
+          "S: s"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 40,
+    "questionNumber": 34,
+    "targets": [
+      {
+        "index": 1,
+        "target": "火雞母孵卵",
+        "options": [
+          "J: hue",
+          "C: her",
+          "Ct: he"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 雞",
+        "options": [
+          "J: ke",
+          "C: kere",
+          "Ct: kue"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 母",
+        "options": [
+          "J: bo",
+          "C: bu",
+          "N: bor"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 卵",
+        "options": [
+          "J: nuĩ",
+          "C: nng"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 41,
+    "questionNumber": 35,
+    "targets": [
+      {
+        "index": 1,
+        "target": "媒人牽新娘迒過戶橂",
+        "options": [
+          "J: m",
+          "C: h",
+          "C2: 0"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "1. 媒",
+        "options": [
+          "J: muẽ",
+          "C: hm",
+          "Cj: mng",
+          "J2: muãi",
+          "J3:mi/me",
+          "Sb: mũi"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "2. 娘",
+        "options": [
+          "J: ni ɔ",
+          "C: niũ"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "3. 跨",
+        "options": [
+          "O: hann7",
+          "S: huann7",
+          "S2: khua3"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "4. 過",
+        "options": [
+          "J: kue",
+          "C: ker",
+          "Ct: ke"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "5. 奠",
+        "options": [
+          "J: ting",
+          "C: tuĩ",
+          "Ct: tãi"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 42,
+    "questionNumber": 36,
+    "targets": [
+      {
+        "index": 1,
+        "target": "回批講伊後悔做貿易",
+        "options": [
+          "J: hue",
+          "C: her",
+          "Ct: he"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 批",
+        "options": [
+          "J: phe",
+          "C: phue"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 後",
+        "options": [
+          "J: ho",
+          "C: hio"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 悔",
+        "options": [
+          "O: hue",
+          "S1: her",
+          "S2: he"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 做",
+        "options": [
+          "J: co",
+          "C: cere",
+          "Ct: cue6",
+          "Cs: ce"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "6. 貿",
+        "options": [
+          "J: bɔ",
+          "C: bio",
+          "S: bɔk",
+          "J2: mo"
+        ]
+      },
+      {
+        "index": 7,
+        "target": "7. 易t",
+        "options": [
+          "Ms: 20",
+          "M: 22",
+          "HS: 30",
+          "H: 33",
+          "LR12",
+          "HR23",
+          "HF31"
+        ]
+      },
+      {
+        "index": 8,
+        "target": "8. 易v",
+        "options": [
+          "O:[iǝk]",
+          "S:[ik]",
+          "S2: it",
+          "S3:iok",
+          "Hl: i"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 43,
+    "questionNumber": 37,
+    "targets": [
+      {
+        "index": 1,
+        "target": "食糜仔配梅仔",
+        "options": [
+          "J: muɛ",
+          "C: ber",
+          "Ct: be",
+          "J2: muãi",
+          "Cj: bue",
+          "S: mui",
+          "C2: mai"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 配",
+        "options": [
+          "J: phue",
+          "C: pher",
+          "Ct: phe"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 梅仔",
+        "options": [
+          "J: bue",
+          "C: ber",
+          "Ct: be",
+          "J2: muɛ",
+          "C2 :m5a2",
+          "Sb: muĩ",
+          "J3: muãi"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 44,
+    "questionNumber": 38,
+    "targets": [
+      {
+        "index": 1,
+        "target": "豬血粿算塊無算斤",
+        "options": [
+          "J: ti",
+          "C: tir",
+          "Ct: tu"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 血",
+        "options": [
+          "J: hue",
+          "C: hui"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 粿",
+        "options": [
+          "J: kue",
+          "C: ker",
+          "Ct: ke"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 算",
+        "options": [
+          "J: suĩ",
+          "C: sng"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 塊",
+        "options": [
+          "J: te",
+          "C: ter"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "6, 斤",
+        "options": [
+          "J: kin",
+          "C: kirn",
+          "Ct: kun"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 45,
+    "questionNumber": 39,
+    "targets": [
+      {
+        "index": 1,
+        "target": "穿皮鞋追自動車",
+        "options": [
+          "A: ching7",
+          "B: chiong"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 皮",
+        "options": [
+          "J: phue",
+          "C: pher",
+          "Ct: phe"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 鞋",
+        "options": [
+          "J: e5",
+          "C: ere5",
+          "Ct: ue5"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 迮c",
+        "options": [
+          "J: j-",
+          "C: l-",
+          "Jg: g-"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 自",
+        "options": [
+          "J: cu",
+          "C: cir"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "6, 迮v",
+        "options": [
+          "J: iok",
+          "J2: ik",
+          "C: ip",
+          "追: tui"
+        ]
+      },
+      {
+        "index": 7,
+        "target": "7. 穿c",
+        "options": [
+          "O:[tsh-]",
+          "S:[s-]"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 46,
+    "questionNumber": 40,
+    "targets": [
+      {
+        "index": 1,
+        "target": "月底月初、年頭年尾",
+        "options": [
+          "J: gueh",
+          "C: gerh",
+          "Ct: geh"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 底",
+        "options": [
+          "J: te",
+          "C: tere",
+          "Ct: tue"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 初",
+        "options": [
+          "J: che-",
+          "C: chere",
+          "Ct: chue",
+          "頭: thau"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 尾",
+        "options": [
+          "J: bue",
+          "C: ber",
+          "Ct: be"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 初",
+        "options": [
+          "O: ch-",
+          "S: s-"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 47,
+    "questionNumber": 41,
+    "targets": [
+      {
+        "index": 1,
+        "target": "飛行機飛真懸",
+        "options": [
+          "O: hui",
+          "S1: hue",
+          "S2: pue"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 行",
+        "options": [
+          "O: hing",
+          "S: ling",
+          "S2: nng",
+          "S3: liang/lang"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 飛",
+        "options": [
+          "J: pue",
+          "C: per",
+          "Ct: pe"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 峘(懸)",
+        "options": [
+          "J: kuan",
+          "C: kuĩ",
+          "Ct: kuãi"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 48,
+    "questionNumber": 42,
+    "targets": [
+      {
+        "index": 1,
+        "target": "三歲囝仔做無空課",
+        "options": [
+          "J: hue",
+          "C: her",
+          "Ct: he"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 囡c",
+        "options": [
+          "J: g",
+          "C: k",
+          "S: 0",
+          "S2: j"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 囡v",
+        "options": [
+          "J: in",
+          "C: an",
+          "S: ing"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 做",
+        "options": [
+          "J: co",
+          "C: cere",
+          "Ct: cue",
+          "S: ce"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 課",
+        "options": [
+          "J: khue",
+          "C: kher",
+          "Ct: khe",
+          "C2: khir",
+          "Ct2: khi"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 49,
+    "questionNumber": 43,
+    "targets": [
+      {
+        "index": 1,
+        "target": "三更半暝破病叫醫生來節脈",
+        "options": [
+          "J: kɛ",
+          "C: kĩ"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 暝",
+        "options": [
+          "J: mẽ",
+          "C: mĩ"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 病",
+        "options": [
+          "J: ɛ",
+          "C: pĩ"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 脈",
+        "options": [
+          "J: mɛh",
+          "C: beh",
+          "H: mai"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 50,
+    "questionNumber": 44,
+    "targets": [
+      {
+        "index": 1,
+        "target": "青盲个生囝",
+        "options": [
+          "J: chɛ",
+          "C: chĩ"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 盲",
+        "options": [
+          "J: mɛ",
+          "C: mĩ"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 生",
+        "options": [
+          "J: sɛ",
+          "C: sĩ"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 囝",
+        "options": [
+          "J: kiã",
+          "C: kã"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 51,
+    "questionNumber": 45,
+    "targets": [
+      {
+        "index": 1,
+        "target": "三頓食飯配滷卵",
+        "options": [
+          "J: tuĩ",
+          "C: tng"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 飯",
+        "options": [
+          "J: puĩ",
+          "C: png"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 配",
+        "options": [
+          "J: phue",
+          "C: pher",
+          "Ct: phe"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 卵",
+        "options": [
+          "J: nuĩ",
+          "C: nng"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 52,
+    "questionNumber": 46,
+    "targets": [
+      {
+        "index": 1,
+        "target": "舉箸夾菜",
+        "options": [
+          "J: gia",
+          "C: ka",
+          "C2: kia"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 箸",
+        "options": [
+          "J: ti",
+          "C: tir",
+          "Ct: tu"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 夾c",
+        "options": [
+          "J: ng-",
+          "C: k-",
+          "Ct: g"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 夾v",
+        "options": [
+          "J: -e-",
+          "C: -ere-",
+          "C: -ue-",
+          "Sb: iap",
+          "S: ip/iah",
+          "S2: -iat"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 夾q",
+        "options": [
+          "O: -q",
+          "S: *-q"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "6. 菜c",
+        "options": [
+          "O: ch",
+          "S: s"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 53,
+    "questionNumber": 47,
+    "targets": [
+      {
+        "index": 1,
+        "target": "讀書照順序",
+        "options": [
+          "J: cheh(冊)",
+          "C: cir",
+          "Ct: cu",
+          "Ch: ci"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 序",
+        "options": [
+          "J: si",
+          "C: sir",
+          "Ct: su"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 54,
+    "questionNumber": 48,
+    "targets": [
+      {
+        "index": 1,
+        "target": "豬尾短短",
+        "options": [
+          "J: ti",
+          "C: tir",
+          "Ct: tu"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 尾",
+        "options": [
+          "J: bue",
+          "C: ber",
+          "Ct: be"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 短",
+        "options": [
+          "J: te",
+          "C: ter"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 55,
+    "questionNumber": 49,
+    "targets": [
+      {
+        "index": 1,
+        "target": "落雪、倒退、豆莢、煮飯、根據、警務處",
+        "options": [
+          "J: seh",
+          "C: serh"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 倒退",
+        "options": [
+          "J: the",
+          "C: ther",
+          "S: thue"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 豆莢1",
+        "options": [
+          "J: ng-",
+          "C: k-",
+          "Ct: g"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 豆莢2",
+        "options": [
+          "J: -e-",
+          "C: -ere-",
+          "C: -ue-"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 豆莢3",
+        "options": [
+          "O: -q",
+          "S: *-q"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "6. 煮飯",
+        "options": [
+          "J: ci",
+          "C: cir",
+          "Ct: cu"
+        ]
+      },
+      {
+        "index": 7,
+        "target": "7. 根據",
+        "options": [
+          "J: ki",
+          "J2: kinn",
+          "C: kir",
+          "Ct: ku"
+        ]
+      },
+      {
+        "index": 8,
+        "target": "8. 警務處",
+        "options": [
+          "J: chi",
+          "C: chir",
+          "Ct: chu"
+        ]
+      },
+      {
+        "index": 9,
+        "target": "9. 警務處",
+        "options": [
+          "O: ch-",
+          "S: s-"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 56,
+    "questionNumber": 50,
+    "targets": [
+      {
+        "index": 1,
+        "target": "拿鋤頭掘塗種桃子/塗豆",
+        "options": [
+          "J: gia5",
+          "C: kiah8",
+          "S: giah8"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 鋤",
+        "options": [
+          "J: ti",
+          "C: tir",
+          "Ct: tu",
+          "H: chu"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 塗",
+        "options": [
+          "O: thoo",
+          "S: tho",
+          "N: thor"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 桃",
+        "options": [
+          "O: tho",
+          "S: thoo",
+          "N: thor"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 塗豆",
+        "options": [
+          "O: thoo",
+          "S: tho",
+          "Sn: thor"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 57,
+    "questionNumber": 51,
+    "targets": [
+      {
+        "index": 1,
+        "target": "豬腳筋炒芹菜",
+        "options": [
+          "J: ti",
+          "C: tir",
+          "Ct: tu"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 筋",
+        "options": [
+          "J: kin",
+          "C: kim",
+          "Ct: kun"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 芹",
+        "options": [
+          "J: khin",
+          "C: khirn",
+          "Ct: khun"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 菜",
+        "options": [
+          "O: ch",
+          "S: s"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 58,
+    "questionNumber": 52,
+    "targets": [
+      {
+        "index": 1,
+        "target": "芎蕉一斤外儕錢",
+        "options": [
+          "O: king",
+          "S: kin",
+          "S2: kim",
+          "Cs: kirn"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 斤",
+        "options": [
+          "J: kin",
+          "C: kim",
+          "Ct: kun"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 外",
+        "options": [
+          "J: gua",
+          "C: jua",
+          "Ct: lua"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 儕",
+        "options": [
+          "J: ce",
+          "C: cere",
+          "Ct: cue"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 59,
+    "questionNumber": 53,
+    "targets": [
+      {
+        "index": 1,
+        "target": "手巾包樹根",
+        "options": [
+          "J: kin",
+          "C: kim",
+          "Ct: kun"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 根",
+        "options": [
+          "J: kin",
+          "C: kim",
+          "Ct: kun"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 60,
+    "questionNumber": 54,
+    "targets": [
+      {
+        "index": 1,
+        "target": "林森路蔘仔店有咧賣人蔘",
+        "options": [
+          "J: som",
+          "C: sirm",
+          "Ct: sim",
+          "V: sam",
+          "S: sing"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 蔘1",
+        "options": [
+          "J: som",
+          "C: sirm",
+          "Ct: sim",
+          "V: sam",
+          "S: sing"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 人",
+        "options": [
+          "J: jin",
+          "C: lin"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 蔘2",
+        "options": [
+          "J: som",
+          "C: sirm",
+          "Ct: sim",
+          "V: sam",
+          "S: sing"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 61,
+    "questionNumber": 55,
+    "targets": [
+      {
+        "index": 1,
+        "target": "枝仔冰冷冷𠕇𠕇",
+        "options": [
+          "J: peng",
+          "C: ping",
+          "Ji: pɛng",
+          "Jis: pɛn"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 冷",
+        "options": [
+          "J: leng",
+          "C: ling",
+          "Ct: lɛng",
+          "Jis: lɛn"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 𠕇",
+        "options": [
+          "J: teng",
+          "C: ting",
+          "Ji: tɛng",
+          "Jis: tɛn"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 62,
+    "questionNumber": 56,
+    "targets": [
+      {
+        "index": 1,
+        "target": "煎魚仔愛反爿",
+        "options": [
+          "J: hi",
+          "C: hir",
+          "Ct: hu"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 反",
+        "options": [
+          "J: ping",
+          "C: puinn",
+          "Ct: painn"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 爿",
+        "options": [
+          "J: ping",
+          "C: puinn",
+          "Ct: painn"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 63,
+    "questionNumber": 57,
+    "targets": [
+      {
+        "index": 1,
+        "target": "還錢、房間、倒反、物件",
+        "options": [
+          "J: hing",
+          "C: huinn",
+          "Ct: hainn",
+          "J2: han",
+          "J3: hiang"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 房間",
+        "options": [
+          "J: king",
+          "C: kuinn",
+          "Ct: kainn"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 倒反",
+        "options": [
+          "J: ping",
+          "C: puinn",
+          "Ct: painn"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 物件",
+        "options": [
+          "J: mih",
+          "C: mngh",
+          "Ct: "
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 64,
+    "questionNumber": 58,
+    "targets": [
+      {
+        "index": 1,
+        "target": "檨仔酸酸軟軟",
+        "options": [
+          "J: suĩ",
+          "C: suan",
+          "Ct: suãi",
+          "Ct: suẽ"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 酸",
+        "options": [
+          "J: suĩ",
+          "C: sng"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 軟",
+        "options": [
+          "J: nuĩ",
+          "C: nng"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 65,
+    "questionNumber": 59,
+    "targets": [
+      {
+        "index": 1,
+        "target": "新官心肝內真愛升官",
+        "options": [
+          "O: sin",
+          "S: sing"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 心",
+        "options": [
+          "O: sim",
+          "S1: sin",
+          "S2: sing"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 升",
+        "options": [
+          "O: sing",
+          "S1: sin",
+          "S2: sing"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 66,
+    "questionNumber": 60,
+    "targets": [
+      {
+        "index": 1,
+        "target": "公園約會放風吹",
+        "options": [
+          "J: huĩ",
+          "C: hng",
+          "S:hǝng"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 約",
+        "options": [
+          "J: iak",
+          "C: iok"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 風",
+        "options": [
+          "J: hong",
+          "C: huang"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 吹",
+        "options": [
+          "J: chue",
+          "C: cher",
+          "Ct: che"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 吹",
+        "options": [
+          "O: ch",
+          "S: s"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 67,
+    "questionNumber": 61,
+    "targets": [
+      {
+        "index": 1,
+        "target": "去小兒科看耳仔佮鼻",
+        "options": [
+          "J: ji",
+          "C: li",
+          "Jg: gi"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 科",
+        "options": [
+          "J: kho",
+          "C: kher",
+          "Ct: khe"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 耳仔",
+        "options": [
+          "J: hĩ",
+          "C: hi"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 鼻",
+        "options": [
+          "J: phĩ",
+          "C: phi"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 68,
+    "questionNumber": 62,
+    "targets": [
+      {
+        "index": 1,
+        "target": "無頭毛有頭腦",
+        "options": [
+          "J: mɔ",
+          "C: mng"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 腦J",
+        "options": [
+          "J: nãu",
+          "C: nɔ",
+          "Ct: lo"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 69,
+    "questionNumber": 63,
+    "targets": [
+      {
+        "index": 1,
+        "target": "和尚咬薑尻川癢",
+        "options": [
+          "J: hue",
+          "C: her",
+          "Ct: he"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 尚",
+        "options": [
+          "J: siɔ",
+          "C: siũ"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 薑",
+        "options": [
+          "J: kiɔ",
+          "C: kiũ",
+          "S: kim",
+          "S2: king",
+          "S3: kiam"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 川",
+        "options": [
+          "J: chuĩ",
+          "C: chng"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 癢",
+        "options": [
+          "J: ciɔ",
+          "C: ciũ"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 70,
+    "questionNumber": 64,
+    "targets": [
+      {
+        "index": 1,
+        "target": "思自由有將來",
+        "options": [
+          "J: su",
+          "C: sir",
+          "H: si"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 想",
+        "options": [
+          "J: siang",
+          "C: siɔng",
+          "Jp: sing"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 自",
+        "options": [
+          "J: cu",
+          "C: cir",
+          "H: ci"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 將",
+        "options": [
+          "J: ciang",
+          "C: ciɔng",
+          "Jp: cing"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 71,
+    "questionNumber": 65,
+    "targets": [
+      {
+        "index": 1,
+        "target": "英雄落魄真可憐",
+        "options": [
+          "O: hiɔng",
+          "S: iɔng",
+          "Jp: hing"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 可",
+        "options": [
+          "J: kho",
+          "C: khonn",
+          "C2: khɔ"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 憐",
+        "options": [
+          "O: lian",
+          "S1: lien",
+          "S2: lɛn",
+          "V: lin"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 72,
+    "questionNumber": 66,
+    "targets": [
+      {
+        "index": 1,
+        "target": "夢囈(說夢話)",
+        "options": [
+          "O: bin",
+          "S: bim"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 眠夢",
+        "options": [
+          "O: bin",
+          "S: bim",
+          "Sm: mim"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 夢",
+        "options": [
+          "O: bang",
+          "S: mang"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 番",
+        "options": [
+          "O: huan",
+          "S: huam"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 73,
+    "questionNumber": 67,
+    "targets": [
+      {
+        "index": 1,
+        "target": "天光天亮、姓黃、真遠",
+        "options": [
+          "J: kuinn",
+          "C: kng"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 姓黃",
+        "options": [
+          "J: uinn",
+          "C: ng"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 真遠",
+        "options": [
+          "J: huinn",
+          "C: hng"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 74,
+    "questionNumber": 68,
+    "targets": [
+      {
+        "index": 1,
+        "target": "鴨仔、袷仔、狸仔、沙仔、歌仔、狗仔、囝仔、椅 仔、印仔、稱仔、鐵仔、桌仔、柑仔、金仔、刀仔、 弦仔、蟳仔、樹仔、芋仔、袋仔、藥仔、沙石仔、草 蓆仔、夾仔、賊仔",
+        "options": [
+          "O: a a",
+          "Ct: ai a"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 袷仔",
+        "options": [
+          "O: ka a",
+          "Ct: kai a"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 狸仔",
+        "options": [
+          "O: ba a",
+          "Ct: bai a"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 沙仔",
+        "options": [
+          "O: sua a",
+          "Ct: suai a"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 歌仔",
+        "options": [
+          "O: kua a",
+          "Ct: kuai a"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 75,
+    "questionNumber": 69,
+    "targets": [
+      {
+        "index": 1,
+        "target": "低調同化",
+        "options": [
+          "MI:11-11",
+          "M:22-11"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 紅杉、紅面",
+        "options": [
+          "MI:11-11",
+          "M:22-11"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 大人、大雨",
+        "options": [
+          "MI:11-11",
+          "M:22-1"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 白沙、白飯",
+        "options": [
+          "MI:11-11",
+          "M:22-11"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 六千、六萬",
+        "options": [
+          "MI:11-11",
+          "M:22-11"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 76,
+    "questionNumber": 70,
+    "targets": [
+      {
+        "index": 1,
+        "target": "借鏡、照鏡",
+        "options": [
+          "H: 33",
+          "HF: 31"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 借鏡q",
+        "options": [
+          "q[ʔ]",
+          "*q(無喉塞音)"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 照鏡t",
+        "options": [
+          "H: 33",
+          "HF: 31"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 照鏡q",
+        "options": [
+          "q[-?]",
+          "*q(無喉塞音)"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 77,
+    "questionNumber": 71,
+    "targets": [
+      {
+        "index": 1,
+        "target": "牛",
+        "options": [
+          "O: gu",
+          "S:bu"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 78,
+    "questionNumber": 72,
+    "targets": [
+      {
+        "index": 1,
+        "target": "無火、無貨",
+        "options": [
+          "SH:[44]",
+          "HF[31]"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 貨t",
+        "options": [
+          "HF[31]",
+          "L[11]",
+          "LF[21]"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 79,
+    "questionNumber": 73,
+    "targets": [
+      {
+        "index": 1,
+        "target": "先歇睏一睏仔才去睏",
+        "options": [
+          "O: khun",
+          "S: khuan"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 一睏仔",
+        "options": [
+          "O: khun",
+          "S: khuan"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 去睏",
+        "options": [
+          "O: khun",
+          "S: khuan"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 80,
+    "questionNumber": 74,
+    "targets": [
+      {
+        "index": 1,
+        "target": "教示/鉸.死",
+        "options": [
+          "LF:[21]",
+          "L:[11]"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 死",
+        "options": [
+          "LF:[21]",
+          "L:[11]"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 類型",
+        "options": [
+          "O: 異",
+          "S: 同"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 81,
+    "questionNumber": 75,
+    "targets": [
+      {
+        "index": 1,
+        "target": "台中、高雄/姑不將、翕相",
+        "options": [
+          "O: tiong",
+          "Jp: ting"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 高雄",
+        "options": [
+          "O: hiong",
+          "Jp: hing",
+          "S: iong"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 姑不將",
+        "options": [
+          "J: ciang",
+          "C: ciong",
+          "Jp: cing"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 翕相",
+        "options": [
+          "J: siang",
+          "C: siong",
+          "Jp: sing"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 82,
+    "questionNumber": 76,
+    "targets": [
+      {
+        "index": 1,
+        "target": "水桶「漏」和人「老」",
+        "options": [
+          "J: 22",
+          "C: 21"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 老",
+        "options": [
+          "J: 22",
+          "C: 21"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 異同",
+        "options": [
+          "O:不同音(6□7)",
+          "S:同音(6=7)"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 83,
+    "questionNumber": 77,
+    "targets": [
+      {
+        "index": 1,
+        "target": "起來、 起來、落來、輾落來",
+        "options": [
+          "O: khi lai",
+          "Sh1: khiai",
+          "Sh2: khe",
+          "Sh3: khai"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 𬦰起來",
+        "options": [
+          "O: khi lai",
+          "Sh1: khiai",
+          "Sh2: khe",
+          "Sh3: khai"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 落來",
+        "options": [
+          "O: lo lai",
+          "Sh: luai",
+          "P:lue"
+        ]
+      },
+      {
+        "index": 4,
+        "target": "4. 輾落來",
+        "options": [
+          "O: lo lai",
+          "Sh: luai",
+          "P:lue"
+        ]
+      },
+      {
+        "index": 5,
+        "target": "5. 起去",
+        "options": [
+          "O: khi khi",
+          "Sh: khit li",
+          "P: khiu"
+        ]
+      },
+      {
+        "index": 6,
+        "target": "6. 𬦰起去",
+        "options": [
+          "O: khi khi",
+          "Sh: khit li",
+          "P: khiu"
+        ]
+      },
+      {
+        "index": 7,
+        "target": "7. 落去",
+        "options": [
+          "O: lo khi",
+          "Sh: lue",
+          "P: lo"
+        ]
+      },
+      {
+        "index": 8,
+        "target": "8. 輾落去",
+        "options": [
+          "O: lo khi",
+          "Sh: lue",
+          "P: lo"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 84,
+    "questionNumber": 78,
+    "targets": [
+      {
+        "index": 1,
+        "target": "掃帚、舒服（快活）",
+        "options": [
+          "O: sau chiu",
+          "S: sau siu"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 舒服(快活)",
+        "options": [
+          "J: khuann uah",
+          "C: khuinn",
+          "Ct: khuãi",
+          "C2: khainn3",
+          "C3: khinn"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 85,
+    "questionNumber": 79,
+    "targets": [
+      {
+        "index": 1,
+        "target": "哪裏",
+        "options": [
+          "J1 佗位 to ui",
+          "J2 佗位 ta ui",
+          "J3 tue",
+          "J4 tui",
+          "J7 tai",
+          "J8 tua",
+          "C1 佗落 to lo"
+        ]
+      }
+    ]
+  },
+  {
+    "textId": 86,
+    "questionNumber": 80,
+    "targets": [
+      {
+        "index": 1,
+        "target": "他打我，不是我打他/不要跟他買/幫我洗衣",
+        "options": [
+          "O: 扑我",
+          "S: 共我扑"
+        ]
+      },
+      {
+        "index": 2,
+        "target": "2. 不要跟他買",
+        "options": [
+          "O: ka i",
+          "S: ka"
+        ]
+      },
+      {
+        "index": 3,
+        "target": "3. 幫我洗衣",
+        "options": [
+          "O: ka7",
+          "S: 幫"
+        ]
+      }
+    ]
+  }
+]

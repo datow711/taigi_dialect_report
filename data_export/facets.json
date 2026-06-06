@@ -1,0 +1,6063 @@
+{
+  "questions": [
+    {
+      "textId": 7,
+      "questionNumber": 1,
+      "label": "第 1 題"
+    },
+    {
+      "textId": 8,
+      "questionNumber": 2,
+      "label": "第 2 題"
+    },
+    {
+      "textId": 9,
+      "questionNumber": 3,
+      "label": "第 3 題"
+    },
+    {
+      "textId": 10,
+      "questionNumber": 4,
+      "label": "第 4 題"
+    },
+    {
+      "textId": 11,
+      "questionNumber": 5,
+      "label": "第 5 題"
+    },
+    {
+      "textId": 12,
+      "questionNumber": 6,
+      "label": "第 6 題"
+    },
+    {
+      "textId": 13,
+      "questionNumber": 7,
+      "label": "第 7 題"
+    },
+    {
+      "textId": 14,
+      "questionNumber": 8,
+      "label": "第 8 題"
+    },
+    {
+      "textId": 15,
+      "questionNumber": 9,
+      "label": "第 9 題"
+    },
+    {
+      "textId": 16,
+      "questionNumber": 10,
+      "label": "第 10 題"
+    },
+    {
+      "textId": 17,
+      "questionNumber": 11,
+      "label": "第 11 題"
+    },
+    {
+      "textId": 18,
+      "questionNumber": 12,
+      "label": "第 12 題"
+    },
+    {
+      "textId": 19,
+      "questionNumber": 13,
+      "label": "第 13 題"
+    },
+    {
+      "textId": 20,
+      "questionNumber": 14,
+      "label": "第 14 題"
+    },
+    {
+      "textId": 21,
+      "questionNumber": 15,
+      "label": "第 15 題"
+    },
+    {
+      "textId": 22,
+      "questionNumber": 16,
+      "label": "第 16 題"
+    },
+    {
+      "textId": 23,
+      "questionNumber": 17,
+      "label": "第 17 題"
+    },
+    {
+      "textId": 24,
+      "questionNumber": 18,
+      "label": "第 18 題"
+    },
+    {
+      "textId": 25,
+      "questionNumber": 19,
+      "label": "第 19 題"
+    },
+    {
+      "textId": 26,
+      "questionNumber": 20,
+      "label": "第 20 題"
+    },
+    {
+      "textId": 27,
+      "questionNumber": 21,
+      "label": "第 21 題"
+    },
+    {
+      "textId": 28,
+      "questionNumber": 22,
+      "label": "第 22 題"
+    },
+    {
+      "textId": 29,
+      "questionNumber": 23,
+      "label": "第 23 題"
+    },
+    {
+      "textId": 30,
+      "questionNumber": 24,
+      "label": "第 24 題"
+    },
+    {
+      "textId": 31,
+      "questionNumber": 25,
+      "label": "第 25 題"
+    },
+    {
+      "textId": 32,
+      "questionNumber": 26,
+      "label": "第 26 題"
+    },
+    {
+      "textId": 33,
+      "questionNumber": 27,
+      "label": "第 27 題"
+    },
+    {
+      "textId": 34,
+      "questionNumber": 28,
+      "label": "第 28 題"
+    },
+    {
+      "textId": 35,
+      "questionNumber": 29,
+      "label": "第 29 題"
+    },
+    {
+      "textId": 36,
+      "questionNumber": 30,
+      "label": "第 30 題"
+    },
+    {
+      "textId": 37,
+      "questionNumber": 31,
+      "label": "第 31 題"
+    },
+    {
+      "textId": 38,
+      "questionNumber": 32,
+      "label": "第 32 題"
+    },
+    {
+      "textId": 39,
+      "questionNumber": 33,
+      "label": "第 33 題"
+    },
+    {
+      "textId": 40,
+      "questionNumber": 34,
+      "label": "第 34 題"
+    },
+    {
+      "textId": 41,
+      "questionNumber": 35,
+      "label": "第 35 題"
+    },
+    {
+      "textId": 42,
+      "questionNumber": 36,
+      "label": "第 36 題"
+    },
+    {
+      "textId": 43,
+      "questionNumber": 37,
+      "label": "第 37 題"
+    },
+    {
+      "textId": 44,
+      "questionNumber": 38,
+      "label": "第 38 題"
+    },
+    {
+      "textId": 45,
+      "questionNumber": 39,
+      "label": "第 39 題"
+    },
+    {
+      "textId": 46,
+      "questionNumber": 40,
+      "label": "第 40 題"
+    },
+    {
+      "textId": 47,
+      "questionNumber": 41,
+      "label": "第 41 題"
+    },
+    {
+      "textId": 48,
+      "questionNumber": 42,
+      "label": "第 42 題"
+    },
+    {
+      "textId": 49,
+      "questionNumber": 43,
+      "label": "第 43 題"
+    },
+    {
+      "textId": 50,
+      "questionNumber": 44,
+      "label": "第 44 題"
+    },
+    {
+      "textId": 51,
+      "questionNumber": 45,
+      "label": "第 45 題"
+    },
+    {
+      "textId": 52,
+      "questionNumber": 46,
+      "label": "第 46 題"
+    },
+    {
+      "textId": 53,
+      "questionNumber": 47,
+      "label": "第 47 題"
+    },
+    {
+      "textId": 54,
+      "questionNumber": 48,
+      "label": "第 48 題"
+    },
+    {
+      "textId": 55,
+      "questionNumber": 49,
+      "label": "第 49 題"
+    },
+    {
+      "textId": 56,
+      "questionNumber": 50,
+      "label": "第 50 題"
+    },
+    {
+      "textId": 57,
+      "questionNumber": 51,
+      "label": "第 51 題"
+    },
+    {
+      "textId": 58,
+      "questionNumber": 52,
+      "label": "第 52 題"
+    },
+    {
+      "textId": 59,
+      "questionNumber": 53,
+      "label": "第 53 題"
+    },
+    {
+      "textId": 60,
+      "questionNumber": 54,
+      "label": "第 54 題"
+    },
+    {
+      "textId": 61,
+      "questionNumber": 55,
+      "label": "第 55 題"
+    },
+    {
+      "textId": 62,
+      "questionNumber": 56,
+      "label": "第 56 題"
+    },
+    {
+      "textId": 63,
+      "questionNumber": 57,
+      "label": "第 57 題"
+    },
+    {
+      "textId": 64,
+      "questionNumber": 58,
+      "label": "第 58 題"
+    },
+    {
+      "textId": 65,
+      "questionNumber": 59,
+      "label": "第 59 題"
+    },
+    {
+      "textId": 66,
+      "questionNumber": 60,
+      "label": "第 60 題"
+    },
+    {
+      "textId": 67,
+      "questionNumber": 61,
+      "label": "第 61 題"
+    },
+    {
+      "textId": 68,
+      "questionNumber": 62,
+      "label": "第 62 題"
+    },
+    {
+      "textId": 69,
+      "questionNumber": 63,
+      "label": "第 63 題"
+    },
+    {
+      "textId": 70,
+      "questionNumber": 64,
+      "label": "第 64 題"
+    },
+    {
+      "textId": 71,
+      "questionNumber": 65,
+      "label": "第 65 題"
+    },
+    {
+      "textId": 72,
+      "questionNumber": 66,
+      "label": "第 66 題"
+    },
+    {
+      "textId": 73,
+      "questionNumber": 67,
+      "label": "第 67 題"
+    },
+    {
+      "textId": 74,
+      "questionNumber": 68,
+      "label": "第 68 題"
+    },
+    {
+      "textId": 75,
+      "questionNumber": 69,
+      "label": "第 69 題"
+    },
+    {
+      "textId": 76,
+      "questionNumber": 70,
+      "label": "第 70 題"
+    },
+    {
+      "textId": 77,
+      "questionNumber": 71,
+      "label": "第 71 題"
+    },
+    {
+      "textId": 78,
+      "questionNumber": 72,
+      "label": "第 72 題"
+    },
+    {
+      "textId": 79,
+      "questionNumber": 73,
+      "label": "第 73 題"
+    },
+    {
+      "textId": 80,
+      "questionNumber": 74,
+      "label": "第 74 題"
+    },
+    {
+      "textId": 81,
+      "questionNumber": 75,
+      "label": "第 75 題"
+    },
+    {
+      "textId": 82,
+      "questionNumber": 76,
+      "label": "第 76 題"
+    },
+    {
+      "textId": 83,
+      "questionNumber": 77,
+      "label": "第 77 題"
+    },
+    {
+      "textId": 84,
+      "questionNumber": 78,
+      "label": "第 78 題"
+    },
+    {
+      "textId": 85,
+      "questionNumber": 79,
+      "label": "第 79 題"
+    },
+    {
+      "textId": 86,
+      "questionNumber": 80,
+      "label": "第 80 題"
+    }
+  ],
+  "speakerOrigins": [
+    {
+      "value": "彰化縣",
+      "count": 11
+    },
+    {
+      "value": "宜蘭縣",
+      "count": 7
+    },
+    {
+      "value": "高雄市",
+      "count": 3
+    },
+    {
+      "value": "台南市",
+      "count": 2
+    },
+    {
+      "value": "台中市",
+      "count": 2
+    },
+    {
+      "value": "台北市",
+      "count": 2
+    },
+    {
+      "value": "基隆市",
+      "count": 1
+    },
+    {
+      "value": "新北市",
+      "count": 1
+    }
+  ],
+  "speakerGenders": [
+    {
+      "value": "female",
+      "count": 1
+    }
+  ],
+  "speakerAccents": [
+    {
+      "value": "鹿港腔",
+      "count": 1
+    }
+  ],
+  "residenceCounties": [],
+  "annotationTargets": [
+    {
+      "key": "7::姓",
+      "textId": 7,
+      "questionNumber": 1,
+      "target": "姓",
+      "values": [
+        {
+          "value": "J: Sɛ̃",
+          "count": 12
+        },
+        {
+          "value": "C: Sĩ",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "7::汝",
+      "textId": 7,
+      "questionNumber": 1,
+      "target": "汝",
+      "values": [
+        {
+          "value": "J: li",
+          "count": 18
+        },
+        {
+          "value": "C: lir",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "key": "7::著",
+      "textId": 7,
+      "questionNumber": 1,
+      "target": "著",
+      "values": [
+        {
+          "value": "Js: tio22",
+          "count": 11
+        },
+        {
+          "value": "J: tioh22",
+          "count": 4
+        },
+        {
+          "value": "C: tioh23",
+          "count": 3
+        },
+        {
+          "value": "Cs: tio23",
+          "count": 3
+        },
+        {
+          "value": "Ct: tioh3",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "7::著q",
+      "textId": 7,
+      "questionNumber": 1,
+      "target": "著q",
+      "values": [
+        {
+          "value": "*q無喉塞音",
+          "count": 14
+        },
+        {
+          "value": "q[?]",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "7::著t",
+      "textId": 7,
+      "questionNumber": 1,
+      "target": "著t",
+      "values": [
+        {
+          "value": "M: 22",
+          "count": 16
+        },
+        {
+          "value": "HR: 23",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "key": "7::趙",
+      "textId": 7,
+      "questionNumber": 1,
+      "target": "趙",
+      "values": [
+        {
+          "value": "J: tio22",
+          "count": 15
+        },
+        {
+          "value": "C: tio21",
+          "count": 1
+        },
+        {
+          "value": "S: tioq22",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "7::趙q",
+      "textId": 7,
+      "questionNumber": 1,
+      "target": "趙q",
+      "values": [
+        {
+          "value": "*q無喉塞音",
+          "count": 17
+        },
+        {
+          "value": "q[?]",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "key": "7::趙t",
+      "textId": 7,
+      "questionNumber": 1,
+      "target": "趙t",
+      "values": [
+        {
+          "value": "M: 22",
+          "count": 16
+        },
+        {
+          "value": "R: 23",
+          "count": 2
+        },
+        {
+          "value": "LF: 21",
+          "count": 1
+        },
+        {
+          "value": "L: 11",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "8::父",
+      "textId": 8,
+      "questionNumber": 2,
+      "target": "父",
+      "values": [
+        {
+          "value": "J: 22",
+          "count": 18
+        },
+        {
+          "value": "C: 21",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "8::白",
+      "textId": 8,
+      "questionNumber": 2,
+      "target": "白",
+      "values": [
+        {
+          "value": "Js: 22",
+          "count": 9
+        },
+        {
+          "value": "J: 22q",
+          "count": 6
+        },
+        {
+          "value": "Cs: 23",
+          "count": 3
+        },
+        {
+          "value": "C: 23q",
+          "count": 3
+        },
+        {
+          "value": "Ct:3q",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "8::白q",
+      "textId": 8,
+      "questionNumber": 2,
+      "target": "白q",
+      "values": [
+        {
+          "value": "*q無喉塞音",
+          "count": 15
+        },
+        {
+          "value": "q[?]",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "key": "8::白t",
+      "textId": 8,
+      "questionNumber": 2,
+      "target": "白t",
+      "values": [
+        {
+          "value": "M: 22",
+          "count": 13
+        },
+        {
+          "value": "HR23",
+          "count": 7
+        },
+        {
+          "value": "Ms: 20",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "8::皮",
+      "textId": 8,
+      "questionNumber": 2,
+      "target": "皮",
+      "values": [
+        {
+          "value": "J: phue",
+          "count": 13
+        },
+        {
+          "value": "C: pher",
+          "count": 4
+        },
+        {
+          "value": "Ct: phe",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "key": "9::7額q",
+      "textId": 9,
+      "questionNumber": 3,
+      "target": "7額q",
+      "values": [
+        {
+          "value": "*q無喉塞尾消失",
+          "count": 14
+        },
+        {
+          "value": "q[?]",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "9::卜",
+      "textId": 9,
+      "questionNumber": 3,
+      "target": "卜",
+      "values": [
+        {
+          "value": "Js: beh",
+          "count": 18
+        },
+        {
+          "value": "C: berh",
+          "count": 2
+        },
+        {
+          "value": "J: bueh",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "9::好v",
+      "textId": 9,
+      "questionNumber": 3,
+      "target": "好v",
+      "values": [
+        {
+          "value": "H: 33",
+          "count": 17
+        },
+        {
+          "value": "M: 22",
+          "count": 4
+        },
+        {
+          "value": "R: 23",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "9::想",
+      "textId": 9,
+      "questionNumber": 3,
+      "target": "想",
+      "values": [
+        {
+          "value": "C: siū",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "key": "9::永",
+      "textId": 9,
+      "questionNumber": 3,
+      "target": "永",
+      "values": [
+        {
+          "value": "H: 33",
+          "count": 17
+        },
+        {
+          "value": "R :23",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "key": "9::額",
+      "textId": 9,
+      "questionNumber": 3,
+      "target": "額",
+      "values": [
+        {
+          "value": "Js: gia22",
+          "count": 9
+        },
+        {
+          "value": "J: giah22",
+          "count": 5
+        },
+        {
+          "value": "C: giah23",
+          "count": 4
+        },
+        {
+          "value": "Cs: gia23",
+          "count": 2
+        },
+        {
+          "value": "Cs: gia3",
+          "count": 1
+        },
+        {
+          "value": "S: ia",
+          "count": 1
+        },
+        {
+          "value": "Ct: giah3",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "9::額t",
+      "textId": 9,
+      "questionNumber": 3,
+      "target": "額t",
+      "values": [
+        {
+          "value": "M: 22",
+          "count": 15
+        },
+        {
+          "value": "HR23",
+          "count": 7
+        },
+        {
+          "value": "HF31",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "10::下昏t",
+      "textId": 10,
+      "questionNumber": 4,
+      "target": "下昏t",
+      "values": [
+        {
+          "value": "M: ing22 am11",
+          "count": 6
+        },
+        {
+          "value": "R: ing23",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "key": "10::下昏v",
+      "textId": 10,
+      "questionNumber": 4,
+      "target": "下昏v",
+      "values": [
+        {
+          "value": "H: ing1 /im1 am3",
+          "count": 11
+        },
+        {
+          "value": "J: e huĩ",
+          "count": 3
+        },
+        {
+          "value": "*H: e am",
+          "count": 3
+        },
+        {
+          "value": "C: e hng",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "10::閒",
+      "textId": 10,
+      "questionNumber": 4,
+      "target": "閒",
+      "values": [
+        {
+          "value": "C: ing13",
+          "count": 19
+        },
+        {
+          "value": "J: ing12",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "11::茶米=袋米、鋤頭=豬頭 調型",
+      "textId": 11,
+      "questionNumber": 5,
+      "target": "茶米=袋米、鋤頭=豬頭 調型",
+      "values": [
+        {
+          "value": "J :[22≠11];[22=22](5=1)",
+          "count": 10
+        },
+        {
+          "value": "C:[11=11];[22≠11](5=7)",
+          "count": 7
+        },
+        {
+          "value": "S:[22-22];[ 22=22](1=5=7)",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "key": "12::阿伯=仔",
+      "textId": 12,
+      "questionNumber": 6,
+      "target": "阿伯=仔",
+      "values": [
+        {
+          "value": "q:[- ʔ2 a1]",
+          "count": 11
+        },
+        {
+          "value": "Tb[31](喉音入)",
+          "count": 10
+        },
+        {
+          "value": "*q:[21-1]",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "12::阿德=仔",
+      "textId": 12,
+      "questionNumber": 6,
+      "target": "阿德=仔",
+      "values": [
+        {
+          "value": "Tc[20-1]",
+          "count": 10
+        },
+        {
+          "value": "Tb[31]",
+          "count": 7
+        },
+        {
+          "value": "M0[2]",
+          "count": 3
+        },
+        {
+          "value": "Tv[31/21-1]",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "12::阿珠=仔，阿蘭=仔，阿狗=仔，阿賜=仔，阿樹=仔",
+      "textId": 12,
+      "questionNumber": 6,
+      "target": "阿珠=仔，阿蘭=仔，阿狗=仔，阿賜=仔，阿樹=仔",
+      "values": [
+        {
+          "value": "Ts",
+          "count": 8
+        },
+        {
+          "value": "L0[1]",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "key": "12::阿石=仔，阿葉仔 調型",
+      "textId": 12,
+      "questionNumber": 6,
+      "target": "阿石=仔，阿葉仔 調型",
+      "values": [
+        {
+          "value": "Tb[31](喉陽入)",
+          "count": 13
+        },
+        {
+          "value": "Tv[22]",
+          "count": 3
+        },
+        {
+          "value": "Tc[11]",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "12::阿達=仔，阿月=仔，阿熟=仔(陽入)",
+      "textId": 12,
+      "questionNumber": 6,
+      "target": "阿達=仔，阿月=仔，阿熟=仔(陽入)",
+      "values": [
+        {
+          "value": "Tb[31]",
+          "count": 17
+        },
+        {
+          "value": "Tv[22]",
+          "count": 2
+        },
+        {
+          "value": "Tc[11]",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "13::熟的",
+      "textId": 13,
+      "questionNumber": 7,
+      "target": "熟的",
+      "values": [
+        {
+          "value": "Tc[11]",
+          "count": 12
+        },
+        {
+          "value": "Tv[22]",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "13::眞的，假的，大的，細个，紅的，黑(鳥)的,生 的，厚的，金的，銀的",
+      "textId": 13,
+      "questionNumber": 7,
+      "target": "眞的，假的，大的，細个，紅的，黑(鳥)的,生 的，厚的，金的，銀的",
+      "values": [
+        {
+          "value": "Ts",
+          "count": 14
+        },
+        {
+          "value": "L0[1]",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "13::第七的、金色的、銀色的",
+      "textId": 13,
+      "questionNumber": 7,
+      "target": "第七的、金色的、銀色的",
+      "values": [
+        {
+          "value": "Tc[20-1]",
+          "count": 22
+        },
+        {
+          "value": "Tv[31/21-1]",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "13::薄的",
+      "textId": 13,
+      "questionNumber": 7,
+      "target": "薄的",
+      "values": [
+        {
+          "value": "Tc[11]",
+          "count": 12
+        },
+        {
+          "value": "Tv[22]",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "13::鐵的",
+      "textId": 13,
+      "questionNumber": 7,
+      "target": "鐵的",
+      "values": [
+        {
+          "value": "q:[- ʔ2 -]",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "14::一月、七月",
+      "textId": 14,
+      "questionNumber": 8,
+      "target": "一月、七月",
+      "values": [
+        {
+          "value": "Tb",
+          "count": 12
+        },
+        {
+          "value": "L0[1]",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "14::八月",
+      "textId": 14,
+      "questionNumber": 8,
+      "target": "八月",
+      "values": [
+        {
+          "value": "Tb",
+          "count": 12
+        },
+        {
+          "value": "q: [- ʔ2-]",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "14::六月、十月",
+      "textId": 14,
+      "questionNumber": 8,
+      "target": "六月、十月",
+      "values": [
+        {
+          "value": "Tb",
+          "count": 11
+        },
+        {
+          "value": "Tc[11]",
+          "count": 9
+        },
+        {
+          "value": "Tv[22]",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "14::正月、二月、三月、四月、五月、九月、十二月",
+      "textId": 14,
+      "questionNumber": 8,
+      "target": "正月、二月、三月、四月、五月、九月、十二月",
+      "values": [
+        {
+          "value": "Tb",
+          "count": 12
+        },
+        {
+          "value": "L0[1]",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "15::有消息=矣",
+      "textId": 15,
+      "questionNumber": 9,
+      "target": "有消息=矣",
+      "values": [
+        {
+          "value": "Tc[20-1]",
+          "count": 20
+        },
+        {
+          "value": "Tv[31/21-1]",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "15::有熟=矣",
+      "textId": 15,
+      "questionNumber": 9,
+      "target": "有熟=矣",
+      "values": [
+        {
+          "value": "Tc[11]",
+          "count": 14
+        },
+        {
+          "value": "Tv[22]",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "15::有食=矣",
+      "textId": 15,
+      "questionNumber": 9,
+      "target": "有食=矣",
+      "values": [
+        {
+          "value": "Tc[11]",
+          "count": 14
+        },
+        {
+          "value": "Tv[22]",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "15::用詞",
+      "textId": 15,
+      "questionNumber": 9,
+      "target": "用詞",
+      "values": [
+        {
+          "value": "J:矣",
+          "count": 13
+        },
+        {
+          "value": "C:咯",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "15::輸矣、贏矣、走矣、去矣、壞矣 ",
+      "textId": 15,
+      "questionNumber": 9,
+      "target": "輸矣、贏矣、走矣、去矣、壞矣 ",
+      "values": [
+        {
+          "value": "L0[1]",
+          "count": 16
+        },
+        {
+          "value": "Ts",
+          "count": 5
+        },
+        {
+          "value": "M0[2]",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "15::雞仔大隻=矣，皮有削=矣",
+      "textId": 15,
+      "questionNumber": 9,
+      "target": "雞仔大隻=矣，皮有削=矣",
+      "values": [
+        {
+          "value": "q: [- ʔ2 a1]",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "key": "16::(石頭)moh4咧(石頭等重物抱著)、矺咧(壓著) phih*=咧(趴著)",
+      "textId": 16,
+      "questionNumber": 10,
+      "target": "(石頭)moh4咧(石頭等重物抱著)、矺咧(壓著) phih*=咧(趴著)",
+      "values": [
+        {
+          "value": "q: [- ʔ le ]",
+          "count": 15
+        },
+        {
+          "value": "*q:[21-1]",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "16::仆(phak4)咧(趴著)、窒(that4)=咧(塞住)、束=咧(縛住)",
+      "textId": 16,
+      "questionNumber": 10,
+      "target": "仆(phak4)咧(趴著)、窒(that4)=咧(塞住)、束=咧(縛住)",
+      "values": [
+        {
+          "value": "L0[1]",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "key": "16::提咧",
+      "textId": 16,
+      "questionNumber": 10,
+      "target": "提咧",
+      "values": [
+        {
+          "value": "Tc[11]",
+          "count": 17
+        },
+        {
+          "value": "Tv[22]",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "16::縛咧",
+      "textId": 16,
+      "questionNumber": 10,
+      "target": "縛咧",
+      "values": [
+        {
+          "value": "Tc[11]",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "key": "16::關咧(關著)、有人佇咧(有人在)、坐咧(坐著)、跍(khu5)咧(蹲著)、弔咧(弔著)、倒咧(躺著)",
+      "textId": 16,
+      "questionNumber": 10,
+      "target": "關咧(關著)、有人佇咧(有人在)、坐咧(坐著)、跍(khu5)咧(蹲著)、弔咧(弔著)、倒咧(躺著)",
+      "values": [
+        {
+          "value": "L0[1]",
+          "count": 14
+        },
+        {
+          "value": "Ts",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "key": "17::剝來(解開拿過來)",
+      "textId": 17,
+      "questionNumber": 11,
+      "target": "剝來(解開拿過來)",
+      "values": [
+        {
+          "value": "Tc[20-1]",
+          "count": 16
+        },
+        {
+          "value": "Tv[31/21-1]",
+          "count": 2
+        },
+        {
+          "value": "M0[2]",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "17::抾來(撿過來)",
+      "textId": 17,
+      "questionNumber": 11,
+      "target": "抾來(撿過來)",
+      "values": [
+        {
+          "value": "q:[- ʔ2 lai1]",
+          "count": 19
+        },
+        {
+          "value": "*q:[21-1]",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "17::提來，掠來(抓來)",
+      "textId": 17,
+      "questionNumber": 11,
+      "target": "提來，掠來(抓來)",
+      "values": [
+        {
+          "value": "Tc[11]",
+          "count": 15
+        },
+        {
+          "value": "Tv[22]",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "key": "17::擔來(挑過來)、抱來、搶來(提來)、送來、 行來、走來(跑過來)",
+      "textId": 17,
+      "questionNumber": 11,
+      "target": "擔來(挑過來)、抱來、搶來(提來)、送來、 行來、走來(跑過來)",
+      "values": [
+        {
+          "value": "L0[1]",
+          "count": 17
+        },
+        {
+          "value": "Ts",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "key": "17::縛來(綁起來抓來)",
+      "textId": 17,
+      "questionNumber": 11,
+      "target": "縛來(綁起來抓來)",
+      "values": [
+        {
+          "value": "Tc[11]",
+          "count": 16
+        },
+        {
+          "value": "Tv[22]",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "key": "18::剝去(解開拿去)",
+      "textId": 18,
+      "questionNumber": 12,
+      "target": "剝去(解開拿去)",
+      "values": [
+        {
+          "value": "L0[1]",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "key": "18::抾去(拾去捡起來拿去)",
+      "textId": 18,
+      "questionNumber": 12,
+      "target": "抾去(拾去捡起來拿去)",
+      "values": [
+        {
+          "value": "q:[- ʔ2 lai1]",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "key": "18::提去，掠去",
+      "textId": 18,
+      "questionNumber": 12,
+      "target": "提去，掠去",
+      "values": [
+        {
+          "value": "Tc[11]",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "key": "18::擔去、抱去、暈去(暈過去)、行去、 送去、走去",
+      "textId": 18,
+      "questionNumber": 12,
+      "target": "擔去、抱去、暈去(暈過去)、行去、 送去、走去",
+      "values": [
+        {
+          "value": "L0[1]",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "key": "18::縛去(綁起來抓去)",
+      "textId": 18,
+      "questionNumber": 12,
+      "target": "縛去(綁起來抓去)",
+      "values": [
+        {
+          "value": "Tc[11]",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "key": "19::剝起來(解下來)",
+      "textId": 19,
+      "questionNumber": 13,
+      "target": "剝起來(解下來)",
+      "values": [
+        {
+          "value": "L0[1]",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "key": "19::剝起來(解下來)(音)",
+      "textId": 19,
+      "questionNumber": 13,
+      "target": "剝起來(解下來)(音)",
+      "values": [
+        {
+          "value": "khai",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "19::抾起來(撿起來拿上來)",
+      "textId": 19,
+      "questionNumber": 13,
+      "target": "抾起來(撿起來拿上來)",
+      "values": [
+        {
+          "value": "q:[- ʔ2 khi1 lai1]",
+          "count": 19
+        },
+        {
+          "value": "*q:[21-1]",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "19::提起來，掠起來",
+      "textId": 19,
+      "questionNumber": 13,
+      "target": "提起來，掠起來",
+      "values": [
+        {
+          "value": "Tc[11]",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "key": "19::擔起來(挑上來)、抱起來(抱上來)、搶起來 (提起來)、送起來(送上來)、行起來(走上來)、 走起來 (跑上來)",
+      "textId": 19,
+      "questionNumber": 13,
+      "target": "擔起來(挑上來)、抱起來(抱上來)、搶起來 (提起來)、送起來(送上來)、行起來(走上來)、 走起來 (跑上來)",
+      "values": [
+        {
+          "value": "L0[1]",
+          "count": 20
+        },
+        {
+          "value": "Ts",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "19::縛起來",
+      "textId": 19,
+      "questionNumber": 13,
+      "target": "縛起來",
+      "values": [
+        {
+          "value": "Tc[11]",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "key": "20::剝落來(解開拿下來)",
+      "textId": 20,
+      "questionNumber": 14,
+      "target": "剝落來(解開拿下來)",
+      "values": [
+        {
+          "value": "L0[1]",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "20::抾落來(上面的東西撿下來)",
+      "textId": 20,
+      "questionNumber": 14,
+      "target": "抾落來(上面的東西撿下來)",
+      "values": [
+        {
+          "value": "q:[- ʔ2 lo1 lai1]",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "20::提落來(拿下來)",
+      "textId": 20,
+      "questionNumber": 14,
+      "target": "提落來(拿下來)",
+      "values": [
+        {
+          "value": "Tc[11]",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "20::擔落來、抱落來、搶落來(提下來)、 送落來、 行落來、走落來(跑下來)",
+      "textId": 20,
+      "questionNumber": 14,
+      "target": "擔落來、抱落來、搶落來(提下來)、 送落來、 行落來、走落來(跑下來)",
+      "values": [
+        {
+          "value": "L0[1]",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "20::縛落來(綁起來抓下來)",
+      "textId": 20,
+      "questionNumber": 14,
+      "target": "縛落來(綁起來抓下來)",
+      "values": [
+        {
+          "value": "Tc[11]",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "21::10喉入",
+      "textId": 21,
+      "questionNumber": 15,
+      "target": "10喉入",
+      "values": [
+        {
+          "value": "H[33]",
+          "count": 15
+        },
+        {
+          "value": "F[31]",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "key": "21::11陽平",
+      "textId": 21,
+      "questionNumber": 15,
+      "target": "11陽平",
+      "values": [
+        {
+          "value": "M[22]",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "key": "21::12陽去",
+      "textId": 21,
+      "questionNumber": 15,
+      "target": "12陽去",
+      "values": [
+        {
+          "value": "M[22]",
+          "count": 17
+        },
+        {
+          "value": "L[11]",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "key": "21::13陽入",
+      "textId": 21,
+      "questionNumber": 15,
+      "target": "13陽入",
+      "values": [
+        {
+          "value": "M[22]",
+          "count": 15
+        },
+        {
+          "value": "L[11]",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "key": "21::7陰平",
+      "textId": 21,
+      "questionNumber": 15,
+      "target": "7陰平",
+      "values": [
+        {
+          "value": "M[22]",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "21::8陰上",
+      "textId": 21,
+      "questionNumber": 15,
+      "target": "8陰上",
+      "values": [
+        {
+          "value": "H[33]",
+          "count": 13
+        },
+        {
+          "value": "R[23]",
+          "count": 6
+        },
+        {
+          "value": "M[22]",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "21::9陰去",
+      "textId": 21,
+      "questionNumber": 15,
+      "target": "9陰去",
+      "values": [
+        {
+          "value": "H[33]",
+          "count": 16
+        },
+        {
+          "value": "F[31]",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "21::「仔」字調",
+      "textId": 21,
+      "questionNumber": 15,
+      "target": "「仔」字調",
+      "values": [
+        {
+          "value": "O:[31]",
+          "count": 14
+        },
+        {
+          "value": "Tp: [31/21]",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "key": "21::「仔」字音",
+      "textId": 21,
+      "questionNumber": 15,
+      "target": "「仔」字音",
+      "values": [
+        {
+          "value": "a[a]",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "key": "21::狗仔;鉤仔",
+      "textId": 21,
+      "questionNumber": 15,
+      "target": "狗仔;鉤仔",
+      "values": [
+        {
+          "value": "*Tp 狗仔[33-31]鉤仔[22-31](不發生「仔」字的翹翹板變化)",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "21::狗仔、囡仔、椅仔(前字調調型)",
+      "textId": 21,
+      "questionNumber": 15,
+      "target": "狗仔、囡仔、椅仔(前字調調型)",
+      "values": [
+        {
+          "value": "H[33-31]",
+          "count": 13
+        },
+        {
+          "value": "R[23-31]",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "key": "21::類型",
+      "textId": 21,
+      "questionNumber": 15,
+      "target": "類型",
+      "values": [
+        {
+          "value": "Lm[=]",
+          "count": 15
+        },
+        {
+          "value": "*Lm[≠]",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "key": "22::1. 字",
+      "textId": 22,
+      "questionNumber": 16,
+      "target": "1. 字",
+      "values": [
+        {
+          "value": "J: ji",
+          "count": 9
+        },
+        {
+          "value": "C: li",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "22::2. 二",
+      "textId": 22,
+      "questionNumber": 16,
+      "target": "2. 二",
+      "values": [
+        {
+          "value": "J: ji",
+          "count": 10
+        },
+        {
+          "value": "C: li",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "key": "23::1. 熱",
+      "textId": 23,
+      "questionNumber": 17,
+      "target": "1. 熱",
+      "values": [
+        {
+          "value": "C: lua",
+          "count": 11
+        },
+        {
+          "value": "J: jua",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "23::2. 日",
+      "textId": 23,
+      "questionNumber": 17,
+      "target": "2. 日",
+      "values": [
+        {
+          "value": "J: jit",
+          "count": 12
+        },
+        {
+          "value": "C: lit",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "24::1. 裕",
+      "textId": 24,
+      "questionNumber": 18,
+      "target": "1. 裕",
+      "values": [
+        {
+          "value": "J: ju",
+          "count": 10
+        },
+        {
+          "value": "C: lu",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "key": "24::2. 忍",
+      "textId": 24,
+      "questionNumber": 18,
+      "target": "2. 忍",
+      "values": [
+        {
+          "value": "C: lim",
+          "count": 11
+        },
+        {
+          "value": "J: jim",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "24::3. 乳c",
+      "textId": 24,
+      "questionNumber": 18,
+      "target": "3. 乳c",
+      "values": [
+        {
+          "value": "J: j-",
+          "count": 10
+        },
+        {
+          "value": "Ct: l-",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "24::4. 乳v",
+      "textId": 24,
+      "questionNumber": 18,
+      "target": "4. 乳v",
+      "values": [
+        {
+          "value": "J: i-",
+          "count": 9
+        },
+        {
+          "value": "Ct: u-",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "key": "25::1. 閨",
+      "textId": 25,
+      "questionNumber": 19,
+      "target": "1. 閨",
+      "values": [
+        {
+          "value": "C: lun",
+          "count": 18
+        },
+        {
+          "value": "J: jun",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "key": "25::2. 月",
+      "textId": 25,
+      "questionNumber": 19,
+      "target": "2. 月",
+      "values": [
+        {
+          "value": "J: gue",
+          "count": 12
+        },
+        {
+          "value": "C: gerh",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "25::3. 入",
+      "textId": 25,
+      "questionNumber": 19,
+      "target": "3. 入",
+      "values": [
+        {
+          "value": "J: jip",
+          "count": 12
+        },
+        {
+          "value": "Ct: l-",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "25::4. 潤",
+      "textId": 25,
+      "questionNumber": 19,
+      "target": "4. 潤",
+      "values": [
+        {
+          "value": "C: lun",
+          "count": 19
+        },
+        {
+          "value": "J: jun",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "25::5. 韌",
+      "textId": 25,
+      "questionNumber": 19,
+      "target": "5. 韌",
+      "values": [
+        {
+          "value": "C: lun",
+          "count": 17
+        },
+        {
+          "value": "J: jun",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "26::1. 阮",
+      "textId": 26,
+      "questionNumber": 20,
+      "target": "1. 阮",
+      "values": [
+        {
+          "value": "J:guan",
+          "count": 9
+        },
+        {
+          "value": "C:gun",
+          "count": 6
+        },
+        {
+          "value": "Cs: un",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "26::2. 囝",
+      "textId": 26,
+      "questionNumber": 20,
+      "target": "2. 囝",
+      "values": [
+        {
+          "value": "J:kiann2",
+          "count": 12
+        },
+        {
+          "value": "C:kann2",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "key": "26::3. 袂",
+      "textId": 26,
+      "questionNumber": 20,
+      "target": "3. 袂",
+      "values": [
+        {
+          "value": "C:bue",
+          "count": 12
+        },
+        {
+          "value": "J:be",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "26::4. 曉",
+      "textId": 26,
+      "questionNumber": 20,
+      "target": "4. 曉",
+      "values": [
+        {
+          "value": "J:hiau",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "26::5. 語v",
+      "textId": 26,
+      "questionNumber": 20,
+      "target": "5. 語v",
+      "values": [
+        {
+          "value": "J:gi",
+          "count": 13
+        },
+        {
+          "value": "C:gir",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "key": "26::6. 語c",
+      "textId": 26,
+      "questionNumber": 20,
+      "target": "6. 語c",
+      "values": [
+        {
+          "value": "O:g-",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "27::1. 糕",
+      "textId": 27,
+      "questionNumber": 21,
+      "target": "1. 糕",
+      "values": [
+        {
+          "value": "O:ko",
+          "count": 14
+        },
+        {
+          "value": "N:kor",
+          "count": 5
+        },
+        {
+          "value": "S:kɔ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "27::2. 糊",
+      "textId": 27,
+      "questionNumber": 21,
+      "target": "2. 糊",
+      "values": [
+        {
+          "value": "O:kɔ",
+          "count": 19
+        },
+        {
+          "value": "S:ko",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "27::3. 類型",
+      "textId": 27,
+      "questionNumber": 21,
+      "target": "3. 類型",
+      "values": [
+        {
+          "value": "O:分",
+          "count": 13
+        },
+        {
+          "value": "N:台南型展唇",
+          "count": 4
+        },
+        {
+          "value": "S:合",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "28::1. 蚵",
+      "textId": 28,
+      "questionNumber": 22,
+      "target": "1. 蚵",
+      "values": [
+        {
+          "value": "N:or",
+          "count": 10
+        },
+        {
+          "value": "O: o",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "28::2. 芋",
+      "textId": 28,
+      "questionNumber": 22,
+      "target": "2. 芋",
+      "values": [
+        {
+          "value": "O:ɔ",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "28::3. 類型",
+      "textId": 28,
+      "questionNumber": 22,
+      "target": "3. 類型",
+      "values": [
+        {
+          "value": "N:台南型展",
+          "count": 9
+        },
+        {
+          "value": "O:分",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "29::1. 雙",
+      "textId": 29,
+      "questionNumber": 23,
+      "target": "1. 雙",
+      "values": [
+        {
+          "value": "J: siang",
+          "count": 13
+        },
+        {
+          "value": "C: sang",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "29::2. 襪",
+      "textId": 29,
+      "questionNumber": 23,
+      "target": "2. 襪",
+      "values": [
+        {
+          "value": "J: bue",
+          "count": 11
+        },
+        {
+          "value": "C: ber",
+          "count": 9
+        },
+        {
+          "value": "Ct: be",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "29::3. 奇",
+      "textId": 29,
+      "questionNumber": 23,
+      "target": "3. 奇",
+      "values": [
+        {
+          "value": "C: kha",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "key": "29::4. 鞋",
+      "textId": 29,
+      "questionNumber": 23,
+      "target": "4. 鞋",
+      "values": [
+        {
+          "value": "Ct: ue",
+          "count": 13
+        },
+        {
+          "value": "J:e",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "30::1. 阮",
+      "textId": 30,
+      "questionNumber": 24,
+      "target": "1. 阮",
+      "values": [
+        {
+          "value": "J: guan",
+          "count": 9
+        },
+        {
+          "value": "C: gun",
+          "count": 7
+        },
+        {
+          "value": "Cs: un",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "30::2. 妹",
+      "textId": 30,
+      "questionNumber": 24,
+      "target": "2. 妹",
+      "values": [
+        {
+          "value": "C: ber",
+          "count": 9
+        },
+        {
+          "value": "J: muẽ",
+          "count": 7
+        },
+        {
+          "value": "J2 : muãi",
+          "count": 2
+        },
+        {
+          "value": "Jc:bue",
+          "count": 1
+        },
+        {
+          "value": "Ct: be",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "30::3. 踅",
+      "textId": 30,
+      "questionNumber": 24,
+      "target": "3. 踅",
+      "values": [
+        {
+          "value": "J: se",
+          "count": 10
+        },
+        {
+          "value": "C: ser",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "30::4. 街",
+      "textId": 30,
+      "questionNumber": 24,
+      "target": "4. 街",
+      "values": [
+        {
+          "value": "J: ke",
+          "count": 11
+        },
+        {
+          "value": "Ct: kue",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "30::5. 買",
+      "textId": 30,
+      "questionNumber": 24,
+      "target": "5. 買",
+      "values": [
+        {
+          "value": "J: be",
+          "count": 10
+        },
+        {
+          "value": "C: bue",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "30::6. 針",
+      "textId": 30,
+      "questionNumber": 24,
+      "target": "6. 針",
+      "values": [
+        {
+          "value": "J: ciam",
+          "count": 15
+        },
+        {
+          "value": "C: cam",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "key": "31::1. 權",
+      "textId": 31,
+      "questionNumber": 25,
+      "target": "1. 權",
+      "values": [
+        {
+          "value": "J:khuan",
+          "count": 14
+        },
+        {
+          "value": "C:kuan",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "key": "31::2. 罵v",
+      "textId": 31,
+      "questionNumber": 25,
+      "target": "2. 罵v",
+      "values": [
+        {
+          "value": "C:mã",
+          "count": 12
+        },
+        {
+          "value": "J:mẽ",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "31::3. 罵t",
+      "textId": 31,
+      "questionNumber": 25,
+      "target": "3. 罵t",
+      "values": [
+        {
+          "value": "O:T7",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "32::1. 慣",
+      "textId": 32,
+      "questionNumber": 26,
+      "target": "1. 慣",
+      "values": [
+        {
+          "value": "J: kuan",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "key": "32::2. 縣",
+      "textId": 32,
+      "questionNumber": 26,
+      "target": "2. 縣",
+      "values": [
+        {
+          "value": "J: kuan",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "33::1. 挨",
+      "textId": 33,
+      "questionNumber": 27,
+      "target": "1. 挨",
+      "values": [
+        {
+          "value": "J:e",
+          "count": 10
+        },
+        {
+          "value": "Ct: ue",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "33::2. 粿",
+      "textId": 33,
+      "questionNumber": 27,
+      "target": "2. 粿",
+      "values": [
+        {
+          "value": "J: kue",
+          "count": 11
+        },
+        {
+          "value": "C: ker",
+          "count": 9
+        },
+        {
+          "value": "Ct: ke",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "33::3. ト",
+      "textId": 33,
+      "questionNumber": 27,
+      "target": "3. ト",
+      "values": [
+        {
+          "value": "Ct: beh",
+          "count": 14
+        },
+        {
+          "value": "C: berh",
+          "count": 5
+        },
+        {
+          "value": "J: bue",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "33::4. 過",
+      "textId": 33,
+      "questionNumber": 27,
+      "target": "4. 過",
+      "values": [
+        {
+          "value": "J: kue",
+          "count": 14
+        },
+        {
+          "value": "C: ker",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "key": "34::1. 乳v",
+      "textId": 34,
+      "questionNumber": 28,
+      "target": "1. 乳v",
+      "values": [
+        {
+          "value": "J:i-",
+          "count": 9
+        },
+        {
+          "value": "Ct: u-",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "34::2. 兩",
+      "textId": 34,
+      "questionNumber": 28,
+      "target": "2. 兩",
+      "values": [
+        {
+          "value": "C: nng",
+          "count": 19
+        },
+        {
+          "value": "J: nɔ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "34::3. 塊",
+      "textId": 34,
+      "questionNumber": 28,
+      "target": "3. 塊",
+      "values": [
+        {
+          "value": "J: Cte",
+          "count": 10
+        },
+        {
+          "value": "C: ter",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "34::4. 八",
+      "textId": 34,
+      "questionNumber": 28,
+      "target": "4. 八",
+      "values": [
+        {
+          "value": "J: pe",
+          "count": 10
+        },
+        {
+          "value": "C: pue",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "34::5. 銀",
+      "textId": 34,
+      "questionNumber": 28,
+      "target": "5. 銀",
+      "values": [
+        {
+          "value": "J: gin",
+          "count": 11
+        },
+        {
+          "value": "Ct: gun",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "34::6乳c",
+      "textId": 34,
+      "questionNumber": 28,
+      "target": "6乳c",
+      "values": [
+        {
+          "value": "J:j-",
+          "count": 10
+        },
+        {
+          "value": "Ct:l-",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "key": "35::1. 問",
+      "textId": 35,
+      "questionNumber": 29,
+      "target": "1. 問",
+      "values": [
+        {
+          "value": "C: mng",
+          "count": 14
+        },
+        {
+          "value": "J: muĩ",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "key": "35::2. ト",
+      "textId": 35,
+      "questionNumber": 29,
+      "target": "2. ト",
+      "values": [
+        {
+          "value": "Ct:beh",
+          "count": 8
+        },
+        {
+          "value": "J: bueh",
+          "count": 5
+        },
+        {
+          "value": "C: berh",
+          "count": 5
+        },
+        {
+          "value": "J: buch",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "35::3. 也",
+      "textId": 35,
+      "questionNumber": 29,
+      "target": "3. 也",
+      "values": [
+        {
+          "value": "C: iah",
+          "count": 6
+        },
+        {
+          "value": "J: ia11",
+          "count": 6
+        },
+        {
+          "value": "Js: a11",
+          "count": 4
+        },
+        {
+          "value": "Cs: ah",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "key": "35::4. 毋",
+      "textId": 35,
+      "questionNumber": 29,
+      "target": "4. 毋",
+      "values": [
+        {
+          "value": "J: m7",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "key": "35::5. 會",
+      "textId": 35,
+      "questionNumber": 29,
+      "target": "5. 會",
+      "values": [
+        {
+          "value": "J: e",
+          "count": 19
+        },
+        {
+          "value": "Ct: ue",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "35::6. 袂",
+      "textId": 35,
+      "questionNumber": 29,
+      "target": "6. 袂",
+      "values": [
+        {
+          "value": "C: bue",
+          "count": 11
+        },
+        {
+          "value": "J: be",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "key": "36::1. 月",
+      "textId": 36,
+      "questionNumber": 30,
+      "target": "1. 月",
+      "values": [
+        {
+          "value": "J: gue",
+          "count": 11
+        },
+        {
+          "value": "C: ger",
+          "count": 9
+        },
+        {
+          "value": "Ct: ge",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "36::2. 初",
+      "textId": 36,
+      "questionNumber": 30,
+      "target": "2. 初",
+      "values": [
+        {
+          "value": "J: che",
+          "count": 10
+        },
+        {
+          "value": "Ct: chue",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "36::3. 買",
+      "textId": 36,
+      "questionNumber": 30,
+      "target": "3. 買",
+      "values": [
+        {
+          "value": "J: be",
+          "count": 11
+        },
+        {
+          "value": "C: bue",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "36::4. 地",
+      "textId": 36,
+      "questionNumber": 30,
+      "target": "4. 地",
+      "values": [
+        {
+          "value": "J: te",
+          "count": 12
+        },
+        {
+          "value": "Ct: tue",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "36::5. 底",
+      "textId": 36,
+      "questionNumber": 30,
+      "target": "5. 底",
+      "values": [
+        {
+          "value": "J: te",
+          "count": 12
+        },
+        {
+          "value": "Ct: tue",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "36::6. 著",
+      "textId": 36,
+      "questionNumber": 30,
+      "target": "6. 著",
+      "values": [
+        {
+          "value": "O: tioh",
+          "count": 17
+        },
+        {
+          "value": "S: toh",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "key": "36::7. 卜",
+      "textId": 36,
+      "questionNumber": 30,
+      "target": "7. 卜",
+      "values": [
+        {
+          "value": "Ct: beh",
+          "count": 11
+        },
+        {
+          "value": "C: berh",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "key": "36::8. 賣",
+      "textId": 36,
+      "questionNumber": 30,
+      "target": "8. 賣",
+      "values": [
+        {
+          "value": "J: be",
+          "count": 12
+        },
+        {
+          "value": "C: bue",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "36::9. 初c",
+      "textId": 36,
+      "questionNumber": 30,
+      "target": "9. 初c",
+      "values": [
+        {
+          "value": "O: ch-",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "37::1. 清",
+      "textId": 37,
+      "questionNumber": 31,
+      "target": "1. 清",
+      "values": [
+        {
+          "value": "J: ching",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "key": "37::2. 明",
+      "textId": 37,
+      "questionNumber": 31,
+      "target": "2. 明",
+      "values": [
+        {
+          "value": "J: bing",
+          "count": 17
+        },
+        {
+          "value": "C: miã",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "37::3. 節",
+      "textId": 37,
+      "questionNumber": 31,
+      "target": "3. 節",
+      "values": [
+        {
+          "value": "J: ce",
+          "count": 10
+        },
+        {
+          "value": "Sb: ciat",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "37::4. 捼c",
+      "textId": 37,
+      "questionNumber": 31,
+      "target": "4. 捼c",
+      "values": [
+        {
+          "value": "J: j",
+          "count": 11
+        },
+        {
+          "value": "C: l",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "37::5. 捼v",
+      "textId": 37,
+      "questionNumber": 31,
+      "target": "5. 捼v",
+      "values": [
+        {
+          "value": "J: ue",
+          "count": 12
+        },
+        {
+          "value": "C: er",
+          "count": 6
+        },
+        {
+          "value": "Ct: e",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "37::6. 清c",
+      "textId": 37,
+      "questionNumber": 31,
+      "target": "6. 清c",
+      "values": [
+        {
+          "value": "O: ch",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "key": "38::1. 汝",
+      "textId": 38,
+      "questionNumber": 32,
+      "target": "1. 汝",
+      "values": [
+        {
+          "value": "J: li",
+          "count": 15
+        },
+        {
+          "value": "C: lir",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "38::2. 去",
+      "textId": 38,
+      "questionNumber": 32,
+      "target": "2. 去",
+      "values": [
+        {
+          "value": "J: khi",
+          "count": 14
+        },
+        {
+          "value": "C: khir",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "key": "38::3. 買",
+      "textId": 38,
+      "questionNumber": 32,
+      "target": "3. 買",
+      "values": [
+        {
+          "value": "J: be",
+          "count": 11
+        },
+        {
+          "value": "C: bue",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "38::4. 魚",
+      "textId": 38,
+      "questionNumber": 32,
+      "target": "4. 魚",
+      "values": [
+        {
+          "value": "J: hi",
+          "count": 13
+        },
+        {
+          "value": "C: hir",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "key": "38::5. 市c",
+      "textId": 38,
+      "questionNumber": 32,
+      "target": "5. 市c",
+      "values": [
+        {
+          "value": "O: ch",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "key": "39::1. 蕃",
+      "textId": 39,
+      "questionNumber": 33,
+      "target": "1. 蕃",
+      "values": [
+        {
+          "value": "O: han",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "key": "39::2. 薯",
+      "textId": 39,
+      "questionNumber": 33,
+      "target": "2. 薯",
+      "values": [
+        {
+          "value": "J: ci",
+          "count": 13
+        },
+        {
+          "value": "C: cir",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "39::3. 園",
+      "textId": 39,
+      "questionNumber": 33,
+      "target": "3. 園",
+      "values": [
+        {
+          "value": "J: huĩ",
+          "count": 10
+        },
+        {
+          "value": "C: hng",
+          "count": 10
+        },
+        {
+          "value": "Cb: ng",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "39::4. 底",
+      "textId": 39,
+      "questionNumber": 33,
+      "target": "4. 底",
+      "values": [
+        {
+          "value": "J: te",
+          "count": 11
+        },
+        {
+          "value": "Ct: tue",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "39::5. 真",
+      "textId": 39,
+      "questionNumber": 33,
+      "target": "5. 真",
+      "values": [
+        {
+          "value": "J:cin1",
+          "count": 13
+        },
+        {
+          "value": "Jg: cin31",
+          "count": 7
+        },
+        {
+          "value": "C: ciann5",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "39::6. 儕",
+      "textId": 39,
+      "questionNumber": 33,
+      "target": "6. 儕",
+      "values": [
+        {
+          "value": "Ct: cue",
+          "count": 11
+        },
+        {
+          "value": "J: ce",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "39::7. 老",
+      "textId": 39,
+      "questionNumber": 33,
+      "target": "7. 老",
+      "values": [
+        {
+          "value": "Ct: niau",
+          "count": 19
+        },
+        {
+          "value": "C1: nɔ/",
+          "count": 1
+        },
+        {
+          "value": "C2: lo",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "39::8. 鼠",
+      "textId": 39,
+      "questionNumber": 33,
+      "target": "8. 鼠",
+      "values": [
+        {
+          "value": "J: chi",
+          "count": 10
+        },
+        {
+          "value": "C: chir",
+          "count": 10
+        },
+        {
+          "value": "Ct: chu",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "39::9. 鼠c",
+      "textId": 39,
+      "questionNumber": 33,
+      "target": "9. 鼠c",
+      "values": [
+        {
+          "value": "O: ch",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "key": "40::1. 火",
+      "textId": 40,
+      "questionNumber": 34,
+      "target": "1. 火",
+      "values": [
+        {
+          "value": "J: hue",
+          "count": 13
+        },
+        {
+          "value": "C: her",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "key": "40::2. 雞",
+      "textId": 40,
+      "questionNumber": 34,
+      "target": "2. 雞",
+      "values": [
+        {
+          "value": "J: ke",
+          "count": 10
+        },
+        {
+          "value": "Ct: kue",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "40::3. 母",
+      "textId": 40,
+      "questionNumber": 34,
+      "target": "3. 母",
+      "values": [
+        {
+          "value": "C: bu",
+          "count": 11
+        },
+        {
+          "value": "J: bo",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "40::4. 卵",
+      "textId": 40,
+      "questionNumber": 34,
+      "target": "4. 卵",
+      "values": [
+        {
+          "value": "C: nng",
+          "count": 12
+        },
+        {
+          "value": "J: nuĩ",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "41::1. 媒",
+      "textId": 41,
+      "questionNumber": 35,
+      "target": "1. 媒",
+      "values": [
+        {
+          "value": "Sb: mũi",
+          "count": 7
+        },
+        {
+          "value": "J: muẽ",
+          "count": 5
+        },
+        {
+          "value": "C: hm",
+          "count": 5
+        },
+        {
+          "value": "J2: muãi",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "41::2. 娘",
+      "textId": 41,
+      "questionNumber": 35,
+      "target": "2. 娘",
+      "values": [
+        {
+          "value": "C: niũ",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "41::3. 跨",
+      "textId": 41,
+      "questionNumber": 35,
+      "target": "3. 跨",
+      "values": [
+        {
+          "value": "O: hann7",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "key": "41::4. 過",
+      "textId": 41,
+      "questionNumber": 35,
+      "target": "4. 過",
+      "values": [
+        {
+          "value": "J: kue",
+          "count": 14
+        },
+        {
+          "value": "C: ker",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "key": "41::5. 奠",
+      "textId": 41,
+      "questionNumber": 35,
+      "target": "5. 奠",
+      "values": [
+        {
+          "value": "J: ting",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "41::6媒",
+      "textId": 41,
+      "questionNumber": 35,
+      "target": "6媒",
+      "values": [
+        {
+          "value": "J: m",
+          "count": 14
+        },
+        {
+          "value": "C: h",
+          "count": 4
+        },
+        {
+          "value": "C: pher",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "42::1. 回",
+      "textId": 42,
+      "questionNumber": 36,
+      "target": "1. 回",
+      "values": [
+        {
+          "value": "J: hue",
+          "count": 18
+        },
+        {
+          "value": "C: her",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "42::2. 批",
+      "textId": 42,
+      "questionNumber": 36,
+      "target": "2. 批",
+      "values": [
+        {
+          "value": "C: phue",
+          "count": 12
+        },
+        {
+          "value": "J: phe",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "42::3. 後",
+      "textId": 42,
+      "questionNumber": 36,
+      "target": "3. 後",
+      "values": [
+        {
+          "value": "C: hio",
+          "count": 20
+        },
+        {
+          "value": "J: ho",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "42::4. 悔",
+      "textId": 42,
+      "questionNumber": 36,
+      "target": "4. 悔",
+      "values": [
+        {
+          "value": "O: hue",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "key": "42::5. 做",
+      "textId": 42,
+      "questionNumber": 36,
+      "target": "5. 做",
+      "values": [
+        {
+          "value": "J: co",
+          "count": 14
+        },
+        {
+          "value": "Ct: cue6",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "key": "42::6. 貿",
+      "textId": 42,
+      "questionNumber": 36,
+      "target": "6. 貿",
+      "values": [
+        {
+          "value": "J2: mo",
+          "count": 8
+        },
+        {
+          "value": "J: bɔ",
+          "count": 8
+        },
+        {
+          "value": "S: bɔk",
+          "count": 4
+        },
+        {
+          "value": "C: bio",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "42::7. 易t",
+      "textId": 42,
+      "questionNumber": 36,
+      "target": "7. 易t",
+      "values": [
+        {
+          "value": "Ms: 20",
+          "count": 17
+        },
+        {
+          "value": "HF31",
+          "count": 2
+        },
+        {
+          "value": "M: 22",
+          "count": 1
+        },
+        {
+          "value": "HR23",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "42::8. 易v",
+      "textId": 42,
+      "questionNumber": 36,
+      "target": "8. 易v",
+      "values": [
+        {
+          "value": "O:[iǝk]",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "43::1. 糜仔",
+      "textId": 43,
+      "questionNumber": 37,
+      "target": "1. 糜仔",
+      "values": [
+        {
+          "value": "C: ber",
+          "count": 8
+        },
+        {
+          "value": "J: muɛ",
+          "count": 7
+        },
+        {
+          "value": "J2: muãi",
+          "count": 4
+        },
+        {
+          "value": "Ct: be",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "43::2. 配",
+      "textId": 43,
+      "questionNumber": 37,
+      "target": "2. 配",
+      "values": [
+        {
+          "value": "J: phue",
+          "count": 18
+        },
+        {
+          "value": "C: pher",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "43::3. 梅仔",
+      "textId": 43,
+      "questionNumber": 37,
+      "target": "3. 梅仔",
+      "values": [
+        {
+          "value": "J2: muɛ",
+          "count": 10
+        },
+        {
+          "value": "J: bue",
+          "count": 6
+        },
+        {
+          "value": "Sb: muĩ",
+          "count": 3
+        },
+        {
+          "value": "C2 :m5a2",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "44::1. 豬",
+      "textId": 44,
+      "questionNumber": 38,
+      "target": "1. 豬",
+      "values": [
+        {
+          "value": "J: ti",
+          "count": 15
+        },
+        {
+          "value": "C: tir",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "key": "44::2. 血",
+      "textId": 44,
+      "questionNumber": 38,
+      "target": "2. 血",
+      "values": [
+        {
+          "value": "J: hue",
+          "count": 11
+        },
+        {
+          "value": "C: hui",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "44::3. 粿",
+      "textId": 44,
+      "questionNumber": 38,
+      "target": "3. 粿",
+      "values": [
+        {
+          "value": "J: kue",
+          "count": 11
+        },
+        {
+          "value": "C: ker",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "44::4. 算",
+      "textId": 44,
+      "questionNumber": 38,
+      "target": "4. 算",
+      "values": [
+        {
+          "value": "C: sng",
+          "count": 11
+        },
+        {
+          "value": "J: suĩ",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "44::5. 塊",
+      "textId": 44,
+      "questionNumber": 38,
+      "target": "5. 塊",
+      "values": [
+        {
+          "value": "J: te",
+          "count": 11
+        },
+        {
+          "value": "C: ter",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "44::6, 斤",
+      "textId": 44,
+      "questionNumber": 38,
+      "target": "6, 斤",
+      "values": [
+        {
+          "value": "J: kin",
+          "count": 11
+        },
+        {
+          "value": "Ct: kun",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "45::1. 穿",
+      "textId": 45,
+      "questionNumber": 39,
+      "target": "1. 穿",
+      "values": [
+        {
+          "value": "A: ching7",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "45::2. 皮",
+      "textId": 45,
+      "questionNumber": 39,
+      "target": "2. 皮",
+      "values": [
+        {
+          "value": "J: phue",
+          "count": 11
+        },
+        {
+          "value": "C: pher",
+          "count": 7
+        },
+        {
+          "value": "Ct: phe",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "45::3. 鞋",
+      "textId": 45,
+      "questionNumber": 39,
+      "target": "3. 鞋",
+      "values": [
+        {
+          "value": "J: e5",
+          "count": 10
+        },
+        {
+          "value": "Ct: ue5",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "45::4. 迮c",
+      "textId": 45,
+      "questionNumber": 39,
+      "target": "4. 迮c",
+      "values": [
+        {
+          "value": "C: l-",
+          "count": 10
+        },
+        {
+          "value": "J: j-",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "45::5. 自",
+      "textId": 45,
+      "questionNumber": 39,
+      "target": "5. 自",
+      "values": [
+        {
+          "value": "J: cu",
+          "count": 13
+        },
+        {
+          "value": "C: cir",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "key": "45::6, 迮v",
+      "textId": 45,
+      "questionNumber": 39,
+      "target": "6, 迮v",
+      "values": [
+        {
+          "value": "J2: ik",
+          "count": 8
+        },
+        {
+          "value": "J: iok",
+          "count": 7
+        },
+        {
+          "value": "C: ip",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "key": "45::7. 穿c",
+      "textId": 45,
+      "questionNumber": 39,
+      "target": "7. 穿c",
+      "values": [
+        {
+          "value": "O:[tsh-]",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "46::1. 月",
+      "textId": 46,
+      "questionNumber": 40,
+      "target": "1. 月",
+      "values": [
+        {
+          "value": "J: gueh",
+          "count": 11
+        },
+        {
+          "value": "C: gerh",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "46::2. 底",
+      "textId": 46,
+      "questionNumber": 40,
+      "target": "2. 底",
+      "values": [
+        {
+          "value": "J: te",
+          "count": 11
+        },
+        {
+          "value": "Ct: tue",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "46::3. 初",
+      "textId": 46,
+      "questionNumber": 40,
+      "target": "3. 初",
+      "values": [
+        {
+          "value": "J: che-",
+          "count": 11
+        },
+        {
+          "value": "Ct: chue",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "46::4. 尾",
+      "textId": 46,
+      "questionNumber": 40,
+      "target": "4. 尾",
+      "values": [
+        {
+          "value": "J: bue",
+          "count": 13
+        },
+        {
+          "value": "C: ber",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "46::5. 初",
+      "textId": 46,
+      "questionNumber": 40,
+      "target": "5. 初",
+      "values": [
+        {
+          "value": "O: ch-",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "key": "47::1. 飛",
+      "textId": 47,
+      "questionNumber": 41,
+      "target": "1. 飛",
+      "values": [
+        {
+          "value": "S1: hue",
+          "count": 11
+        },
+        {
+          "value": "S2: pue",
+          "count": 6
+        },
+        {
+          "value": "O: hui",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "key": "47::2. 行",
+      "textId": 47,
+      "questionNumber": 41,
+      "target": "2. 行",
+      "values": [
+        {
+          "value": "S: ling",
+          "count": 14
+        },
+        {
+          "value": "O: hing",
+          "count": 3
+        },
+        {
+          "value": "S2: nng",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "47::3. 飛",
+      "textId": 47,
+      "questionNumber": 41,
+      "target": "3. 飛",
+      "values": [
+        {
+          "value": "J: pue",
+          "count": 15
+        },
+        {
+          "value": "C: per",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "key": "47::4. 峘(懸)",
+      "textId": 47,
+      "questionNumber": 41,
+      "target": "4. 峘(懸)",
+      "values": [
+        {
+          "value": "J: kuan",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "key": "48::1. 歲",
+      "textId": 48,
+      "questionNumber": 42,
+      "target": "1. 歲",
+      "values": [
+        {
+          "value": "J: hue",
+          "count": 13
+        },
+        {
+          "value": "C: her",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "key": "48::2. 囡c",
+      "textId": 48,
+      "questionNumber": 42,
+      "target": "2. 囡c",
+      "values": [
+        {
+          "value": "J: g",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "key": "48::3. 囡v",
+      "textId": 48,
+      "questionNumber": 42,
+      "target": "3. 囡v",
+      "values": [
+        {
+          "value": "J: in",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "key": "48::4. 做",
+      "textId": 48,
+      "questionNumber": 42,
+      "target": "4. 做",
+      "values": [
+        {
+          "value": "J: co",
+          "count": 16
+        },
+        {
+          "value": "Ct: cue",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "key": "48::5. 課",
+      "textId": 48,
+      "questionNumber": 42,
+      "target": "5. 課",
+      "values": [
+        {
+          "value": "J: khue",
+          "count": 12
+        },
+        {
+          "value": "C: kher",
+          "count": 8
+        },
+        {
+          "value": "Ct: khe",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "49::1. 更",
+      "textId": 49,
+      "questionNumber": 43,
+      "target": "1. 更",
+      "values": [
+        {
+          "value": "C: kĩ",
+          "count": 11
+        },
+        {
+          "value": "J: kɛ",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "49::2. 暝",
+      "textId": 49,
+      "questionNumber": 43,
+      "target": "2. 暝",
+      "values": [
+        {
+          "value": "C: mĩ",
+          "count": 11
+        },
+        {
+          "value": "J: mẽ",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "49::3. 病",
+      "textId": 49,
+      "questionNumber": 43,
+      "target": "3. 病",
+      "values": [
+        {
+          "value": "C: pĩ",
+          "count": 11
+        },
+        {
+          "value": "J: ɛ",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "49::4. 脈",
+      "textId": 49,
+      "questionNumber": 43,
+      "target": "4. 脈",
+      "values": [
+        {
+          "value": "J: mɛh",
+          "count": 17
+        },
+        {
+          "value": "C: beh",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "key": "50::1. 青",
+      "textId": 50,
+      "questionNumber": 44,
+      "target": "1. 青",
+      "values": [
+        {
+          "value": "C: chĩ",
+          "count": 11
+        },
+        {
+          "value": "J: chɛ",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "50::2. 盲",
+      "textId": 50,
+      "questionNumber": 44,
+      "target": "2. 盲",
+      "values": [
+        {
+          "value": "C: mĩ",
+          "count": 11
+        },
+        {
+          "value": "J: mɛ",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "50::3. 生",
+      "textId": 50,
+      "questionNumber": 44,
+      "target": "3. 生",
+      "values": [
+        {
+          "value": "C: sĩ",
+          "count": 11
+        },
+        {
+          "value": "J: sɛ",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "50::4. 囝",
+      "textId": 50,
+      "questionNumber": 44,
+      "target": "4. 囝",
+      "values": [
+        {
+          "value": "J: kiã",
+          "count": 14
+        },
+        {
+          "value": "C: kã",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "key": "51::1. 頓",
+      "textId": 51,
+      "questionNumber": 45,
+      "target": "1. 頓",
+      "values": [
+        {
+          "value": "C: tng",
+          "count": 11
+        },
+        {
+          "value": "J: tuĩ",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "51::2. 飯",
+      "textId": 51,
+      "questionNumber": 45,
+      "target": "2. 飯",
+      "values": [
+        {
+          "value": "C: png",
+          "count": 11
+        },
+        {
+          "value": "J: puĩ",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "51::3. 配",
+      "textId": 51,
+      "questionNumber": 45,
+      "target": "3. 配",
+      "values": [
+        {
+          "value": "J: phue",
+          "count": 12
+        },
+        {
+          "value": "C: pher",
+          "count": 8
+        },
+        {
+          "value": "Ct: phe",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "51::4. 卵",
+      "textId": 51,
+      "questionNumber": 45,
+      "target": "4. 卵",
+      "values": [
+        {
+          "value": "J: nuĩ",
+          "count": 11
+        },
+        {
+          "value": "C: nng",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "52::1. 舉",
+      "textId": 52,
+      "questionNumber": 46,
+      "target": "1. 舉",
+      "values": [
+        {
+          "value": "J: gia",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "key": "52::2. 箸",
+      "textId": 52,
+      "questionNumber": 46,
+      "target": "2. 箸",
+      "values": [
+        {
+          "value": "J: ti",
+          "count": 13
+        },
+        {
+          "value": "C: tir",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "key": "52::3. 夾c",
+      "textId": 52,
+      "questionNumber": 46,
+      "target": "3. 夾c",
+      "values": [
+        {
+          "value": "J: ng-",
+          "count": 11
+        },
+        {
+          "value": "Ct: g",
+          "count": 8
+        },
+        {
+          "value": "C: k-",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "52::4. 夾v",
+      "textId": 52,
+      "questionNumber": 46,
+      "target": "4. 夾v",
+      "values": [
+        {
+          "value": "J: -e-",
+          "count": 9
+        },
+        {
+          "value": "C: -ue-",
+          "count": 7
+        },
+        {
+          "value": "Sb: iap",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "key": "52::5. 夾q",
+      "textId": 52,
+      "questionNumber": 46,
+      "target": "5. 夾q",
+      "values": [
+        {
+          "value": "O: -q",
+          "count": 18
+        },
+        {
+          "value": "S: *-q",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "52::6. 菜c",
+      "textId": 52,
+      "questionNumber": 46,
+      "target": "6. 菜c",
+      "values": [
+        {
+          "value": "O: ch",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "53::1. 書",
+      "textId": 53,
+      "questionNumber": 47,
+      "target": "1. 書",
+      "values": [
+        {
+          "value": "J: cheh(冊)",
+          "count": 11
+        },
+        {
+          "value": "C: cir",
+          "count": 8
+        },
+        {
+          "value": "Ct: cu",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "53::2. 序",
+      "textId": 53,
+      "questionNumber": 47,
+      "target": "2. 序",
+      "values": [
+        {
+          "value": "J: si",
+          "count": 15
+        },
+        {
+          "value": "C: sir",
+          "count": 2
+        },
+        {
+          "value": "Ct: su",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "54::1. 豬",
+      "textId": 54,
+      "questionNumber": 48,
+      "target": "1. 豬",
+      "values": [
+        {
+          "value": "J: ti",
+          "count": 12
+        },
+        {
+          "value": "C: tir",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "key": "54::2. 尾",
+      "textId": 54,
+      "questionNumber": 48,
+      "target": "2. 尾",
+      "values": [
+        {
+          "value": "J: bue",
+          "count": 11
+        },
+        {
+          "value": "C: ber",
+          "count": 7
+        },
+        {
+          "value": "Ct: be",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "54::3. 短",
+      "textId": 54,
+      "questionNumber": 48,
+      "target": "3. 短",
+      "values": [
+        {
+          "value": "J: te",
+          "count": 10
+        },
+        {
+          "value": "C: ter",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "55::1. 落雪",
+      "textId": 55,
+      "questionNumber": 49,
+      "target": "1. 落雪",
+      "values": [
+        {
+          "value": "J: seh",
+          "count": 12
+        },
+        {
+          "value": "C: serh",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "55::2. 倒退",
+      "textId": 55,
+      "questionNumber": 49,
+      "target": "2. 倒退",
+      "values": [
+        {
+          "value": "J: the",
+          "count": 12
+        },
+        {
+          "value": "C: ther",
+          "count": 6
+        },
+        {
+          "value": "S: thue",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "55::3. 豆莢1",
+      "textId": 55,
+      "questionNumber": 49,
+      "target": "3. 豆莢1",
+      "values": [
+        {
+          "value": "J: ng-",
+          "count": 14
+        },
+        {
+          "value": "Ct: g",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "key": "55::4. 豆莢2",
+      "textId": 55,
+      "questionNumber": 49,
+      "target": "4. 豆莢2",
+      "values": [
+        {
+          "value": "J: -e-",
+          "count": 13
+        },
+        {
+          "value": "C: -ue-",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "key": "55::5. 豆莢3",
+      "textId": 55,
+      "questionNumber": 49,
+      "target": "5. 豆莢3",
+      "values": [
+        {
+          "value": "O: -q",
+          "count": 18
+        },
+        {
+          "value": "S: *-q",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "55::6. 煮飯",
+      "textId": 55,
+      "questionNumber": 49,
+      "target": "6. 煮飯",
+      "values": [
+        {
+          "value": "J: ci",
+          "count": 8
+        },
+        {
+          "value": "C: cir",
+          "count": 8
+        },
+        {
+          "value": "Ct: cu",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "key": "55::7. 根據",
+      "textId": 55,
+      "questionNumber": 49,
+      "target": "7. 根據",
+      "values": [
+        {
+          "value": "J: ki",
+          "count": 10
+        },
+        {
+          "value": "Ct: ku",
+          "count": 8
+        },
+        {
+          "value": "C: kir",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "55::8. 警務處",
+      "textId": 55,
+      "questionNumber": 49,
+      "target": "8. 警務處",
+      "values": [
+        {
+          "value": "Ct: chu",
+          "count": 16
+        },
+        {
+          "value": "J: chi",
+          "count": 3
+        },
+        {
+          "value": "C: chir",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "55::9. 警務處",
+      "textId": 55,
+      "questionNumber": 49,
+      "target": "9. 警務處",
+      "values": [
+        {
+          "value": "O: ch-",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "56::1. 舉",
+      "textId": 56,
+      "questionNumber": 50,
+      "target": "1. 舉",
+      "values": [
+        {
+          "value": "J: gia5",
+          "count": 8
+        },
+        {
+          "value": "S: giah8",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "56::2. 鋤",
+      "textId": 56,
+      "questionNumber": 50,
+      "target": "2. 鋤",
+      "values": [
+        {
+          "value": "J: ti",
+          "count": 12
+        },
+        {
+          "value": "C: tir",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "key": "56::3. 塗",
+      "textId": 56,
+      "questionNumber": 50,
+      "target": "3. 塗",
+      "values": [
+        {
+          "value": "O: thoo",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "key": "56::4. 桃",
+      "textId": 56,
+      "questionNumber": 50,
+      "target": "4. 桃",
+      "values": [
+        {
+          "value": "O: tho",
+          "count": 15
+        },
+        {
+          "value": "N: thor",
+          "count": 3
+        },
+        {
+          "value": "S: thoo",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "56::5. 塗豆",
+      "textId": 56,
+      "questionNumber": 50,
+      "target": "5. 塗豆",
+      "values": [
+        {
+          "value": "O: thoo",
+          "count": 14
+        },
+        {
+          "value": "S: tho",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "key": "57::1. 豬",
+      "textId": 57,
+      "questionNumber": 51,
+      "target": "1. 豬",
+      "values": [
+        {
+          "value": "J: ti",
+          "count": 12
+        },
+        {
+          "value": "C: tir",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "key": "57::2. 筋",
+      "textId": 57,
+      "questionNumber": 51,
+      "target": "2. 筋",
+      "values": [
+        {
+          "value": "J: kin",
+          "count": 11
+        },
+        {
+          "value": "Ct: kun",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "57::3. 芹",
+      "textId": 57,
+      "questionNumber": 51,
+      "target": "3. 芹",
+      "values": [
+        {
+          "value": "J: khin",
+          "count": 11
+        },
+        {
+          "value": "Ct: khun",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "57::4. 菜",
+      "textId": 57,
+      "questionNumber": 51,
+      "target": "4. 菜",
+      "values": [
+        {
+          "value": "O: ch",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "58::1. 芎",
+      "textId": 58,
+      "questionNumber": 52,
+      "target": "1. 芎",
+      "values": [
+        {
+          "value": "S: kin",
+          "count": 13
+        },
+        {
+          "value": "S2: kim",
+          "count": 3
+        },
+        {
+          "value": "O: king",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "58::2. 斤",
+      "textId": 58,
+      "questionNumber": 52,
+      "target": "2. 斤",
+      "values": [
+        {
+          "value": "J: kin",
+          "count": 10
+        },
+        {
+          "value": "Ct: kun",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "58::3. 外",
+      "textId": 58,
+      "questionNumber": 52,
+      "target": "3. 外",
+      "values": [
+        {
+          "value": "J: gua",
+          "count": 18
+        },
+        {
+          "value": "C: jua",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "58::4. 儕",
+      "textId": 58,
+      "questionNumber": 52,
+      "target": "4. 儕",
+      "values": [
+        {
+          "value": "J: ce",
+          "count": 10
+        },
+        {
+          "value": "Ct: cue",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "59::1. 巾",
+      "textId": 59,
+      "questionNumber": 53,
+      "target": "1. 巾",
+      "values": [
+        {
+          "value": "J: kin",
+          "count": 11
+        },
+        {
+          "value": "Ct: kun",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "59::2. 根",
+      "textId": 59,
+      "questionNumber": 53,
+      "target": "2. 根",
+      "values": [
+        {
+          "value": "J: kin",
+          "count": 11
+        },
+        {
+          "value": "Ct: kun",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "60::1. 森",
+      "textId": 60,
+      "questionNumber": 54,
+      "target": "1. 森",
+      "values": [
+        {
+          "value": "J: som",
+          "count": 7
+        },
+        {
+          "value": "C: sirm",
+          "count": 7
+        },
+        {
+          "value": "Ct: sim",
+          "count": 5
+        },
+        {
+          "value": "S: sing",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "60::2. 蔘1",
+      "textId": 60,
+      "questionNumber": 54,
+      "target": "2. 蔘1",
+      "values": [
+        {
+          "value": "C: sirm",
+          "count": 9
+        },
+        {
+          "value": "J: som",
+          "count": 8
+        },
+        {
+          "value": "V: sam",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "key": "60::3. 人",
+      "textId": 60,
+      "questionNumber": 54,
+      "target": "3. 人",
+      "values": [
+        {
+          "value": "J: jin",
+          "count": 11
+        },
+        {
+          "value": "C: lin",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "60::4. 蔘2",
+      "textId": 60,
+      "questionNumber": 54,
+      "target": "4. 蔘2",
+      "values": [
+        {
+          "value": "J: som",
+          "count": 7
+        },
+        {
+          "value": "C: sirm",
+          "count": 7
+        },
+        {
+          "value": "Ct: sim",
+          "count": 5
+        },
+        {
+          "value": "V: sam",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "61::1. 冰",
+      "textId": 61,
+      "questionNumber": 55,
+      "target": "1. 冰",
+      "values": [
+        {
+          "value": "C: ping",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "61::2. 冷",
+      "textId": 61,
+      "questionNumber": 55,
+      "target": "2. 冷",
+      "values": [
+        {
+          "value": "C: ling",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "61::3. 𠕇",
+      "textId": 61,
+      "questionNumber": 55,
+      "target": "3. 𠕇",
+      "values": [
+        {
+          "value": "C: ting",
+          "count": 19
+        },
+        {
+          "value": "J: teng",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "62::1. 魚",
+      "textId": 62,
+      "questionNumber": 56,
+      "target": "1. 魚",
+      "values": [
+        {
+          "value": "J: hi",
+          "count": 13
+        },
+        {
+          "value": "C: hir",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "key": "62::2. 反",
+      "textId": 62,
+      "questionNumber": 56,
+      "target": "2. 反",
+      "values": [
+        {
+          "value": "J: ping",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "key": "62::3. 爿",
+      "textId": 62,
+      "questionNumber": 56,
+      "target": "3. 爿",
+      "values": [
+        {
+          "value": "J: ping",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "key": "63::1. 還錢",
+      "textId": 63,
+      "questionNumber": 57,
+      "target": "1. 還錢",
+      "values": [
+        {
+          "value": "J: hing",
+          "count": 12
+        },
+        {
+          "value": "J2: han",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "key": "63::2. 房間",
+      "textId": 63,
+      "questionNumber": 57,
+      "target": "2. 房間",
+      "values": [
+        {
+          "value": "J: king",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "63::3. 倒反",
+      "textId": 63,
+      "questionNumber": 57,
+      "target": "3. 倒反",
+      "values": [
+        {
+          "value": "J: ping",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "key": "63::4. 物件",
+      "textId": 63,
+      "questionNumber": 57,
+      "target": "4. 物件",
+      "values": [
+        {
+          "value": "J: mih",
+          "count": 12
+        },
+        {
+          "value": "C: mngh",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "64::1. 檨",
+      "textId": 64,
+      "questionNumber": 58,
+      "target": "1. 檨",
+      "values": [
+        {
+          "value": "Ct: suãi",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "key": "64::2. 酸",
+      "textId": 64,
+      "questionNumber": 58,
+      "target": "2. 酸",
+      "values": [
+        {
+          "value": "J: suĩ",
+          "count": 10
+        },
+        {
+          "value": "C: sng",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "64::3. 軟",
+      "textId": 64,
+      "questionNumber": 58,
+      "target": "3. 軟",
+      "values": [
+        {
+          "value": "J: nuĩ",
+          "count": 10
+        },
+        {
+          "value": "C: nng",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "65::1. 新",
+      "textId": 65,
+      "questionNumber": 59,
+      "target": "1. 新",
+      "values": [
+        {
+          "value": "O: sin",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "key": "65::2. 心",
+      "textId": 65,
+      "questionNumber": 59,
+      "target": "2. 心",
+      "values": [
+        {
+          "value": "O: sim",
+          "count": 17
+        },
+        {
+          "value": "S2: sing",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "65::3. 升",
+      "textId": 65,
+      "questionNumber": 59,
+      "target": "3. 升",
+      "values": [
+        {
+          "value": "O: sing",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "key": "66::1. 園",
+      "textId": 66,
+      "questionNumber": 60,
+      "target": "1. 園",
+      "values": [
+        {
+          "value": "J: huĩ",
+          "count": 10
+        },
+        {
+          "value": "C: hng",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "66::2. 約",
+      "textId": 66,
+      "questionNumber": 60,
+      "target": "2. 約",
+      "values": [
+        {
+          "value": "C: iok",
+          "count": 14
+        },
+        {
+          "value": "J: iak",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "key": "66::3. 風",
+      "textId": 66,
+      "questionNumber": 60,
+      "target": "3. 風",
+      "values": [
+        {
+          "value": "J: hong",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "66::4. 吹",
+      "textId": 66,
+      "questionNumber": 60,
+      "target": "4. 吹",
+      "values": [
+        {
+          "value": "J: chue",
+          "count": 12
+        },
+        {
+          "value": "C: cher",
+          "count": 7
+        },
+        {
+          "value": "Ct: che",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "66::5. 吹",
+      "textId": 66,
+      "questionNumber": 60,
+      "target": "5. 吹",
+      "values": [
+        {
+          "value": "O: ch",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "67::1. 兒",
+      "textId": 67,
+      "questionNumber": 61,
+      "target": "1. 兒",
+      "values": [
+        {
+          "value": "J: ji",
+          "count": 10
+        },
+        {
+          "value": "C: li",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "key": "67::2. 科",
+      "textId": 67,
+      "questionNumber": 61,
+      "target": "2. 科",
+      "values": [
+        {
+          "value": "J: kho",
+          "count": 16
+        },
+        {
+          "value": "C: kher",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "67::3. 耳仔",
+      "textId": 67,
+      "questionNumber": 61,
+      "target": "3. 耳仔",
+      "values": [
+        {
+          "value": "J: hĩ",
+          "count": 13
+        },
+        {
+          "value": "C: hi",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "key": "67::4. 鼻",
+      "textId": 67,
+      "questionNumber": 61,
+      "target": "4. 鼻",
+      "values": [
+        {
+          "value": "J: phĩ",
+          "count": 15
+        },
+        {
+          "value": "C: phi",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "68::1. 毛",
+      "textId": 68,
+      "questionNumber": 62,
+      "target": "1. 毛",
+      "values": [
+        {
+          "value": "J: mɔ",
+          "count": 13
+        },
+        {
+          "value": "C: mng",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "key": "68::2. 腦J",
+      "textId": 68,
+      "questionNumber": 62,
+      "target": "2. 腦J",
+      "values": [
+        {
+          "value": "J: nãu",
+          "count": 15
+        },
+        {
+          "value": "Ct: lo",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "69::1. 和",
+      "textId": 69,
+      "questionNumber": 63,
+      "target": "1. 和",
+      "values": [
+        {
+          "value": "J: hue",
+          "count": 10
+        },
+        {
+          "value": "C: her",
+          "count": 6
+        },
+        {
+          "value": "Ct: he",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "69::2. 尚",
+      "textId": 69,
+      "questionNumber": 63,
+      "target": "2. 尚",
+      "values": [
+        {
+          "value": "C: siũ",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "key": "69::3. 薑",
+      "textId": 69,
+      "questionNumber": 63,
+      "target": "3. 薑",
+      "values": [
+        {
+          "value": "C: kiũ",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "key": "69::4. 川",
+      "textId": 69,
+      "questionNumber": 63,
+      "target": "4. 川",
+      "values": [
+        {
+          "value": "C: chng",
+          "count": 11
+        },
+        {
+          "value": "J: chuĩ",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "key": "69::5. 癢",
+      "textId": 69,
+      "questionNumber": 63,
+      "target": "5. 癢",
+      "values": [
+        {
+          "value": "C: ciũ",
+          "count": 16
+        },
+        {
+          "value": "J: ciɔ",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "70::1. 思",
+      "textId": 70,
+      "questionNumber": 64,
+      "target": "1. 思",
+      "values": [
+        {
+          "value": "J: su",
+          "count": 14
+        },
+        {
+          "value": "C: sir",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "key": "70::2. 想",
+      "textId": 70,
+      "questionNumber": 64,
+      "target": "2. 想",
+      "values": [
+        {
+          "value": "C: siɔng",
+          "count": 13
+        },
+        {
+          "value": "J: siang",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "key": "70::3. 自",
+      "textId": 70,
+      "questionNumber": 64,
+      "target": "3. 自",
+      "values": [
+        {
+          "value": "J: cu",
+          "count": 15
+        },
+        {
+          "value": "C: cir",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "key": "70::4. 將",
+      "textId": 70,
+      "questionNumber": 64,
+      "target": "4. 將",
+      "values": [
+        {
+          "value": "C: ciɔng",
+          "count": 13
+        },
+        {
+          "value": "J: ciang",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "key": "71::1. 雄",
+      "textId": 71,
+      "questionNumber": 65,
+      "target": "1. 雄",
+      "values": [
+        {
+          "value": "O: hiɔng",
+          "count": 15
+        },
+        {
+          "value": "S: iɔng",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "71::2. 可",
+      "textId": 71,
+      "questionNumber": 65,
+      "target": "2. 可",
+      "values": [
+        {
+          "value": "C2: khɔ",
+          "count": 10
+        },
+        {
+          "value": "J: kho",
+          "count": 5
+        },
+        {
+          "value": "C: khonn",
+          "count": 2
+        },
+        {
+          "value": "C: khɔ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "71::3. 憐",
+      "textId": 71,
+      "questionNumber": 65,
+      "target": "3. 憐",
+      "values": [
+        {
+          "value": "S1: lien",
+          "count": 9
+        },
+        {
+          "value": "S2: lɛn",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "72::1. 陷眠",
+      "textId": 72,
+      "questionNumber": 66,
+      "target": "1. 陷眠",
+      "values": [
+        {
+          "value": "O: bin",
+          "count": 18
+        },
+        {
+          "value": "S: bim",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "72::2. 眠夢",
+      "textId": 72,
+      "questionNumber": 66,
+      "target": "2. 眠夢",
+      "values": [
+        {
+          "value": "O: bin",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "key": "72::3. 夢",
+      "textId": 72,
+      "questionNumber": 66,
+      "target": "3. 夢",
+      "values": [
+        {
+          "value": "O: bang",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "key": "73::1. 天光天亮",
+      "textId": 73,
+      "questionNumber": 67,
+      "target": "1. 天光天亮",
+      "values": [
+        {
+          "value": "J: kuinn",
+          "count": 11
+        },
+        {
+          "value": "C: kng",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "73::2. 姓黃",
+      "textId": 73,
+      "questionNumber": 67,
+      "target": "2. 姓黃",
+      "values": [
+        {
+          "value": "J: uinn",
+          "count": 11
+        },
+        {
+          "value": "C: ng",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "key": "73::3. 真遠",
+      "textId": 73,
+      "questionNumber": 67,
+      "target": "3. 真遠",
+      "values": [
+        {
+          "value": "J: huinn",
+          "count": 10
+        },
+        {
+          "value": "C: hng",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "key": "74::1. 鴨仔",
+      "textId": 74,
+      "questionNumber": 68,
+      "target": "1. 鴨仔",
+      "values": [
+        {
+          "value": "O: a a",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "74::2. 袷仔",
+      "textId": 74,
+      "questionNumber": 68,
+      "target": "2. 袷仔",
+      "values": [
+        {
+          "value": "O: ka a",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "74::3. 狸仔",
+      "textId": 74,
+      "questionNumber": 68,
+      "target": "3. 狸仔",
+      "values": [
+        {
+          "value": "O: ba a",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "key": "74::4. 沙仔",
+      "textId": 74,
+      "questionNumber": 68,
+      "target": "4. 沙仔",
+      "values": [
+        {
+          "value": "O: sua a",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "74::5. 歌仔",
+      "textId": 74,
+      "questionNumber": 68,
+      "target": "5. 歌仔",
+      "values": [
+        {
+          "value": "O: kua a",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "76::1. 借鏡t",
+      "textId": 76,
+      "questionNumber": 70,
+      "target": "1. 借鏡t",
+      "values": [
+        {
+          "value": "HF: 31",
+          "count": 18
+        },
+        {
+          "value": "H: 33",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "76::2. 借鏡q",
+      "textId": 76,
+      "questionNumber": 70,
+      "target": "2. 借鏡q",
+      "values": [
+        {
+          "value": "*q(無喉塞音)",
+          "count": 15
+        },
+        {
+          "value": "q[ʔ]",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "key": "76::3. 照鏡t",
+      "textId": 76,
+      "questionNumber": 70,
+      "target": "3. 照鏡t",
+      "values": [
+        {
+          "value": "HF: 31",
+          "count": 16
+        },
+        {
+          "value": "H: 33",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "key": "76::4. 照鏡q",
+      "textId": 76,
+      "questionNumber": 70,
+      "target": "4. 照鏡q",
+      "values": [
+        {
+          "value": "*q(無喉塞音)",
+          "count": 19
+        },
+        {
+          "value": "q[-?]",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "77::1. 牛",
+      "textId": 77,
+      "questionNumber": 71,
+      "target": "1. 牛",
+      "values": [
+        {
+          "value": "O: gu",
+          "count": 15
+        },
+        {
+          "value": "S:bu",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "78::1. 火t",
+      "textId": 78,
+      "questionNumber": 72,
+      "target": "1. 火t",
+      "values": [
+        {
+          "value": "HF[31]",
+          "count": 16
+        },
+        {
+          "value": "SH:[44]",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "78::2. 貨t",
+      "textId": 78,
+      "questionNumber": 72,
+      "target": "2. 貨t",
+      "values": [
+        {
+          "value": "L[11]",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "79::1. 歇睏",
+      "textId": 79,
+      "questionNumber": 73,
+      "target": "1. 歇睏",
+      "values": [
+        {
+          "value": "O: khun",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "key": "79::2. 一睏仔",
+      "textId": 79,
+      "questionNumber": 73,
+      "target": "2. 一睏仔",
+      "values": [
+        {
+          "value": "O: khun",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "key": "79::3. 去睏",
+      "textId": 79,
+      "questionNumber": 73,
+      "target": "3. 去睏",
+      "values": [
+        {
+          "value": "O: khun",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "key": "80::3. 類型",
+      "textId": 80,
+      "questionNumber": 74,
+      "target": "3. 類型",
+      "values": [
+        {
+          "value": "O: 異",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "81::1. 台中",
+      "textId": 81,
+      "questionNumber": 75,
+      "target": "1. 台中",
+      "values": [
+        {
+          "value": "O: tiong",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "81::2. 高雄",
+      "textId": 81,
+      "questionNumber": 75,
+      "target": "2. 高雄",
+      "values": [
+        {
+          "value": "O: hiong",
+          "count": 13
+        },
+        {
+          "value": "S: iong",
+          "count": 5
+        },
+        {
+          "value": "Jp: hing",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "81::3. 姑不將",
+      "textId": 81,
+      "questionNumber": 75,
+      "target": "3. 姑不將",
+      "values": [
+        {
+          "value": "C: ciong",
+          "count": 16
+        },
+        {
+          "value": "J: ciang",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "key": "81::4. 翕相",
+      "textId": 81,
+      "questionNumber": 75,
+      "target": "4. 翕相",
+      "values": [
+        {
+          "value": "C: siong",
+          "count": 15
+        },
+        {
+          "value": "J: siang",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "key": "82::1. 漏",
+      "textId": 82,
+      "questionNumber": 76,
+      "target": "1. 漏",
+      "values": [
+        {
+          "value": "J: 22",
+          "count": 17
+        },
+        {
+          "value": "C: 21",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "82::2. 老",
+      "textId": 82,
+      "questionNumber": 76,
+      "target": "2. 老",
+      "values": [
+        {
+          "value": "J: 22",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "key": "82::3. 異同",
+      "textId": 82,
+      "questionNumber": 76,
+      "target": "3. 異同",
+      "values": [
+        {
+          "value": "S:同音(6=7)",
+          "count": 17
+        },
+        {
+          "value": "O:不同音(6□7)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "83::1. 起來",
+      "textId": 83,
+      "questionNumber": 77,
+      "target": "1. 起來",
+      "values": [
+        {
+          "value": "O: khi lai",
+          "count": 19
+        },
+        {
+          "value": "Sh1: khiai",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "83::2. 𬦰起來",
+      "textId": 83,
+      "questionNumber": 77,
+      "target": "2. 𬦰起來",
+      "values": [
+        {
+          "value": "O: khi lai",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "key": "83::3. 落來",
+      "textId": 83,
+      "questionNumber": 77,
+      "target": "3. 落來",
+      "values": [
+        {
+          "value": "O: lo lai",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "83::4. 輾落來",
+      "textId": 83,
+      "questionNumber": 77,
+      "target": "4. 輾落來",
+      "values": [
+        {
+          "value": "O: lo lai",
+          "count": 18
+        },
+        {
+          "value": "Sh: luai",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "83::5. 起去",
+      "textId": 83,
+      "questionNumber": 77,
+      "target": "5. 起去",
+      "values": [
+        {
+          "value": "O: khi khi",
+          "count": 9
+        },
+        {
+          "value": "Sh: khit li",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "key": "83::6. 𬦰起去",
+      "textId": 83,
+      "questionNumber": 77,
+      "target": "6. 𬦰起去",
+      "values": [
+        {
+          "value": "Sh: khit li",
+          "count": 9
+        },
+        {
+          "value": "O: khi khi",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "key": "83::7. 落去",
+      "textId": 83,
+      "questionNumber": 77,
+      "target": "7. 落去",
+      "values": [
+        {
+          "value": "O: lo khi",
+          "count": 17
+        },
+        {
+          "value": "Sh: lue",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "83::8. 輾落去",
+      "textId": 83,
+      "questionNumber": 77,
+      "target": "8. 輾落去",
+      "values": [
+        {
+          "value": "O: lo khi",
+          "count": 15
+        },
+        {
+          "value": "Sh: lue",
+          "count": 3
+        },
+        {
+          "value": "P: lo",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "84::1. 掃帚",
+      "textId": 84,
+      "questionNumber": 78,
+      "target": "1. 掃帚",
+      "values": [
+        {
+          "value": "O: sau chiu",
+          "count": 18
+        },
+        {
+          "value": "S: sau siu",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "84::2. 舒服(快活)",
+      "textId": 84,
+      "questionNumber": 78,
+      "target": "2. 舒服(快活)",
+      "values": [
+        {
+          "value": "C: khuinn",
+          "count": 18
+        },
+        {
+          "value": "J: khuann uah",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "85::1. 哪裏",
+      "textId": 85,
+      "questionNumber": 79,
+      "target": "1. 哪裏",
+      "values": [
+        {
+          "value": "J1 佗位 to ui",
+          "count": 11
+        },
+        {
+          "value": "C1 佗落 to lo",
+          "count": 3
+        },
+        {
+          "value": "J2 佗位 ta ui",
+          "count": 2
+        },
+        {
+          "value": "J7 tai",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "key": "86::1. 他打我，不是我打他",
+      "textId": 86,
+      "questionNumber": 80,
+      "target": "1. 他打我，不是我打他",
+      "values": [
+        {
+          "value": "O: 扑我",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "86::2. 不要跟他買",
+      "textId": 86,
+      "questionNumber": 80,
+      "target": "2. 不要跟他買",
+      "values": [
+        {
+          "value": "O: ka i",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "key": "86::3. 幫我洗衣",
+      "textId": 86,
+      "questionNumber": 80,
+      "target": "3. 幫我洗衣",
+      "values": [
+        {
+          "value": "S: 幫",
+          "count": 16
+        },
+        {
+          "value": "O: ka7",
+          "count": 4
+        }
+      ]
+    }
+  ],
+  "recordingStatus": [
+    {
+      "value": "annotated",
+      "count": 1566
+    },
+    {
+      "value": "unannotated",
+      "count": 195
+    }
+  ]
+}

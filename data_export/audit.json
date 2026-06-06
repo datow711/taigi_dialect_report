@@ -1,0 +1,2160 @@
+{
+  "generatedAt": "2026-06-06T09:01:35.492334+00:00",
+  "sourceCounts": {
+    "sqlTexts": 80,
+    "sqlUsers": 60,
+    "sqlRecordingsWithAudio": 1761,
+    "outputAnnotations": 1574
+  },
+  "exportCounts": {
+    "questions": 80,
+    "speakers": 31,
+    "recordings": 1761,
+    "annotations": 1574,
+    "variantQuestionDefinitions": 80
+  },
+  "coverage": {
+    "annotationRecordPairs": 1574,
+    "annotatedRecordingPairs": 1566,
+    "emptyAnnotationRecordCount": 8,
+    "annotationsWithoutSqlRecording": [],
+    "recordingsWithoutAnnotationRecordCount": 187,
+    "recordingsWithoutAnnotationValueCount": 195,
+    "recordingsWithoutAnnotationRecord": [
+      {
+        "legacyUserId": 4,
+        "textId": 8
+      },
+      {
+        "legacyUserId": 4,
+        "textId": 9
+      },
+      {
+        "legacyUserId": 4,
+        "textId": 10
+      },
+      {
+        "legacyUserId": 4,
+        "textId": 11
+      },
+      {
+        "legacyUserId": 4,
+        "textId": 12
+      },
+      {
+        "legacyUserId": 4,
+        "textId": 40
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 8
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 9
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 10
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 11
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 12
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 13
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 14
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 15
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 16
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 17
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 18
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 19
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 20
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 21
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 22
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 23
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 24
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 25
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 26
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 27
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 28
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 29
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 30
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 31
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 32
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 33
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 34
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 35
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 36
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 37
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 38
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 39
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 40
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 41
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 42
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 43
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 44
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 45
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 46
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 47
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 48
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 49
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 50
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 51
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 52
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 53
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 54
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 55
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 56
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 57
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 58
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 59
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 60
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 61
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 62
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 63
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 64
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 65
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 66
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 67
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 68
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 69
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 70
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 71
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 72
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 73
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 74
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 76
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 77
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 78
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 79
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 81
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 82
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 83
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 84
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 85
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 86
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 7
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 8
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 9
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 10
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 11
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 12
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 13
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 14
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 15
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 16
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 17
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 18
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 20
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 22
+      },
+      {
+        "legacyUserId": 38,
+        "textId": 58
+      },
+      {
+        "legacyUserId": 38,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 38,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 38,
+        "textId": 82
+      },
+      {
+        "legacyUserId": 39,
+        "textId": 40
+      },
+      {
+        "legacyUserId": 39,
+        "textId": 71
+      },
+      {
+        "legacyUserId": 39,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 39,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 40,
+        "textId": 16
+      },
+      {
+        "legacyUserId": 40,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 40,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 43,
+        "textId": 56
+      },
+      {
+        "legacyUserId": 43,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 43,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 44,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 44,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 45,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 45,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 46,
+        "textId": 7
+      },
+      {
+        "legacyUserId": 49,
+        "textId": 8
+      },
+      {
+        "legacyUserId": 50,
+        "textId": 67
+      },
+      {
+        "legacyUserId": 50,
+        "textId": 69
+      },
+      {
+        "legacyUserId": 50,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 50,
+        "textId": 85
+      },
+      {
+        "legacyUserId": 51,
+        "textId": 16
+      },
+      {
+        "legacyUserId": 51,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 51,
+        "textId": 77
+      },
+      {
+        "legacyUserId": 51,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 52,
+        "textId": 32
+      },
+      {
+        "legacyUserId": 52,
+        "textId": 35
+      },
+      {
+        "legacyUserId": 52,
+        "textId": 71
+      },
+      {
+        "legacyUserId": 52,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 52,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 53,
+        "textId": 13
+      },
+      {
+        "legacyUserId": 53,
+        "textId": 22
+      },
+      {
+        "legacyUserId": 53,
+        "textId": 67
+      },
+      {
+        "legacyUserId": 53,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 53,
+        "textId": 77
+      },
+      {
+        "legacyUserId": 53,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 55,
+        "textId": 32
+      },
+      {
+        "legacyUserId": 56,
+        "textId": 7
+      },
+      {
+        "legacyUserId": 57,
+        "textId": 22
+      },
+      {
+        "legacyUserId": 57,
+        "textId": 44
+      },
+      {
+        "legacyUserId": 57,
+        "textId": 68
+      },
+      {
+        "legacyUserId": 57,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 57,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 57,
+        "textId": 82
+      },
+      {
+        "legacyUserId": 60,
+        "textId": 22
+      },
+      {
+        "legacyUserId": 60,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 60,
+        "textId": 79
+      },
+      {
+        "legacyUserId": 60,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 61,
+        "textId": 38
+      },
+      {
+        "legacyUserId": 61,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 61,
+        "textId": 77
+      },
+      {
+        "legacyUserId": 61,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 62,
+        "textId": 64
+      },
+      {
+        "legacyUserId": 62,
+        "textId": 65
+      },
+      {
+        "legacyUserId": 62,
+        "textId": 69
+      },
+      {
+        "legacyUserId": 62,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 62,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 63,
+        "textId": 8
+      },
+      {
+        "legacyUserId": 63,
+        "textId": 21
+      },
+      {
+        "legacyUserId": 63,
+        "textId": 22
+      },
+      {
+        "legacyUserId": 63,
+        "textId": 34
+      },
+      {
+        "legacyUserId": 63,
+        "textId": 37
+      },
+      {
+        "legacyUserId": 63,
+        "textId": 41
+      },
+      {
+        "legacyUserId": 63,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 63,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 64,
+        "textId": 20
+      },
+      {
+        "legacyUserId": 64,
+        "textId": 54
+      },
+      {
+        "legacyUserId": 64,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 64,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 65,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 65,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 67,
+        "textId": 7
+      },
+      {
+        "legacyUserId": 68,
+        "textId": 7
+      },
+      {
+        "legacyUserId": 68,
+        "textId": 8
+      },
+      {
+        "legacyUserId": 70,
+        "textId": 7
+      },
+      {
+        "legacyUserId": 70,
+        "textId": 62
+      },
+      {
+        "legacyUserId": 70,
+        "textId": 70
+      },
+      {
+        "legacyUserId": 70,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 70,
+        "textId": 79
+      },
+      {
+        "legacyUserId": 70,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 71,
+        "textId": 28
+      },
+      {
+        "legacyUserId": 71,
+        "textId": 43
+      },
+      {
+        "legacyUserId": 71,
+        "textId": 65
+      },
+      {
+        "legacyUserId": 71,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 71,
+        "textId": 80
+      }
+    ],
+    "recordingsWithoutAnnotationValue": [
+      {
+        "legacyUserId": 4,
+        "textId": 8
+      },
+      {
+        "legacyUserId": 4,
+        "textId": 9
+      },
+      {
+        "legacyUserId": 4,
+        "textId": 10
+      },
+      {
+        "legacyUserId": 4,
+        "textId": 11
+      },
+      {
+        "legacyUserId": 4,
+        "textId": 12
+      },
+      {
+        "legacyUserId": 4,
+        "textId": 40
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 8
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 9
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 10
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 11
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 12
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 13
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 14
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 15
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 16
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 17
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 18
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 19
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 20
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 21
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 22
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 23
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 24
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 25
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 26
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 27
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 28
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 29
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 30
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 31
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 32
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 33
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 34
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 35
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 36
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 37
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 38
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 39
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 40
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 41
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 42
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 43
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 44
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 45
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 46
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 47
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 48
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 49
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 50
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 51
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 52
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 53
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 54
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 55
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 56
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 57
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 58
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 59
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 60
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 61
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 62
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 63
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 64
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 65
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 66
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 67
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 68
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 69
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 70
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 71
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 72
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 73
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 74
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 76
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 77
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 78
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 79
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 81
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 82
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 83
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 84
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 85
+      },
+      {
+        "legacyUserId": 5,
+        "textId": 86
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 7
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 8
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 9
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 10
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 11
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 12
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 13
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 14
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 15
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 16
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 17
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 18
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 20
+      },
+      {
+        "legacyUserId": 23,
+        "textId": 22
+      },
+      {
+        "legacyUserId": 38,
+        "textId": 10
+      },
+      {
+        "legacyUserId": 38,
+        "textId": 58
+      },
+      {
+        "legacyUserId": 38,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 38,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 38,
+        "textId": 82
+      },
+      {
+        "legacyUserId": 39,
+        "textId": 40
+      },
+      {
+        "legacyUserId": 39,
+        "textId": 71
+      },
+      {
+        "legacyUserId": 39,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 39,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 40,
+        "textId": 16
+      },
+      {
+        "legacyUserId": 40,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 40,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 41,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 43,
+        "textId": 56
+      },
+      {
+        "legacyUserId": 43,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 43,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 44,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 44,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 45,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 45,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 46,
+        "textId": 7
+      },
+      {
+        "legacyUserId": 49,
+        "textId": 8
+      },
+      {
+        "legacyUserId": 50,
+        "textId": 67
+      },
+      {
+        "legacyUserId": 50,
+        "textId": 69
+      },
+      {
+        "legacyUserId": 50,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 50,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 50,
+        "textId": 85
+      },
+      {
+        "legacyUserId": 51,
+        "textId": 16
+      },
+      {
+        "legacyUserId": 51,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 51,
+        "textId": 77
+      },
+      {
+        "legacyUserId": 51,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 52,
+        "textId": 16
+      },
+      {
+        "legacyUserId": 52,
+        "textId": 32
+      },
+      {
+        "legacyUserId": 52,
+        "textId": 35
+      },
+      {
+        "legacyUserId": 52,
+        "textId": 71
+      },
+      {
+        "legacyUserId": 52,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 52,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 53,
+        "textId": 13
+      },
+      {
+        "legacyUserId": 53,
+        "textId": 22
+      },
+      {
+        "legacyUserId": 53,
+        "textId": 67
+      },
+      {
+        "legacyUserId": 53,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 53,
+        "textId": 77
+      },
+      {
+        "legacyUserId": 53,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 55,
+        "textId": 32
+      },
+      {
+        "legacyUserId": 56,
+        "textId": 7
+      },
+      {
+        "legacyUserId": 57,
+        "textId": 22
+      },
+      {
+        "legacyUserId": 57,
+        "textId": 37
+      },
+      {
+        "legacyUserId": 57,
+        "textId": 44
+      },
+      {
+        "legacyUserId": 57,
+        "textId": 68
+      },
+      {
+        "legacyUserId": 57,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 57,
+        "textId": 77
+      },
+      {
+        "legacyUserId": 57,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 57,
+        "textId": 82
+      },
+      {
+        "legacyUserId": 60,
+        "textId": 22
+      },
+      {
+        "legacyUserId": 60,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 60,
+        "textId": 79
+      },
+      {
+        "legacyUserId": 60,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 61,
+        "textId": 38
+      },
+      {
+        "legacyUserId": 61,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 61,
+        "textId": 77
+      },
+      {
+        "legacyUserId": 61,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 62,
+        "textId": 64
+      },
+      {
+        "legacyUserId": 62,
+        "textId": 65
+      },
+      {
+        "legacyUserId": 62,
+        "textId": 69
+      },
+      {
+        "legacyUserId": 62,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 62,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 63,
+        "textId": 8
+      },
+      {
+        "legacyUserId": 63,
+        "textId": 21
+      },
+      {
+        "legacyUserId": 63,
+        "textId": 22
+      },
+      {
+        "legacyUserId": 63,
+        "textId": 34
+      },
+      {
+        "legacyUserId": 63,
+        "textId": 37
+      },
+      {
+        "legacyUserId": 63,
+        "textId": 41
+      },
+      {
+        "legacyUserId": 63,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 63,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 64,
+        "textId": 20
+      },
+      {
+        "legacyUserId": 64,
+        "textId": 54
+      },
+      {
+        "legacyUserId": 64,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 64,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 65,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 65,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 65,
+        "textId": 85
+      },
+      {
+        "legacyUserId": 66,
+        "textId": 11
+      },
+      {
+        "legacyUserId": 67,
+        "textId": 7
+      },
+      {
+        "legacyUserId": 68,
+        "textId": 7
+      },
+      {
+        "legacyUserId": 68,
+        "textId": 8
+      },
+      {
+        "legacyUserId": 70,
+        "textId": 7
+      },
+      {
+        "legacyUserId": 70,
+        "textId": 62
+      },
+      {
+        "legacyUserId": 70,
+        "textId": 70
+      },
+      {
+        "legacyUserId": 70,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 70,
+        "textId": 79
+      },
+      {
+        "legacyUserId": 70,
+        "textId": 80
+      },
+      {
+        "legacyUserId": 71,
+        "textId": 28
+      },
+      {
+        "legacyUserId": 71,
+        "textId": 43
+      },
+      {
+        "legacyUserId": 71,
+        "textId": 65
+      },
+      {
+        "legacyUserId": 71,
+        "textId": 75
+      },
+      {
+        "legacyUserId": 71,
+        "textId": 80
+      }
+    ]
+  },
+  "byQuestion": [
+    {
+      "textId": 7,
+      "questionNumber": 1,
+      "recordingCount": 29,
+      "annotationCount": 23,
+      "variantTargetCount": 8
+    },
+    {
+      "textId": 8,
+      "questionNumber": 2,
+      "recordingCount": 28,
+      "annotationCount": 22,
+      "variantTargetCount": 5
+    },
+    {
+      "textId": 9,
+      "questionNumber": 3,
+      "recordingCount": 26,
+      "annotationCount": 23,
+      "variantTargetCount": 7
+    },
+    {
+      "textId": 10,
+      "questionNumber": 4,
+      "recordingCount": 24,
+      "annotationCount": 21,
+      "variantTargetCount": 3
+    },
+    {
+      "textId": 11,
+      "questionNumber": 5,
+      "recordingCount": 25,
+      "annotationCount": 22,
+      "variantTargetCount": 1
+    },
+    {
+      "textId": 12,
+      "questionNumber": 6,
+      "recordingCount": 25,
+      "annotationCount": 22,
+      "variantTargetCount": 5
+    },
+    {
+      "textId": 13,
+      "questionNumber": 7,
+      "recordingCount": 26,
+      "annotationCount": 23,
+      "variantTargetCount": 5
+    },
+    {
+      "textId": 14,
+      "questionNumber": 8,
+      "recordingCount": 24,
+      "annotationCount": 22,
+      "variantTargetCount": 4
+    },
+    {
+      "textId": 15,
+      "questionNumber": 9,
+      "recordingCount": 24,
+      "annotationCount": 22,
+      "variantTargetCount": 6
+    },
+    {
+      "textId": 16,
+      "questionNumber": 10,
+      "recordingCount": 23,
+      "annotationCount": 19,
+      "variantTargetCount": 5
+    },
+    {
+      "textId": 17,
+      "questionNumber": 11,
+      "recordingCount": 23,
+      "annotationCount": 21,
+      "variantTargetCount": 5
+    },
+    {
+      "textId": 18,
+      "questionNumber": 12,
+      "recordingCount": 21,
+      "annotationCount": 19,
+      "variantTargetCount": 5
+    },
+    {
+      "textId": 19,
+      "questionNumber": 13,
+      "recordingCount": 22,
+      "annotationCount": 21,
+      "variantTargetCount": 6
+    },
+    {
+      "textId": 20,
+      "questionNumber": 14,
+      "recordingCount": 23,
+      "annotationCount": 20,
+      "variantTargetCount": 5
+    },
+    {
+      "textId": 21,
+      "questionNumber": 15,
+      "recordingCount": 22,
+      "annotationCount": 20,
+      "variantTargetCount": 13
+    },
+    {
+      "textId": 22,
+      "questionNumber": 16,
+      "recordingCount": 23,
+      "annotationCount": 17,
+      "variantTargetCount": 2
+    },
+    {
+      "textId": 23,
+      "questionNumber": 17,
+      "recordingCount": 23,
+      "annotationCount": 22,
+      "variantTargetCount": 2
+    },
+    {
+      "textId": 24,
+      "questionNumber": 18,
+      "recordingCount": 22,
+      "annotationCount": 21,
+      "variantTargetCount": 4
+    },
+    {
+      "textId": 25,
+      "questionNumber": 19,
+      "recordingCount": 22,
+      "annotationCount": 21,
+      "variantTargetCount": 5
+    },
+    {
+      "textId": 26,
+      "questionNumber": 20,
+      "recordingCount": 22,
+      "annotationCount": 21,
+      "variantTargetCount": 6
+    },
+    {
+      "textId": 27,
+      "questionNumber": 21,
+      "recordingCount": 22,
+      "annotationCount": 21,
+      "variantTargetCount": 3
+    },
+    {
+      "textId": 28,
+      "questionNumber": 22,
+      "recordingCount": 22,
+      "annotationCount": 20,
+      "variantTargetCount": 3
+    },
+    {
+      "textId": 29,
+      "questionNumber": 23,
+      "recordingCount": 22,
+      "annotationCount": 21,
+      "variantTargetCount": 4
+    },
+    {
+      "textId": 30,
+      "questionNumber": 24,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 6
+    },
+    {
+      "textId": 31,
+      "questionNumber": 25,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 3
+    },
+    {
+      "textId": 32,
+      "questionNumber": 26,
+      "recordingCount": 23,
+      "annotationCount": 20,
+      "variantTargetCount": 2
+    },
+    {
+      "textId": 33,
+      "questionNumber": 27,
+      "recordingCount": 22,
+      "annotationCount": 21,
+      "variantTargetCount": 4
+    },
+    {
+      "textId": 34,
+      "questionNumber": 28,
+      "recordingCount": 22,
+      "annotationCount": 20,
+      "variantTargetCount": 6
+    },
+    {
+      "textId": 35,
+      "questionNumber": 29,
+      "recordingCount": 23,
+      "annotationCount": 21,
+      "variantTargetCount": 6
+    },
+    {
+      "textId": 36,
+      "questionNumber": 30,
+      "recordingCount": 22,
+      "annotationCount": 21,
+      "variantTargetCount": 9
+    },
+    {
+      "textId": 37,
+      "questionNumber": 31,
+      "recordingCount": 22,
+      "annotationCount": 20,
+      "variantTargetCount": 6
+    },
+    {
+      "textId": 38,
+      "questionNumber": 32,
+      "recordingCount": 22,
+      "annotationCount": 20,
+      "variantTargetCount": 5
+    },
+    {
+      "textId": 39,
+      "questionNumber": 33,
+      "recordingCount": 22,
+      "annotationCount": 21,
+      "variantTargetCount": 9
+    },
+    {
+      "textId": 40,
+      "questionNumber": 34,
+      "recordingCount": 23,
+      "annotationCount": 20,
+      "variantTargetCount": 4
+    },
+    {
+      "textId": 41,
+      "questionNumber": 35,
+      "recordingCount": 22,
+      "annotationCount": 20,
+      "variantTargetCount": 6
+    },
+    {
+      "textId": 42,
+      "questionNumber": 36,
+      "recordingCount": 22,
+      "annotationCount": 21,
+      "variantTargetCount": 8
+    },
+    {
+      "textId": 43,
+      "questionNumber": 37,
+      "recordingCount": 22,
+      "annotationCount": 20,
+      "variantTargetCount": 3
+    },
+    {
+      "textId": 44,
+      "questionNumber": 38,
+      "recordingCount": 22,
+      "annotationCount": 20,
+      "variantTargetCount": 6
+    },
+    {
+      "textId": 45,
+      "questionNumber": 39,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 7
+    },
+    {
+      "textId": 46,
+      "questionNumber": 40,
+      "recordingCount": 22,
+      "annotationCount": 21,
+      "variantTargetCount": 5
+    },
+    {
+      "textId": 47,
+      "questionNumber": 41,
+      "recordingCount": 22,
+      "annotationCount": 21,
+      "variantTargetCount": 4
+    },
+    {
+      "textId": 48,
+      "questionNumber": 42,
+      "recordingCount": 22,
+      "annotationCount": 21,
+      "variantTargetCount": 5
+    },
+    {
+      "textId": 49,
+      "questionNumber": 43,
+      "recordingCount": 22,
+      "annotationCount": 21,
+      "variantTargetCount": 4
+    },
+    {
+      "textId": 50,
+      "questionNumber": 44,
+      "recordingCount": 22,
+      "annotationCount": 21,
+      "variantTargetCount": 4
+    },
+    {
+      "textId": 51,
+      "questionNumber": 45,
+      "recordingCount": 22,
+      "annotationCount": 21,
+      "variantTargetCount": 4
+    },
+    {
+      "textId": 52,
+      "questionNumber": 46,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 6
+    },
+    {
+      "textId": 53,
+      "questionNumber": 47,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 2
+    },
+    {
+      "textId": 54,
+      "questionNumber": 48,
+      "recordingCount": 21,
+      "annotationCount": 19,
+      "variantTargetCount": 3
+    },
+    {
+      "textId": 55,
+      "questionNumber": 49,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 9
+    },
+    {
+      "textId": 56,
+      "questionNumber": 50,
+      "recordingCount": 21,
+      "annotationCount": 19,
+      "variantTargetCount": 5
+    },
+    {
+      "textId": 57,
+      "questionNumber": 51,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 4
+    },
+    {
+      "textId": 58,
+      "questionNumber": 52,
+      "recordingCount": 21,
+      "annotationCount": 19,
+      "variantTargetCount": 4
+    },
+    {
+      "textId": 59,
+      "questionNumber": 53,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 2
+    },
+    {
+      "textId": 60,
+      "questionNumber": 54,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 4
+    },
+    {
+      "textId": 61,
+      "questionNumber": 55,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 3
+    },
+    {
+      "textId": 62,
+      "questionNumber": 56,
+      "recordingCount": 21,
+      "annotationCount": 19,
+      "variantTargetCount": 3
+    },
+    {
+      "textId": 63,
+      "questionNumber": 57,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 4
+    },
+    {
+      "textId": 64,
+      "questionNumber": 58,
+      "recordingCount": 21,
+      "annotationCount": 19,
+      "variantTargetCount": 3
+    },
+    {
+      "textId": 65,
+      "questionNumber": 59,
+      "recordingCount": 21,
+      "annotationCount": 18,
+      "variantTargetCount": 3
+    },
+    {
+      "textId": 66,
+      "questionNumber": 60,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 5
+    },
+    {
+      "textId": 67,
+      "questionNumber": 61,
+      "recordingCount": 20,
+      "annotationCount": 17,
+      "variantTargetCount": 4
+    },
+    {
+      "textId": 68,
+      "questionNumber": 62,
+      "recordingCount": 21,
+      "annotationCount": 19,
+      "variantTargetCount": 2
+    },
+    {
+      "textId": 69,
+      "questionNumber": 63,
+      "recordingCount": 21,
+      "annotationCount": 18,
+      "variantTargetCount": 5
+    },
+    {
+      "textId": 70,
+      "questionNumber": 64,
+      "recordingCount": 21,
+      "annotationCount": 19,
+      "variantTargetCount": 4
+    },
+    {
+      "textId": 71,
+      "questionNumber": 65,
+      "recordingCount": 21,
+      "annotationCount": 18,
+      "variantTargetCount": 3
+    },
+    {
+      "textId": 72,
+      "questionNumber": 66,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 4
+    },
+    {
+      "textId": 73,
+      "questionNumber": 67,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 3
+    },
+    {
+      "textId": 74,
+      "questionNumber": 68,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 5
+    },
+    {
+      "textId": 75,
+      "questionNumber": 69,
+      "recordingCount": 21,
+      "annotationCount": 2,
+      "variantTargetCount": 5
+    },
+    {
+      "textId": 76,
+      "questionNumber": 70,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 4
+    },
+    {
+      "textId": 77,
+      "questionNumber": 71,
+      "recordingCount": 21,
+      "annotationCount": 17,
+      "variantTargetCount": 1
+    },
+    {
+      "textId": 78,
+      "questionNumber": 72,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 2
+    },
+    {
+      "textId": 79,
+      "questionNumber": 73,
+      "recordingCount": 21,
+      "annotationCount": 18,
+      "variantTargetCount": 3
+    },
+    {
+      "textId": 80,
+      "questionNumber": 74,
+      "recordingCount": 21,
+      "annotationCount": 1,
+      "variantTargetCount": 3
+    },
+    {
+      "textId": 81,
+      "questionNumber": 75,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 4
+    },
+    {
+      "textId": 82,
+      "questionNumber": 76,
+      "recordingCount": 21,
+      "annotationCount": 18,
+      "variantTargetCount": 3
+    },
+    {
+      "textId": 83,
+      "questionNumber": 77,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 8
+    },
+    {
+      "textId": 84,
+      "questionNumber": 78,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 2
+    },
+    {
+      "textId": 85,
+      "questionNumber": 79,
+      "recordingCount": 21,
+      "annotationCount": 19,
+      "variantTargetCount": 1
+    },
+    {
+      "textId": 86,
+      "questionNumber": 80,
+      "recordingCount": 21,
+      "annotationCount": 20,
+      "variantTargetCount": 3
+    }
+  ],
+  "metadataCompleteness": [
+    {
+      "field": "origin",
+      "filled": 29,
+      "total": 31
+    },
+    {
+      "field": "gender",
+      "filled": 1,
+      "total": 31
+    },
+    {
+      "field": "accent",
+      "filled": 1,
+      "total": 31
+    },
+    {
+      "field": "residenceCounty",
+      "filled": 0,
+      "total": 31
+    },
+    {
+      "field": "residenceTown",
+      "filled": 0,
+      "total": 31
+    },
+    {
+      "field": "education",
+      "filled": 1,
+      "total": 31
+    },
+    {
+      "field": "firstLanguage",
+      "filled": 1,
+      "total": 31
+    },
+    {
+      "field": "secondLanguage",
+      "filled": 1,
+      "total": 31
+    }
+  ]
+}

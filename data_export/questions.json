@@ -1,0 +1,562 @@
+[
+  {
+    "textId": 7,
+    "questionNumber": 1,
+    "passageMandarin": "你姓趙對不對",
+    "passageTaiwanese": "你姓趙著毋著",
+    "variantTargetCount": 8
+  },
+  {
+    "textId": 8,
+    "questionNumber": 2,
+    "passageMandarin": "我爸爸皮膚很白",
+    "passageTaiwanese": "阮老父皮膚真白",
+    "variantTargetCount": 5
+  },
+  {
+    "textId": 9,
+    "questionNumber": 3,
+    "passageMandarin": "想要永遠富有",
+    "passageTaiwanese": "想欲永遠好額",
+    "variantTargetCount": 7
+  },
+  {
+    "textId": 10,
+    "questionNumber": 4,
+    "passageMandarin": "今晚來還是有空來",
+    "passageTaiwanese": "ĕng來也是有êng (閒)來",
+    "variantTargetCount": 3
+  },
+  {
+    "textId": 11,
+    "questionNumber": 5,
+    "passageMandarin": "茶葉、袋米、鋤頭、豬頭",
+    "passageTaiwanese": "茶米、袋米、鋤頭、豬頭",
+    "variantTargetCount": 1
+  },
+  {
+    "textId": 12,
+    "questionNumber": 6,
+    "passageMandarin": "阿珠仔、阿蘭仔、阿狗仔、阿賜仔、阿樹仔、阿德仔、阿伯仔、阿達仔、阿月仔、阿熟仔、阿石仔、阿葉仔",
+    "passageTaiwanese": "阿珠仔、阿蘭仔、阿狗仔、阿賜仔、阿樹仔、阿德仔、阿伯仔、阿達仔、阿月仔、阿熟仔、阿石仔、阿葉仔",
+    "variantTargetCount": 5
+  },
+  {
+    "textId": 13,
+    "questionNumber": 7,
+    "passageMandarin": "真的、假的、大的、小的、紅的、黑的、生的、厚的、金的、銀的、第七的、金色的、銀色的、鐵的、熟的、薄的",
+    "passageTaiwanese": "真的、假的、大的、小的、紅的、烏的、生的、厚的、金的、銀的、第七的、金色的、銀色的、鐵的、熟的、薄的",
+    "variantTargetCount": 5
+  },
+  {
+    "textId": 14,
+    "questionNumber": 8,
+    "passageMandarin": "正月、二月、三月、四月、五月、九月、十二月、一月、七月、八月、六月、十月",
+    "passageTaiwanese": "正月、二月、三月、四月、五月、九月、十二月、一月、七月、八月、六月、十月",
+    "variantTargetCount": 4
+  },
+  {
+    "textId": 15,
+    "questionNumber": 9,
+    "passageMandarin": "輸矣、贏矣、走矣、去矣、壞矣、有消息矣、雞仔大隻矣，皮有削矣、有熟矣、有食矣",
+    "passageTaiwanese": "輸矣、贏矣、走矣、去矣、壞矣、有消息矣、雞仔大隻矣，皮有削矣、有熟矣、有食矣",
+    "variantTargetCount": 6
+  },
+  {
+    "textId": 16,
+    "questionNumber": 10,
+    "passageMandarin": "關著、有人在、坐著、蹲著、弔著、躺著、趴著、塞住、綁住、石頭等重物抱著、壓咧、趴著、綁著、提著",
+    "passageTaiwanese": "關咧、有人佇咧、坐咧、khû (跍)咧、弔咧、倒咧、phak (覆)咧、that(窒)咧、束咧、Mo͘ h咧、硩咧、phih(躄)咧、縛咧、提咧",
+    "variantTargetCount": 5
+  },
+  {
+    "textId": 17,
+    "questionNumber": 11,
+    "passageMandarin": "挑過來、抱來、提來、送來、行來、跑過來、解開拿過來、撿過來、綁起來抓來、拿來、抓來",
+    "passageTaiwanese": "擔來、抱來、捾來、送來、行來、走來、剝來、抾來、縛來、提來、掠來",
+    "variantTargetCount": 5
+  },
+  {
+    "textId": 18,
+    "questionNumber": 12,
+    "passageMandarin": "挑過去、抱去、暈去、行去、送去、走去、解開拿去、撿起來拿去、綁起來抓去、拿去、抓去",
+    "passageTaiwanese": "擔去、抱去、暈去、行去、送去、走去、剝去、抾去、縛去、提去、掠去",
+    "variantTargetCount": 5
+  },
+  {
+    "textId": 19,
+    "questionNumber": 13,
+    "passageMandarin": "挑起來、抱起來、提起來、送起來、走上來、跑上來、解下來、撿起來拿上來、綁起來、提起來、抓起來",
+    "passageTaiwanese": "擔起來、抱起來、捾起來、送起來、行起來、走起來、剝起來、抾起來、縛起來、提起來、掠起來",
+    "variantTargetCount": 6
+  },
+  {
+    "textId": 20,
+    "questionNumber": 14,
+    "passageMandarin": "挑下來、抱下來、提下來、送下來、走下來、跑下來、解開拿下來、上面的東西撿下來、綁起來抓下來、拿下來",
+    "passageTaiwanese": "擔落來、抱落來、捾落來、送落來、行落來、走落來、剝落來、抾落來、縛落來、提落來",
+    "variantTargetCount": 5
+  },
+  {
+    "textId": 21,
+    "questionNumber": 15,
+    "passageMandarin": "小狗、桌子、鋸子、刷子、樹木、小豬、金子、手機、膿瘡、小偷、小狗、鉤子、小狗、小孩、椅子",
+    "passageTaiwanese": "狗仔、桌仔、鋸仔、chhè-á (刷子)、樹仔、豬仔、金仔、手機仔、粒仔、賊仔、狗仔、鉤仔、狗仔、囝仔、椅仔",
+    "variantTargetCount": 13
+  },
+  {
+    "textId": 22,
+    "questionNumber": 16,
+    "passageMandarin": "寫字，寫了二十二字",
+    "passageTaiwanese": "寫字，寫二十二字",
+    "variantTargetCount": 2
+  },
+  {
+    "textId": 23,
+    "questionNumber": 17,
+    "passageMandarin": "夏天太陽很大",
+    "passageTaiwanese": "熱天日頭真大",
+    "variantTargetCount": 2
+  },
+  {
+    "textId": 24,
+    "questionNumber": 18,
+    "passageMandarin": "生活富足忍耐吃豆腐乳",
+    "passageTaiwanese": "生活富裕忍耐食豆乳",
+    "variantTargetCount": 4
+  },
+  {
+    "textId": 25,
+    "questionNumber": 19,
+    "passageMandarin": "閏月、進來、吃潤餅、皮很有韌性",
+    "passageTaiwanese": "閏月、入來、食潤餅、皮真韌\r\n",
+    "variantTargetCount": 5
+  },
+  {
+    "textId": 26,
+    "questionNumber": 20,
+    "passageMandarin": "我的小孩不會說英語",
+    "passageTaiwanese": "阮囝袂曉講英語",
+    "variantTargetCount": 6
+  },
+  {
+    "textId": 27,
+    "questionNumber": 21,
+    "passageMandarin": "糕餅好吃、漿糊不好吃",
+    "passageTaiwanese": "糕仔好食、糊仔毋好食",
+    "variantTargetCount": 3
+  },
+  {
+    "textId": 28,
+    "questionNumber": 22,
+    "passageMandarin": "海裡出產蚵仔，山裡出產芋頭",
+    "passageTaiwanese": "海裡出蚵仔，山裡出芋仔",
+    "variantTargetCount": 3
+  },
+  {
+    "textId": 29,
+    "questionNumber": 23,
+    "passageMandarin": "一雙襪子一隻鞋",
+    "passageTaiwanese": "一雙襪子一跤鞋",
+    "variantTargetCount": 4
+  },
+  {
+    "textId": 30,
+    "questionNumber": 24,
+    "passageMandarin": "我妹妹逛街要買針",
+    "passageTaiwanese": "阮小妹踅街要買針",
+    "variantTargetCount": 6
+  },
+  {
+    "textId": 31,
+    "questionNumber": 25,
+    "passageMandarin": "我們沒有勸利罵人",
+    "passageTaiwanese": "咱無權利罵人",
+    "variantTargetCount": 3
+  },
+  {
+    "textId": 32,
+    "questionNumber": 26,
+    "passageMandarin": "習慣住台北縣",
+    "passageTaiwanese": "慣勢蹛台北縣",
+    "variantTargetCount": 2
+  },
+  {
+    "textId": 33,
+    "questionNumber": 27,
+    "passageMandarin": "磨年糕要過年",
+    "passageTaiwanese": "挨粿欲過年",
+    "variantTargetCount": 4
+  },
+  {
+    "textId": 34,
+    "questionNumber": 28,
+    "passageMandarin": "豆腐乳兩塊要八角錢",
+    "passageTaiwanese": "豆乳兩塊八角銀",
+    "variantTargetCount": 6
+  },
+  {
+    "textId": 35,
+    "questionNumber": 29,
+    "passageMandarin": "是問「要不要」、不問「會不會」",
+    "passageTaiwanese": "是問「欲也毋」、無問「會也袂」",
+    "variantTargetCount": 6
+  },
+  {
+    "textId": 36,
+    "questionNumber": 30,
+    "passageMandarin": "月初買土地、月底就要賣",
+    "passageTaiwanese": "月初買土地、月底著要賣",
+    "variantTargetCount": 9
+  },
+  {
+    "textId": 37,
+    "questionNumber": 31,
+    "passageMandarin": "清明節揉死螞蟻",
+    "passageTaiwanese": "清明節挼死狗蟻",
+    "variantTargetCount": 6
+  },
+  {
+    "textId": 38,
+    "questionNumber": 32,
+    "passageMandarin": "你去市場買魚",
+    "passageTaiwanese": "你去市仔買魚仔",
+    "variantTargetCount": 5
+  },
+  {
+    "textId": 39,
+    "questionNumber": 33,
+    "passageMandarin": "地瓜園裡有很多老鼠",
+    "passageTaiwanese": "番薯園內底真濟老鼠",
+    "variantTargetCount": 9
+  },
+  {
+    "textId": 40,
+    "questionNumber": 34,
+    "passageMandarin": "母火雞孵蛋",
+    "passageTaiwanese": "火雞母孵卵",
+    "variantTargetCount": 4
+  },
+  {
+    "textId": 41,
+    "questionNumber": 35,
+    "passageMandarin": "媒人牽新娘跨過門檻",
+    "passageTaiwanese": "媒人牽新娘迒過戶橂",
+    "variantTargetCount": 6
+  },
+  {
+    "textId": 42,
+    "questionNumber": 36,
+    "passageMandarin": "回信說他後悔做貿易",
+    "passageTaiwanese": "回批講伊後悔做貿易",
+    "variantTargetCount": 8
+  },
+  {
+    "textId": 43,
+    "questionNumber": 37,
+    "passageMandarin": "吃稀飯配梅子",
+    "passageTaiwanese": "食糜仔配梅仔",
+    "variantTargetCount": 3
+  },
+  {
+    "textId": 44,
+    "questionNumber": 38,
+    "passageMandarin": "豬血糕算塊不算斤",
+    "passageTaiwanese": "豬血粿算塊無算斤",
+    "variantTargetCount": 6
+  },
+  {
+    "textId": 45,
+    "questionNumber": 39,
+    "passageMandarin": "穿皮鞋追汽車",
+    "passageTaiwanese": "穿皮鞋逐自動車",
+    "variantTargetCount": 7
+  },
+  {
+    "textId": 46,
+    "questionNumber": 40,
+    "passageMandarin": "月底月初、年頭年尾",
+    "passageTaiwanese": "月底月初、年頭年尾",
+    "variantTargetCount": 5
+  },
+  {
+    "textId": 47,
+    "questionNumber": 41,
+    "passageMandarin": "飛機飛得很高",
+    "passageTaiwanese": "飛行機飛真懸",
+    "variantTargetCount": 4
+  },
+  {
+    "textId": 48,
+    "questionNumber": 42,
+    "passageMandarin": "三歲小孩做不了什麼事",
+    "passageTaiwanese": "三歲囝仔做無工課",
+    "variantTargetCount": 5
+  },
+  {
+    "textId": 49,
+    "questionNumber": 43,
+    "passageMandarin": "三更半夜生病叫醫生來把脈",
+    "passageTaiwanese": "三更半暝破病叫醫生來節脈",
+    "variantTargetCount": 4
+  },
+  {
+    "textId": 50,
+    "questionNumber": 44,
+    "passageMandarin": "瞎子生孩子",
+    "passageTaiwanese": "青盲仔生囝",
+    "variantTargetCount": 4
+  },
+  {
+    "textId": 51,
+    "questionNumber": 45,
+    "passageMandarin": "三餐吃飯配滷蛋",
+    "passageTaiwanese": "三頓食飯配滷卵",
+    "variantTargetCount": 4
+  },
+  {
+    "textId": 52,
+    "questionNumber": 46,
+    "passageMandarin": "拿筷子夾菜",
+    "passageTaiwanese": "攑箸夾菜",
+    "variantTargetCount": 6
+  },
+  {
+    "textId": 53,
+    "questionNumber": 47,
+    "passageMandarin": "讀書照順序、考試很順利",
+    "passageTaiwanese": "讀書照順序、考試真順利",
+    "variantTargetCount": 2
+  },
+  {
+    "textId": 54,
+    "questionNumber": 48,
+    "passageMandarin": "豬尾短短",
+    "passageTaiwanese": "豬尾短短",
+    "variantTargetCount": 3
+  },
+  {
+    "textId": 55,
+    "questionNumber": 49,
+    "passageMandarin": "落雪、倒退、豆莢、煮飯、根據、警務處",
+    "passageTaiwanese": "落雪、倒退、豆莢、煮飯、根據、警務處",
+    "variantTargetCount": 9
+  },
+  {
+    "textId": 56,
+    "questionNumber": 50,
+    "passageMandarin": "拿鋤頭翻土種桃子、拿鋤頭翻土種花生",
+    "passageTaiwanese": "舉鋤頭掘塗種桃仔、舉鋤頭掘塗種塗豆",
+    "variantTargetCount": 5
+  },
+  {
+    "textId": 57,
+    "questionNumber": 51,
+    "passageMandarin": "豬腳筋炒芹菜",
+    "passageTaiwanese": "豬腳筋炒芹菜",
+    "variantTargetCount": 4
+  },
+  {
+    "textId": 58,
+    "questionNumber": 52,
+    "passageMandarin": "香蕉一斤多少錢",
+    "passageTaiwanese": "弓蕉一斤偌濟錢",
+    "variantTargetCount": 4
+  },
+  {
+    "textId": 59,
+    "questionNumber": 53,
+    "passageMandarin": "手巾包樹根",
+    "passageTaiwanese": "手巾包樹根",
+    "variantTargetCount": 2
+  },
+  {
+    "textId": 60,
+    "questionNumber": 54,
+    "passageMandarin": "林森路蔘藥店有在賣人蔘",
+    "passageTaiwanese": "林森路蔘仔店有咧賣人參",
+    "variantTargetCount": 4
+  },
+  {
+    "textId": 61,
+    "questionNumber": 55,
+    "passageMandarin": "冰棒冷冷硬硬",
+    "passageTaiwanese": "枝仔冰冷冷𠕇𠕇",
+    "variantTargetCount": 3
+  },
+  {
+    "textId": 62,
+    "questionNumber": 56,
+    "passageMandarin": "煎魚要翻面",
+    "passageTaiwanese": "煎魚仔愛反爿",
+    "variantTargetCount": 3
+  },
+  {
+    "textId": 63,
+    "questionNumber": 57,
+    "passageMandarin": "還錢、房間、倒過來、東西",
+    "passageTaiwanese": "還錢、房間、倒反、物件",
+    "variantTargetCount": 4
+  },
+  {
+    "textId": 64,
+    "questionNumber": 58,
+    "passageMandarin": "芒果酸酸軟軟的",
+    "passageTaiwanese": "檨仔酸酸軟軟",
+    "variantTargetCount": 3
+  },
+  {
+    "textId": 65,
+    "questionNumber": 59,
+    "passageMandarin": "新官心裡很想升官",
+    "passageTaiwanese": "新官心肝內真愛升官",
+    "variantTargetCount": 3
+  },
+  {
+    "textId": 66,
+    "questionNumber": 60,
+    "passageMandarin": "公園約會放風箏",
+    "passageTaiwanese": "公園約會放風吹",
+    "variantTargetCount": 5
+  },
+  {
+    "textId": 67,
+    "questionNumber": 61,
+    "passageMandarin": "去小兒科看耳朵跟鼻子",
+    "passageTaiwanese": "去小兒科看耳仔佮鼻",
+    "variantTargetCount": 4
+  },
+  {
+    "textId": 68,
+    "questionNumber": 62,
+    "passageMandarin": "沒頭髮有頭腦",
+    "passageTaiwanese": "無頭毛有頭腦",
+    "variantTargetCount": 2
+  },
+  {
+    "textId": 69,
+    "questionNumber": 63,
+    "passageMandarin": "和尚咬薑屁股癢",
+    "passageTaiwanese": "和尚咬薑尻川癢",
+    "variantTargetCount": 5
+  },
+  {
+    "textId": 70,
+    "questionNumber": 64,
+    "passageMandarin": "思想自由有未來",
+    "passageTaiwanese": "思想自由有將來",
+    "variantTargetCount": 4
+  },
+  {
+    "textId": 71,
+    "questionNumber": 65,
+    "passageMandarin": "英雄落魄真可憐",
+    "passageTaiwanese": "英雄落魄真可憐",
+    "variantTargetCount": 3
+  },
+  {
+    "textId": 72,
+    "questionNumber": 66,
+    "passageMandarin": "說夢話、作夢",
+    "passageTaiwanese": "陷眠、眠夢",
+    "variantTargetCount": 4
+  },
+  {
+    "textId": 73,
+    "questionNumber": 67,
+    "passageMandarin": "天亮、姓黃、真遠",
+    "passageTaiwanese": "天光、姓黃、真遠",
+    "variantTargetCount": 3
+  },
+  {
+    "textId": 74,
+    "questionNumber": 68,
+    "passageMandarin": "鴨子、狸猫、沙子、小調、小狗、小孩子、椅子、印章、秤、鐵、桌子、橘子、金子、刀子、胡琴、螃蟹、樹木、芋頭、袋子、藥、沙石、草蓆、鑷子、小偷",
+    "passageTaiwanese": "鴨仔、狸仔、沙仔、歌仔、狗仔、囝仔、椅仔、印仔、秤仔、鐵仔、桌仔、柑仔、金仔、刀仔、絃仔、蟳仔、樹仔、芋仔、袋仔、藥仔、沙石仔、草蓆仔、夾仔、賊仔",
+    "variantTargetCount": 5
+  },
+  {
+    "textId": 75,
+    "questionNumber": 69,
+    "passageMandarin": "黑衣、黑面、紅衣、紅面、大人、大雨、白沙、白飯、六千、六萬",
+    "passageTaiwanese": "烏衫、烏面、紅衫、紅面、大人、大雨、白沙、白飯、六千、六萬",
+    "variantTargetCount": 5
+  },
+  {
+    "textId": 76,
+    "questionNumber": 70,
+    "passageMandarin": "借鏡、照鏡",
+    "passageTaiwanese": "借鏡、照鏡",
+    "variantTargetCount": 4
+  },
+  {
+    "textId": 77,
+    "questionNumber": 71,
+    "passageMandarin": "牛",
+    "passageTaiwanese": "牛",
+    "variantTargetCount": 1
+  },
+  {
+    "textId": 78,
+    "questionNumber": 72,
+    "passageMandarin": "無火、無貨",
+    "passageTaiwanese": "無火、無貨",
+    "variantTargetCount": 2
+  },
+  {
+    "textId": 79,
+    "questionNumber": 73,
+    "passageMandarin": "先休息一陣子才去睡覺",
+    "passageTaiwanese": "先歇睏一睏仔才去睏",
+    "variantTargetCount": 3
+  },
+  {
+    "textId": 80,
+    "questionNumber": 74,
+    "passageMandarin": "教訓、鉸死",
+    "passageTaiwanese": "教示、鉸死",
+    "variantTargetCount": 3
+  },
+  {
+    "textId": 81,
+    "questionNumber": 75,
+    "passageMandarin": "台中、高雄、不得已、拍照",
+    "passageTaiwanese": "台中、高雄、姑不將、翕相",
+    "variantTargetCount": 4
+  },
+  {
+    "textId": 82,
+    "questionNumber": 76,
+    "passageMandarin": "水桶漏、人老",
+    "passageTaiwanese": "水桶漏、人老",
+    "variantTargetCount": 3
+  },
+  {
+    "textId": 83,
+    "questionNumber": 77,
+    "passageMandarin": "起來、爬起來、下來、滾動下來、上去、爬上去、下去、滾動下去",
+    "passageTaiwanese": "起來、爬起來、落來、輾落來、起去、爬起去、落去、輾落去",
+    "variantTargetCount": 8
+  },
+  {
+    "textId": 84,
+    "questionNumber": 78,
+    "passageMandarin": "掃把、舒服",
+    "passageTaiwanese": "掃帚、快活",
+    "variantTargetCount": 2
+  },
+  {
+    "textId": 85,
+    "questionNumber": 79,
+    "passageMandarin": "哪裡",
+    "passageTaiwanese": "佗位",
+    "variantTargetCount": 1
+  },
+  {
+    "textId": 86,
+    "questionNumber": 80,
+    "passageMandarin": "他打我，不是我打他、不要跟他買、幫我洗衣",
+    "passageTaiwanese": "伊拍我，不是我拍伊、不要共伊買、幫我洗衫",
+    "variantTargetCount": 3
+  }
+]
